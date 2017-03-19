@@ -1,6 +1,6 @@
 function drawRegionsMap() {
     var jsonData = $.ajax({
-        url: 'https://raw.githubusercontent.com/JeromeLeLan/watched/master/generated/countryStats.json',
+        url: 'js/countryStats.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();
@@ -22,7 +22,7 @@ function drawRegionsMap() {
 
 function drawYearChart() {
     var jsonData = $.ajax({
-        url: 'https://raw.githubusercontent.com/JeromeLeLan/watched/master/generated/yearStats.json',
+        url: 'js/yearStats.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();
@@ -44,7 +44,7 @@ function drawYearChart() {
 
 function drawGenreChart() {
     var jsonData = $.ajax({
-        url: 'https://raw.githubusercontent.com/JeromeLeLan/watched/master/generated/genreStats.json',
+        url: 'js/genreStats.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();

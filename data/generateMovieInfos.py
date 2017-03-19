@@ -32,17 +32,17 @@ def generateMovieInfos():
 				for genre in response["Genre"].split(","):
 					genre = genre.strip()
 					genreStats[genre] = genreStats.get(genre, 0) + 1
-	file = open("../generated/watched.json", "w")
+	file = open("../js/watched.json", "w")
 	file.write(json.dumps(result, indent=4, separators=(',', ': ')))
 	file.close()
-	file = open("../generated/countryStats.json", "w")
+	file = open("../js/countryStats.json", "w")
 	file.write(json.dumps(countryStats, indent=4, separators=(',', ': ')))
 	file.close()
 	yearStatsSorted = collections.OrderedDict(sorted(yearStats.items()))
-	file = open("../generated/yearStats.json", "w")
+	file = open("../js/yearStats.json", "w")
 	file.write(json.dumps(yearStatsSorted, indent=4, separators=(',', ': ')))
 	file.close()
-	file = open("../generated/genreStats.json", "w")
+	file = open("../js/genreStats.json", "w")
 	file.write(json.dumps(genreStats, indent=4, separators=(',', ': ')))
 	file.close()
 
