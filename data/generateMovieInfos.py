@@ -1,10 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import json, urllib2, math, collections
+import sys, time, json, urllib2, math, collections
 
 watchedList = "watched.txt"
 
+def getTheMovieDBApiKey():
+	with open("../private/themoviedb.apikey", "rU") as f:
+		for line in f:
+			apiKey = line
+	return apiKey
+
 def generateMovieInfos():
+	apiKey = getTheMovieDBApiKey()
 	result = []
 	countryStats = dict()
 	yearStats = dict()
@@ -13,25 +20,25 @@ def generateMovieInfos():
 		for movie in f:
 			watchDate, imdbId, rating = movie.strip().split(" ")
 			if movie:
-				print "GET movie ID " + imdbId
-				response = json.load(urllib2.urlopen("http://www.omdbapi.com/?i=tt"+imdbId+"&tomatoes=true"))
-				print "  -> Title: " + response["Title"].encode('utf-8')
+				print "GET movie ID " + imdbId,
+				url = "https://api.themoviedb.org/3/movie/tt" + imdbId + "?api_key=" + apiKey + "&language=en-US"
+				response = json.load(urllib2.urlopen(url))
+				print "-> " + response["original_title"].encode('utf-8'),
 				response["watchDate"] = watchDate
 				response["personalRating"] = rating
-				result.append(response)
-				for country in response["Country"].split(","):
-					country = country.strip()
-					country = country.replace("USA", "United States")
-					country = country.replace("West Germany", "Germany")
-					country = country.replace("Czechoslovakia", "Czechia")
-					country = country.replace("Soviet Union", "RU")
-					country = country.replace("UK", "United Kingdom")
-					countryStats[country] = countryStats.get(country, 0) + 1
-				decade = str(int(math.floor(int(response["Year"]) / 10) * 10)) + 's'
+				result.append(response)				
+				decade = str(int(math.floor(int(response["release_date"][0:4]) / 10) * 10)) + 's'
+				print " - " + decade
 				yearStats[decade] = yearStats.get(decade, 0) + 1
-				for genre in response["Genre"].split(","):
-					genre = genre.strip()
-					genreStats[genre] = genreStats.get(genre, 0) + 1
+				for country in response["production_countries"]:
+					countryISO = country["iso_3166_1"]
+					countryISO = countryISO.replace("SU", "RU")
+					countryStats[countryISO] = countryStats.get(countryISO, 0) + 1
+				for genre in response["genres"]:
+					genreName = genre["name"]
+					genreStats[genreName] = genreStats.get(genreName, 0) + 1
+				sys.stdout.flush()
+				time.sleep(0.3)
 	file = open("../js/watched.json", "w")
 	file.write(json.dumps(result, indent=4, separators=(',', ': ')))
 	file.close()
