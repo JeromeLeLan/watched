@@ -1,13 +1,13 @@
 function drawRegionsMap() {
     var jsonData = $.ajax({
-        url: 'js/countryStats.json',
+        url: 'js/watched.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Country');
         data.addColumn('number', 'Movie count');
 
-        $.each(results, function(index, value) {
+        $.each(results.countries, function(index, value) {
             data.addRow([index,value]);
         });
 
@@ -22,14 +22,14 @@ function drawRegionsMap() {
 
 function drawYearChart() {
     var jsonData = $.ajax({
-        url: 'js/yearStats.json',
+        url: 'js/watched.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Decade');
         data.addColumn('number', 'Movie count');
 
-        $.each(results, function(index, value) {
+        $.each(results.decades, function(index, value) {
             data.addRow([index,value]);
         });
 
@@ -44,20 +44,20 @@ function drawYearChart() {
 
 function drawGenreChart() {
     var jsonData = $.ajax({
-        url: 'js/genreStats.json',
+        url: 'js/watched.json',
         dataType: 'json',
     }).done(function (results) {
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Genre');
         data.addColumn('number', 'Movie count');
 
-        $.each(results, function(index, value) {
+        $.each(results.genres, function(index, value) {
             data.addRow([index,value]);
         });
 
         var options = {
-            pieHole: 0.4,
-            sliceVisibilityThreshold: .02
+            pieHole: 0.3,
+            sliceVisibilityThreshold: .03
         };
         var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
         chart.draw(data, options);
