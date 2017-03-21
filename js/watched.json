@@ -1,4 +1,1719 @@
 {
+    "genres": {
+        "Drama": 189,
+        "Comedy": 70,
+        "Thriller": 64,
+        "Romance": 47,
+        "Science Fiction": 46,
+        "Horror": 42,
+        "Action": 39,
+        "Adventure": 38,
+        "Crime": 37,
+        "Mystery": 33,
+        "Documentary": 26,
+        "Fantasy": 21,
+        "Family": 18,
+        "Animation": 14,
+        "Music": 12,
+        "Western": 6,
+        "War": 6,
+        "History": 6,
+        "Foreign": 2
+    },
+    "countries": {
+        "BE": {
+            "count": 5,
+            "name": "Belgium"
+        },
+        "FR": {
+            "count": 88,
+            "name": "France"
+        },
+        "DK": {
+            "count": 6,
+            "name": "Denmark"
+        },
+        "DE": {
+            "count": 29,
+            "name": "Germany"
+        },
+        "JP": {
+            "count": 14,
+            "name": "Japan"
+        },
+        "HK": {
+            "count": 4,
+            "name": "Hong Kong"
+        },
+        "DZ": {
+            "count": 1,
+            "name": "Algeria"
+        },
+        "FI": {
+            "count": 1,
+            "name": "Finland"
+        },
+        "RU": {
+            "count": 1,
+            "name": "Russia"
+        },
+        "NL": {
+            "count": 1,
+            "name": "Netherlands"
+        },
+        "NO": {
+            "count": 6,
+            "name": "Norway"
+        },
+        "NA": {
+            "count": 1,
+            "name": "Namibia"
+        },
+        "TR": {
+            "count": 1,
+            "name": "Turkey"
+        },
+        "NZ": {
+            "count": 3,
+            "name": "New Zealand"
+        },
+        "TH": {
+            "count": 1,
+            "name": "Thailand"
+        },
+        "PE": {
+            "count": 1,
+            "name": "Peru"
+        },
+        "AT": {
+            "count": 1,
+            "name": "Austria"
+        },
+        "IS": {
+            "count": 1,
+            "name": "Iceland"
+        },
+        "PL": {
+            "count": 6,
+            "name": "Poland"
+        },
+        "CH": {
+            "count": 5,
+            "name": "Switzerland"
+        },
+        "CN": {
+            "count": 5,
+            "name": "China"
+        },
+        "CL": {
+            "count": 1,
+            "name": "Chile"
+        },
+        "CA": {
+            "count": 20,
+            "name": "Canada"
+        },
+        "IR": {
+            "count": 1,
+            "name": "Iran"
+        },
+        "IT": {
+            "count": 17,
+            "name": "Italy"
+        },
+        "ZA": {
+            "count": 1,
+            "name": "South Africa"
+        },
+        "CZ": {
+            "count": 1,
+            "name": "Czech Republic"
+        },
+        "AR": {
+            "count": 1,
+            "name": "Argentina"
+        },
+        "AU": {
+            "count": 5,
+            "name": "Australia"
+        },
+        "GB": {
+            "count": 28,
+            "name": "United Kingdom"
+        },
+        "IN": {
+            "count": 5,
+            "name": "India"
+        },
+        "IE": {
+            "count": 1,
+            "name": "Ireland"
+        },
+        "ID": {
+            "count": 1,
+            "name": "Indonesia"
+        },
+        "ES": {
+            "count": 5,
+            "name": "Spain"
+        },
+        "US": {
+            "count": 145,
+            "name": "United States of America"
+        },
+        "KR": {
+            "count": 4,
+            "name": "South Korea"
+        },
+        "TW": {
+            "count": 4,
+            "name": "Taiwan"
+        },
+        "MY": {
+            "count": 1,
+            "name": "Malaysia"
+        },
+        "MX": {
+            "count": 2,
+            "name": "Mexico"
+        },
+        "SE": {
+            "count": 18,
+            "name": "Sweden"
+        },
+        "IL": {
+            "count": 1,
+            "name": "Israel"
+        }
+    },
+    "directors": [
+        [
+            6648,
+            {
+                "count": 15,
+                "name": "Ingmar Bergman"
+            }
+        ],
+        [
+            6818,
+            {
+                "count": 11,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
+            1150,
+            {
+                "count": 11,
+                "name": "Brian De Palma"
+            }
+        ],
+        [
+            28615,
+            {
+                "count": 8,
+                "name": "\u00c9ric Rohmer"
+            }
+        ],
+        [
+            3776,
+            {
+                "count": 8,
+                "name": "Jean-Luc Godard"
+            }
+        ],
+        [
+            224,
+            {
+                "count": 8,
+                "name": "David Cronenberg"
+            }
+        ],
+        [
+            30715,
+            {
+                "count": 6,
+                "name": "Terrence Malick"
+            }
+        ],
+        [
+            9789,
+            {
+                "count": 5,
+                "name": "Robert Altman"
+            }
+        ],
+        [
+            12160,
+            {
+                "count": 4,
+                "name": "Satyajit Ray"
+            }
+        ],
+        [
+            2725,
+            {
+                "count": 4,
+                "name": "Rainer Werner Fassbinder"
+            }
+        ],
+        [
+            142865,
+            {
+                "count": 4,
+                "name": "Jean Vigo"
+            }
+        ],
+        [
+            1650,
+            {
+                "count": 4,
+                "name": "Fran\u00e7ois Truffaut"
+            }
+        ],
+        [
+            18533,
+            {
+                "count": 4,
+                "name": "Errol Morris"
+            }
+        ],
+        [
+            13848,
+            {
+                "count": 4,
+                "name": "Charlie Chaplin"
+            }
+        ],
+        [
+            24,
+            {
+                "count": 3,
+                "name": "Robert Zemeckis"
+            }
+        ],
+        [
+            40,
+            {
+                "count": 3,
+                "name": "Orson Welles"
+            }
+        ],
+        [
+            68424,
+            {
+                "count": 3,
+                "name": "Michael Powell"
+            }
+        ],
+        [
+            1126,
+            {
+                "count": 3,
+                "name": "Krzysztof Kie\u015blowski"
+            }
+        ],
+        [
+            11147,
+            {
+                "count": 3,
+                "name": "John Cassavetes"
+            }
+        ],
+        [
+            2636,
+            {
+                "count": 3,
+                "name": "Alfred Hitchcock"
+            }
+        ],
+        [
+            12453,
+            {
+                "count": 2,
+                "name": "Wong Kar-wai"
+            }
+        ],
+        [
+            122449,
+            {
+                "count": 2,
+                "name": "Steve James"
+            }
+        ],
+        [
+            39,
+            {
+                "count": 2,
+                "name": "Sam Mendes"
+            }
+        ],
+        [
+            3556,
+            {
+                "count": 2,
+                "name": "Roman Polanski"
+            }
+        ],
+        [
+            10491,
+            {
+                "count": 2,
+                "name": "Paul Verhoeven"
+            }
+        ],
+        [
+            53296,
+            {
+                "count": 2,
+                "name": "Joshua Oppenheimer"
+            }
+        ],
+        [
+            5763,
+            {
+                "count": 2,
+                "name": "Jacques Tati"
+            }
+        ],
+        [
+            73153,
+            {
+                "count": 2,
+                "name": "Jacques Rivette"
+            }
+        ],
+        [
+            24882,
+            {
+                "count": 2,
+                "name": "Jacques Demy"
+            }
+        ],
+        [
+            11435,
+            {
+                "count": 2,
+                "name": "Howard Hawks"
+            }
+        ],
+        [
+            37846,
+            {
+                "count": 2,
+                "name": "Emeric Pressburger"
+            }
+        ],
+        [
+            143035,
+            {
+                "count": 2,
+                "name": "Edward Yang"
+            }
+        ],
+        [
+            137427,
+            {
+                "count": 2,
+                "name": "Denis Villeneuve"
+            }
+        ],
+        [
+            5602,
+            {
+                "count": 2,
+                "name": "David Lynch"
+            }
+        ],
+        [
+            7467,
+            {
+                "count": 2,
+                "name": "David Fincher"
+            }
+        ],
+        [
+            136495,
+            {
+                "count": 2,
+                "name": "Damien Chazelle"
+            }
+        ],
+        [
+            9956,
+            {
+                "count": 2,
+                "name": "Chris Marker"
+            }
+        ],
+        [
+            95901,
+            {
+                "count": 2,
+                "name": "Bruno Dumont"
+            }
+        ],
+        [
+            3146,
+            {
+                "count": 2,
+                "name": "Billy Wilder"
+            }
+        ],
+        [
+            1171420,
+            {
+                "count": 2,
+                "name": "Antonin Peretjatko"
+            }
+        ],
+        [
+            7,
+            {
+                "count": 2,
+                "name": "Andrew Stanton"
+            }
+        ],
+        [
+            8452,
+            {
+                "count": 2,
+                "name": "Andrei Tarkovsky"
+            }
+        ],
+        [
+            34590,
+            {
+                "count": 2,
+                "name": "Alain Robbe-Grillet"
+            }
+        ],
+        [
+            5026,
+            {
+                "count": 2,
+                "name": "Akira Kurosawa"
+            }
+        ],
+        [
+            15217,
+            {
+                "count": 1,
+                "name": "Zack Snyder"
+            }
+        ],
+        [
+            18899,
+            {
+                "count": 1,
+                "name": "Yuen Woo-ping"
+            }
+        ],
+        [
+            110519,
+            {
+                "count": 1,
+                "name": "Yoshishige Yoshida"
+            }
+        ],
+        [
+            95501,
+            {
+                "count": 1,
+                "name": "Yasujir\u014d Ozu"
+            }
+        ],
+        [
+            143593,
+            {
+                "count": 1,
+                "name": "Xavier Dolan"
+            }
+        ],
+        [
+            15175,
+            {
+                "count": 1,
+                "name": "William Friedkin"
+            }
+        ],
+        [
+            5655,
+            {
+                "count": 1,
+                "name": "Wes Anderson"
+            }
+        ],
+        [
+            82337,
+            {
+                "count": 1,
+                "name": "Wash Westmoreland"
+            }
+        ],
+        [
+            12329,
+            {
+                "count": 1,
+                "name": "Vittorio De Sica"
+            }
+        ],
+        [
+            52194,
+            {
+                "count": 1,
+                "name": "Tony Randel"
+            }
+        ],
+        [
+            81916,
+            {
+                "count": 1,
+                "name": "Tommy Wiseau"
+            }
+        ],
+        [
+            17867,
+            {
+                "count": 1,
+                "name": "Tom McCarthy"
+            }
+        ],
+        [
+            16863,
+            {
+                "count": 1,
+                "name": "Todd Haynes"
+            }
+        ],
+        [
+            55252,
+            {
+                "count": 1,
+                "name": "Tim Miller"
+            }
+        ],
+        [
+            55934,
+            {
+                "count": 1,
+                "name": "Taika Waititi"
+            }
+        ],
+        [
+            3583,
+            {
+                "count": 1,
+                "name": "Suzanne Schiffman"
+            }
+        ],
+        [
+            442985,
+            {
+                "count": 1,
+                "name": "St\u00e9phane LaFleur"
+            }
+        ],
+        [
+            7288,
+            {
+                "count": 1,
+                "name": "St\u00e9phane Briz\u00e9"
+            }
+        ],
+        [
+            57607,
+            {
+                "count": 1,
+                "name": "Stephen Chow"
+            }
+        ],
+        [
+            5953,
+            {
+                "count": 1,
+                "name": "Spike Jonze"
+            }
+        ],
+        [
+            67075,
+            {
+                "count": 1,
+                "name": "Sion Sono"
+            }
+        ],
+        [
+            20025,
+            {
+                "count": 1,
+                "name": "Sh\u00f4hei Imamura"
+            }
+        ],
+        [
+            76624,
+            {
+                "count": 1,
+                "name": "Shane Carruth"
+            }
+        ],
+        [
+            19274,
+            {
+                "count": 1,
+                "name": "Seth Rogen"
+            }
+        ],
+        [
+            55499,
+            {
+                "count": 1,
+                "name": "Scott Derrickson"
+            }
+        ],
+        [
+            40333,
+            {
+                "count": 1,
+                "name": "Satoshi Kon"
+            }
+        ],
+        [
+            26959,
+            {
+                "count": 1,
+                "name": "Samuel Fuller"
+            }
+        ],
+        [
+            1018106,
+            {
+                "count": 1,
+                "name": "S. Craig Zahler"
+            }
+        ],
+        [
+            56370,
+            {
+                "count": 1,
+                "name": "Ruben \u00d6stlund"
+            }
+        ],
+        [
+            91484,
+            {
+                "count": 1,
+                "name": "Robert Lamoureux"
+            }
+        ],
+        [
+            138781,
+            {
+                "count": 1,
+                "name": "Robert Eggers"
+            }
+        ],
+        [
+            10346,
+            {
+                "count": 1,
+                "name": "Robert Bresson"
+            }
+        ],
+        [
+            1117026,
+            {
+                "count": 1,
+                "name": "Ritesh Batra"
+            }
+        ],
+        [
+            578,
+            {
+                "count": 1,
+                "name": "Ridley Scott"
+            }
+        ],
+        [
+            19800,
+            {
+                "count": 1,
+                "name": "Richard Marquand"
+            }
+        ],
+        [
+            82335,
+            {
+                "count": 1,
+                "name": "Richard Glatzer"
+            }
+        ],
+        [
+            165787,
+            {
+                "count": 1,
+                "name": "Rich Moore"
+            }
+        ],
+        [
+            80260,
+            {
+                "count": 1,
+                "name": "Ren\u00e9 Laloux"
+            }
+        ],
+        [
+            138,
+            {
+                "count": 1,
+                "name": "Quentin Tarantino"
+            }
+        ],
+        [
+            5970,
+            {
+                "count": 1,
+                "name": "Pier Paolo Pasolini"
+            }
+        ],
+        [
+            59026,
+            {
+                "count": 1,
+                "name": "Peyton Reed"
+            }
+        ],
+        [
+            136153,
+            {
+                "count": 1,
+                "name": "Peter Atencio"
+            }
+        ],
+        [
+            12890,
+            {
+                "count": 1,
+                "name": "Pete Docter"
+            }
+        ],
+        [
+            64194,
+            {
+                "count": 1,
+                "name": "Pawe\u0142 Pawlikowski"
+            }
+        ],
+        [
+            4762,
+            {
+                "count": 1,
+                "name": "Paul Thomas Anderson"
+            }
+        ],
+        [
+            225009,
+            {
+                "count": 1,
+                "name": "Pablo Larra\u00edn"
+            }
+        ],
+        [
+            21678,
+            {
+                "count": 1,
+                "name": "Olivier Assayas"
+            }
+        ],
+        [
+            56214,
+            {
+                "count": 1,
+                "name": "Nuri Bilge Ceylan"
+            }
+        ],
+        [
+            5656,
+            {
+                "count": 1,
+                "name": "Noah Baumbach"
+            }
+        ],
+        [
+            21183,
+            {
+                "count": 1,
+                "name": "Nicolas Winding Refn"
+            }
+        ],
+        [
+            14132,
+            {
+                "count": 1,
+                "name": "Nicolas Roeg"
+            }
+        ],
+        [
+            69488,
+            {
+                "count": 1,
+                "name": "Nanni Moretti"
+            }
+        ],
+        [
+            46230,
+            {
+                "count": 1,
+                "name": "Nagisa \u014cshima"
+            }
+        ],
+        [
+            1296119,
+            {
+                "count": 1,
+                "name": "Na Hong-jin"
+            }
+        ],
+        [
+            209970,
+            {
+                "count": 1,
+                "name": "Muffie Meyer"
+            }
+        ],
+        [
+            17403,
+            {
+                "count": 1,
+                "name": "Mike Judge"
+            }
+        ],
+        [
+            65530,
+            {
+                "count": 1,
+                "name": "Mike Gabriel"
+            }
+        ],
+        [
+            15189,
+            {
+                "count": 1,
+                "name": "Michelangelo Antonioni"
+            }
+        ],
+        [
+            1170861,
+            {
+                "count": 1,
+                "name": "Maxime Giroux"
+            }
+        ],
+        [
+            957,
+            {
+                "count": 1,
+                "name": "Matthew Vaughn"
+            }
+        ],
+        [
+            40476,
+            {
+                "count": 1,
+                "name": "Maren Ade"
+            }
+        ],
+        [
+            34264,
+            {
+                "count": 1,
+                "name": "Marco Ferreri"
+            }
+        ],
+        [
+            25161,
+            {
+                "count": 1,
+                "name": "Marcel Carn\u00e9"
+            }
+        ],
+        [
+            12180,
+            {
+                "count": 1,
+                "name": "Mamoru Oshii"
+            }
+        ],
+        [
+            18525,
+            {
+                "count": 1,
+                "name": "Luc Jacquet"
+            }
+        ],
+        [
+            45138,
+            {
+                "count": 1,
+                "name": "Luc Dardenne"
+            }
+        ],
+        [
+            15389,
+            {
+                "count": 1,
+                "name": "Louis Malle"
+            }
+        ],
+        [
+            9339,
+            {
+                "count": 1,
+                "name": "Lilly Wachowski"
+            }
+        ],
+        [
+            142594,
+            {
+                "count": 1,
+                "name": "Les Blank"
+            }
+        ],
+        [
+            83281,
+            {
+                "count": 1,
+                "name": "Lenny Abrahamson"
+            }
+        ],
+        [
+            5306,
+            {
+                "count": 1,
+                "name": "Lasse Hallstr\u00f6m"
+            }
+        ],
+        [
+            42,
+            {
+                "count": 1,
+                "name": "Lars von Trier"
+            }
+        ],
+        [
+            9340,
+            {
+                "count": 1,
+                "name": "Lana Wachowski"
+            }
+        ],
+        [
+            83698,
+            {
+                "count": 1,
+                "name": "King Hu"
+            }
+        ],
+        [
+            146964,
+            {
+                "count": 1,
+                "name": "Kenneth Anger"
+            }
+        ],
+        [
+            80702,
+            {
+                "count": 1,
+                "name": "Kenji Misumi"
+            }
+        ],
+        [
+            18532,
+            {
+                "count": 1,
+                "name": "J\u00e9r\u00f4me Maison"
+            }
+        ],
+        [
+            14227,
+            {
+                "count": 1,
+                "name": "Jules Dassin"
+            }
+        ],
+        [
+            15277,
+            {
+                "count": 1,
+                "name": "Jon Favreau"
+            }
+        ],
+        [
+            11401,
+            {
+                "count": 1,
+                "name": "John Woo"
+            }
+        ],
+        [
+            4610,
+            {
+                "count": 1,
+                "name": "John Landis"
+            }
+        ],
+        [
+            8500,
+            {
+                "count": 1,
+                "name": "John Ford"
+            }
+        ],
+        [
+            1223,
+            {
+                "count": 1,
+                "name": "Joel Coen"
+            }
+        ],
+        [
+            19272,
+            {
+                "count": 1,
+                "name": "Joe Russo"
+            }
+        ],
+        [
+            4600,
+            {
+                "count": 1,
+                "name": "Joe Dante"
+            }
+        ],
+        [
+            74655,
+            {
+                "count": 1,
+                "name": "Jeremy Saulnier"
+            }
+        ],
+        [
+            164554,
+            {
+                "count": 1,
+                "name": "Jennifer Kent"
+            }
+        ],
+        [
+            55936,
+            {
+                "count": 1,
+                "name": "Jemaine Clement"
+            }
+        ],
+        [
+            71872,
+            {
+                "count": 1,
+                "name": "Jeff Nichols"
+            }
+        ],
+        [
+            3831,
+            {
+                "count": 1,
+                "name": "Jean-Pierre Melville"
+            }
+        ],
+        [
+            56209,
+            {
+                "count": 1,
+                "name": "Jean-Pierre Dardenne"
+            }
+        ],
+        [
+            6737,
+            {
+                "count": 1,
+                "name": "Jay Roach"
+            }
+        ],
+        [
+            1318201,
+            {
+                "count": 1,
+                "name": "Jared Bush"
+            }
+        ],
+        [
+            2710,
+            {
+                "count": 1,
+                "name": "James Cameron"
+            }
+        ],
+        [
+            26205,
+            {
+                "count": 1,
+                "name": "James Bobin"
+            }
+        ],
+        [
+            122582,
+            {
+                "count": 1,
+                "name": "Jake Paltrow"
+            }
+        ],
+        [
+            10146,
+            {
+                "count": 1,
+                "name": "Jacques Tourneur"
+            }
+        ],
+        [
+            25630,
+            {
+                "count": 1,
+                "name": "Jack Clayton"
+            }
+        ],
+        [
+            33883,
+            {
+                "count": 1,
+                "name": "Jack Arnold"
+            }
+        ],
+        [
+            15344,
+            {
+                "count": 1,
+                "name": "J.J. Abrams"
+            }
+        ],
+        [
+            8858,
+            {
+                "count": 1,
+                "name": "Ivan Reitman"
+            }
+        ],
+        [
+            18598,
+            {
+                "count": 1,
+                "name": "Ishir\u00f4 Honda"
+            }
+        ],
+        [
+            56141,
+            {
+                "count": 1,
+                "name": "Irvin S. Yeaworth Jr."
+            }
+        ],
+        [
+            10930,
+            {
+                "count": 1,
+                "name": "Irvin Kershner"
+            }
+        ],
+        [
+            79294,
+            {
+                "count": 1,
+                "name": "Herk Harvey"
+            }
+        ],
+        [
+            938618,
+            {
+                "count": 1,
+                "name": "Gr\u00edmur H\u00e1konarson"
+            }
+        ],
+        [
+            142587,
+            {
+                "count": 1,
+                "name": "Greg Tiernan"
+            }
+        ],
+        [
+            68993,
+            {
+                "count": 1,
+                "name": "Godfrey Reggio"
+            }
+        ],
+        [
+            20629,
+            {
+                "count": 1,
+                "name": "George Miller"
+            }
+        ],
+        [
+            1,
+            {
+                "count": 1,
+                "name": "George Lucas"
+            }
+        ],
+        [
+            14597,
+            {
+                "count": 1,
+                "name": "Gaspar No\u00e9"
+            }
+        ],
+        [
+            1295604,
+            {
+                "count": 1,
+                "name": "Fran\u00e7ois Ruffin"
+            }
+        ],
+        [
+            2662,
+            {
+                "count": 1,
+                "name": "Frank Capra"
+            }
+        ],
+        [
+            4415,
+            {
+                "count": 1,
+                "name": "Federico Fellini"
+            }
+        ],
+        [
+            140617,
+            {
+                "count": 1,
+                "name": "Ezra Edelman"
+            }
+        ],
+        [
+            54734,
+            {
+                "count": 1,
+                "name": "Evan Goldberg"
+            }
+        ],
+        [
+            31894,
+            {
+                "count": 1,
+                "name": "Ettore Scola"
+            }
+        ],
+        [
+            1224,
+            {
+                "count": 1,
+                "name": "Ethan Coen"
+            }
+        ],
+        [
+            29755,
+            {
+                "count": 1,
+                "name": "Erle C. Kenton"
+            }
+        ],
+        [
+            48514,
+            {
+                "count": 1,
+                "name": "Eric Judor"
+            }
+        ],
+        [
+            65531,
+            {
+                "count": 1,
+                "name": "Eric Goldberg"
+            }
+        ],
+        [
+            1002594,
+            {
+                "count": 1,
+                "name": "Ellen Hovde"
+            }
+        ],
+        [
+            1550515,
+            {
+                "count": 1,
+                "name": "Dylan Reeve"
+            }
+        ],
+        [
+            81850,
+            {
+                "count": 1,
+                "name": "Duncan Jones"
+            }
+        ],
+        [
+            1019303,
+            {
+                "count": 1,
+                "name": "Duke Johnson"
+            }
+        ],
+        [
+            46712,
+            {
+                "count": 1,
+                "name": "Douglas Sirk"
+            }
+        ],
+        [
+            109314,
+            {
+                "count": 1,
+                "name": "Don Hertzfeldt"
+            }
+        ],
+        [
+            227439,
+            {
+                "count": 1,
+                "name": "Don Hall"
+            }
+        ],
+        [
+            1111725,
+            {
+                "count": 1,
+                "name": "Denis Reichle"
+            }
+        ],
+        [
+            558929,
+            {
+                "count": 1,
+                "name": "David Robert Mitchell"
+            }
+        ],
+        [
+            139002,
+            {
+                "count": 1,
+                "name": "David Maysles"
+            }
+        ],
+        [
+            3055,
+            {
+                "count": 1,
+                "name": "David Mackenzie"
+            }
+        ],
+        [
+            1473954,
+            {
+                "count": 1,
+                "name": "David Farrier"
+            }
+        ],
+        [
+            4955,
+            {
+                "count": 1,
+                "name": "Dario Argento"
+            }
+        ],
+        [
+            568322,
+            {
+                "count": 1,
+                "name": "Dan Trachtenberg"
+            }
+        ],
+        [
+            591600,
+            {
+                "count": 1,
+                "name": "Dami\u00e1n Szifr\u00f3n"
+            }
+        ],
+        [
+            27436,
+            {
+                "count": 1,
+                "name": "Costa-Gavras"
+            }
+        ],
+        [
+            12080,
+            {
+                "count": 1,
+                "name": "Conrad Vernon"
+            }
+        ],
+        [
+            930707,
+            {
+                "count": 1,
+                "name": "Colin Trevorrow"
+            }
+        ],
+        [
+            31211,
+            {
+                "count": 1,
+                "name": "Clive Barker"
+            }
+        ],
+        [
+            45577,
+            {
+                "count": 1,
+                "name": "Claudio Fragasso"
+            }
+        ],
+        [
+            525,
+            {
+                "count": 1,
+                "name": "Christopher Nolan"
+            }
+        ],
+        [
+            9033,
+            {
+                "count": 1,
+                "name": "Christopher McQuarrie"
+            }
+        ],
+        [
+            1349420,
+            {
+                "count": 1,
+                "name": "Christine Cynn"
+            }
+        ],
+        [
+            70238,
+            {
+                "count": 1,
+                "name": "Chris Williams"
+            }
+        ],
+        [
+            58137,
+            {
+                "count": 1,
+                "name": "Chris Noonan"
+            }
+        ],
+        [
+            202,
+            {
+                "count": 1,
+                "name": "Charlie Kaufman"
+            }
+        ],
+        [
+            10921,
+            {
+                "count": 1,
+                "name": "Charles Laughton"
+            }
+        ],
+        [
+            130030,
+            {
+                "count": 1,
+                "name": "Chantal Akerman"
+            }
+        ],
+        [
+            96369,
+            {
+                "count": 1,
+                "name": "Carlos Saura"
+            }
+        ],
+        [
+            76595,
+            {
+                "count": 1,
+                "name": "Byron Howard"
+            }
+        ],
+        [
+            51000,
+            {
+                "count": 1,
+                "name": "Byron Haskin"
+            }
+        ],
+        [
+            7087,
+            {
+                "count": 1,
+                "name": "Brad Bird"
+            }
+        ],
+        [
+            21684,
+            {
+                "count": 1,
+                "name": "Bong Joon-ho "
+            }
+        ],
+        [
+            126125,
+            {
+                "count": 1,
+                "name": "Bill Plympton"
+            }
+        ],
+        [
+            34262,
+            {
+                "count": 1,
+                "name": "Bertrand Blier"
+            }
+        ],
+        [
+            57851,
+            {
+                "count": 1,
+                "name": "Bernard Rose"
+            }
+        ],
+        [
+            137467,
+            {
+                "count": 1,
+                "name": "Ben Wheatley"
+            }
+        ],
+        [
+            929825,
+            {
+                "count": 1,
+                "name": "Ava DuVernay"
+            }
+        ],
+        [
+            133259,
+            {
+                "count": 1,
+                "name": "Arthur Hiller"
+            }
+        ],
+        [
+            69759,
+            {
+                "count": 1,
+                "name": "Apichatpong Weerasethakul"
+            }
+        ],
+        [
+            19271,
+            {
+                "count": 1,
+                "name": "Anthony Russo"
+            }
+        ],
+        [
+            1710652,
+            {
+                "count": 1,
+                "name": "Anonymous"
+            }
+        ],
+        [
+            7929,
+            {
+                "count": 1,
+                "name": "Angus MacLane"
+            }
+        ],
+        [
+            1614,
+            {
+                "count": 1,
+                "name": "Ang Lee"
+            }
+        ],
+        [
+            1289604,
+            {
+                "count": 1,
+                "name": "Ana Lily Amirpour"
+            }
+        ],
+        [
+            1224031,
+            {
+                "count": 1,
+                "name": "Alfonso Gomez-Rejon"
+            }
+        ],
+        [
+            11218,
+            {
+                "count": 1,
+                "name": "Alfonso Cuar\u00f3n"
+            }
+        ],
+        [
+            14566,
+            {
+                "count": 1,
+                "name": "Alexander Mackendrick"
+            }
+        ],
+        [
+            2036,
+            {
+                "count": 1,
+                "name": "Alex Garland"
+            }
+        ],
+        [
+            223,
+            {
+                "count": 1,
+                "name": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+            }
+        ],
+        [
+            1418,
+            {
+                "count": 1,
+                "name": "Albert Maysles"
+            }
+        ],
+        [
+            11983,
+            {
+                "count": 1,
+                "name": "Alain Resnais"
+            }
+        ],
+        [
+            939147,
+            {
+                "count": 1,
+                "name": " Yeon Sang-Ho"
+            }
+        ]
+    ],
     "movies": [
         {
             "poster_path": "/zaTSxlRTPF0rJXNJeskCdck80AR.jpg",
@@ -47,6 +1762,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0070356",
+            "director": "Robert Lamoureux",
             "adult": false,
             "backdrop_path": "/9BIz263eD7Pp7HXbzxDd1R5z2ph.jpg",
             "production_companies": [
@@ -112,6 +1828,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0086022",
+            "director": "Andrei Tarkovsky",
             "adult": false,
             "backdrop_path": "/9vGtpyZnQS58LAG6T8r7dsqW9FX.jpg",
             "production_companies": [
@@ -173,6 +1890,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2267998",
+            "director": "David Fincher",
             "adult": false,
             "backdrop_path": "/bt6DhdALyhf90gReozoQ0y3R3vZ.jpg",
             "production_companies": [
@@ -262,6 +1980,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0091670",
+            "director": "Andrei Tarkovsky",
             "adult": false,
             "backdrop_path": "/6DJDns8AlRCC1y05Rk0TIt8Q8z7.jpg",
             "production_companies": [
@@ -323,6 +2042,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2582802",
+            "director": "Damien Chazelle",
             "adult": false,
             "backdrop_path": "/6bbZ6XyvgfjhQwbplnUh1LSj1ky.jpg",
             "production_companies": [
@@ -384,6 +2104,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0108550",
+            "director": "Lasse Hallstr\u00f6m",
             "adult": false,
             "backdrop_path": "/9JvO9d5VgQ9Cy0bbAdBAyKK7pWd.jpg",
             "production_companies": [
@@ -441,6 +2162,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0053279",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": null,
             "production_companies": [],
@@ -493,6 +2215,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2400275",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/y8YWWzRYSJPfLGqlod3OPxFkuku.jpg",
             "production_companies": [
@@ -554,6 +2277,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0299478",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/e1fVzpq0HjrAi9NizoVQMx7frgd.jpg",
             "production_companies": [
@@ -619,6 +2343,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2350496",
+            "director": "Ritesh Batra",
             "adult": false,
             "backdrop_path": "/k9qLDoyIogooakZsDgZF9chb6hu.jpg",
             "production_companies": [
@@ -680,6 +2405,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2758880",
+            "director": "Nuri Bilge Ceylan",
             "adult": false,
             "backdrop_path": "/7zK5Pra1Rw0yqGDeRqSUj9Xc015.jpg",
             "production_companies": [
@@ -770,6 +2496,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0101829",
+            "director": "Lars von Trier",
             "adult": false,
             "backdrop_path": "/v7JmFt2wh8W6ce7GFdmECLmRDjw.jpg",
             "production_companies": [
@@ -835,6 +2562,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt2788710",
+            "director": "Evan Goldberg, Seth Rogen",
             "adult": false,
             "backdrop_path": "/p5n7VTC6qmFIuBFjACWURYCAlKP.jpg",
             "production_companies": [
@@ -893,6 +2621,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0055499",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/ihLrOSiGNYQva0UFGqeJt2Z5xqV.jpg",
             "production_companies": [
@@ -942,6 +2671,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0060827",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/hqFN0gOmeXKmKP266CSjbHt9y05.jpg",
             "production_companies": [
@@ -1000,6 +2730,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0064612",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/cEQHHPjAqaQ2Kr5i0Z1OjyEAeau.jpg",
             "production_companies": [
@@ -1097,6 +2828,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0062873",
+            "director": "Jacques Demy",
             "adult": false,
             "backdrop_path": "/kxQ8eBoAYUh3RNaPRDKgo32puIS.jpg",
             "production_companies": [
@@ -1155,6 +2887,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0065772",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/yoV6rHcRvxj8hYMSkE3ZcqFWlPy.jpg",
             "production_companies": [
@@ -1208,6 +2941,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0053976",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/5wsFDjQ1UjjzvzIS39opUw4ySa4.jpg",
             "production_companies": [
@@ -1266,6 +3000,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0068205",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/hDFg2MJrsOFW7BY4M081PjHD0oA.jpg",
             "production_companies": [
@@ -1319,6 +3054,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3483194",
+            "director": "St\u00e9phane LaFleur",
             "adult": false,
             "backdrop_path": "/dFIaUIPZpK1xmiKA7L2xfl96YW.jpg",
             "production_companies": [
@@ -1373,6 +3109,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0057358",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/ujs19G5ixFaUSbVh6cGvRu64SFD.jpg",
             "production_companies": [
@@ -1450,6 +3187,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0083922",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/5EIG2xjTjj0pqvRjza2Vk5g0Xt2.jpg",
             "production_companies": [
@@ -1515,6 +3253,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0050986",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/p0u5vq9oXjMyTZinWTNjYwGRDN4.jpg",
             "production_companies": [
@@ -1576,6 +3315,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0428803",
+            "director": "Luc Jacquet, J\u00e9r\u00f4me Maison",
             "adult": false,
             "backdrop_path": "/hQKxDvATLMiq4DQOLZ1xMKgGq5r.jpg",
             "production_companies": [
@@ -1661,6 +3401,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0073822",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/r1f7iu5AFgLihvzMhMRHk3CtHXu.jpg",
             "production_companies": [
@@ -1722,6 +3463,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt3011894",
+            "director": "Dami\u00e1n Szifr\u00f3n",
             "adult": false,
             "backdrop_path": "/eRt2Dow7PxWBr4IbkO29j0tR0da.jpg",
             "production_companies": [
@@ -1775,6 +3517,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt2326554",
+            "director": "Ana Lily Amirpour",
             "adult": false,
             "backdrop_path": "/u1jWWdqz8eDKzCxYPxBLD2q5QGW.jpg",
             "production_companies": [
@@ -1848,6 +3591,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0015864",
+            "director": "Charlie Chaplin",
             "adult": false,
             "backdrop_path": "/q29p6YAp7QMmH3fKyxaVRluyW7Q.jpg",
             "production_companies": [
@@ -1901,6 +3645,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0053168",
+            "director": "Robert Bresson",
             "adult": false,
             "backdrop_path": "/xiDpFminc9OJEvBpe8PLhmJAmlH.jpg",
             "production_companies": [
@@ -1966,6 +3711,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0048021",
+            "director": "Jules Dassin",
             "adult": false,
             "backdrop_path": "/nu9AwhsPJIwoyiEMeykkfy9g6hE.jpg",
             "production_companies": [
@@ -2039,6 +3785,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0069995",
+            "director": "Nicolas Roeg",
             "adult": false,
             "backdrop_path": "/F9wO6f1Qoic4vgSpKNE3vVTutI.jpg",
             "production_companies": [
@@ -2101,6 +3848,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0053198",
+            "director": "Fran\u00e7ois Truffaut",
             "adult": false,
             "backdrop_path": "/ucrJQXbAeFu9M7dAUtU3PKNWM4R.jpg",
             "production_companies": [
@@ -2162,6 +3910,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0027977",
+            "director": "Charlie Chaplin",
             "adult": false,
             "backdrop_path": "/s58uDwuyVMqgsbmnfyrbpfF147.jpg",
             "production_companies": [
@@ -2228,6 +3977,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0053619",
+            "director": "Michelangelo Antonioni",
             "adult": false,
             "backdrop_path": "/tIlSc3NWIFZN75XwMRLfeHWOuan.jpg",
             "production_companies": [
@@ -2297,6 +4047,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2121382",
+            "director": "Ruben \u00d6stlund",
             "adult": false,
             "backdrop_path": "/9WvcM8ztJwMxwnltqmCwdL9gZpE.jpg",
             "production_companies": [
@@ -2362,6 +4113,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0021749",
+            "director": "Charlie Chaplin",
             "adult": false,
             "backdrop_path": "/pNFDlnwBIbSSyK7oESyQ0AWn3Pd.jpg",
             "production_companies": [
@@ -2415,6 +4167,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0071141",
+            "director": "Rainer Werner Fassbinder",
             "adult": false,
             "backdrop_path": "/yED4ZU4QzlavOH2c7HyqJvraxkZ.jpg",
             "production_companies": [],
@@ -2468,6 +4221,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0085809",
+            "director": "Godfrey Reggio",
             "adult": false,
             "backdrop_path": "/yTE8fOjmGmF8sRuurMb2aoGYmHh.jpg",
             "production_companies": [
@@ -2542,6 +4296,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0057611",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/vF7pbk36IqTyUhaDmbbfqWiKOZk.jpg",
             "production_companies": [
@@ -2607,6 +4362,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1791528",
+            "director": "Paul Thomas Anderson",
             "adult": false,
             "backdrop_path": "/uCjCNaxLyLkcwBq4aOHOeiKKwPE.jpg",
             "production_companies": [
@@ -2672,6 +4428,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0066207",
+            "director": "Jacques Demy",
             "adult": false,
             "backdrop_path": "/7N4xVPGPjFzlybuHdppeBsljjU4.jpg",
             "production_companies": [
@@ -2725,6 +4482,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0044060",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/sAuvKPktnhN7hpT1M7RG5dHobIw.jpg",
             "production_companies": [
@@ -2778,6 +4536,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0048424",
+            "director": "Charles Laughton",
             "adult": false,
             "backdrop_path": "/2bBGFSrnTg1AFhjHoczbfPnb9D4.jpg",
             "production_companies": [
@@ -2843,6 +4602,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt1617661",
+            "director": "Lana Wachowski, Lilly Wachowski",
             "adult": false,
             "backdrop_path": "/4liSXBZZdURI0c1Id1zLJo6Z3Gu.jpg",
             "production_companies": [
@@ -2908,6 +4668,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0032553",
+            "director": "Charlie Chaplin",
             "adult": false,
             "backdrop_path": "/qkpsvso2neEr7v6YnyMoZtm6R9F.jpg",
             "production_companies": [
@@ -2957,6 +4718,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0069467",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/OynERYkQFJW9bkLOnSRKOxsSXW.jpg",
             "production_companies": [
@@ -3010,6 +4772,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3316960",
+            "director": "Richard Glatzer, Wash Westmoreland",
             "adult": false,
             "backdrop_path": "/yxr7oOXdb1rO9SjZiRa8K3ClCZf.jpg",
             "production_companies": [
@@ -3092,6 +4855,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt2802144",
+            "director": "Matthew Vaughn",
             "adult": false,
             "backdrop_path": "/pfyWJUxrBTT2UIPoEQF3iFTHcQT.jpg",
             "production_companies": [
@@ -3161,6 +4925,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0074626",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/vMXdOXHrb9rBd7sbGh53dNeC256.jpg",
             "production_companies": [
@@ -3239,6 +5004,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1392190",
+            "director": "George Miller",
             "adult": false,
             "backdrop_path": "/phszHPFVhPHhMZgo0fWTKBDQsJA.jpg",
             "production_companies": [
@@ -3300,6 +5066,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0056119",
+            "director": "Chris Marker",
             "adult": false,
             "backdrop_path": "/aORL5T96ncTUkLS64o8zf7gCgcz.jpg",
             "production_companies": [
@@ -3353,6 +5120,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0084628",
+            "director": "Chris Marker",
             "adult": false,
             "backdrop_path": "/oWhAEZiL7n076zVKejNbNF0E66l.jpg",
             "production_companies": [],
@@ -3413,6 +5181,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0816692",
+            "director": "Christopher Nolan",
             "adult": false,
             "backdrop_path": "/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg",
             "production_companies": [
@@ -3482,6 +5251,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0470752",
+            "director": "Alex Garland",
             "adult": false,
             "backdrop_path": "/9X3cDZb4GYGQeOnZHLwMcCFz2Ro.jpg",
             "production_companies": [
@@ -3551,6 +5321,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt3416742",
+            "director": "Jemaine Clement, Taika Waititi",
             "adult": false,
             "backdrop_path": "/aj0WJXC0Cu172qifgkEpyLXlDEt.jpg",
             "production_companies": [
@@ -3620,6 +5391,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0070460",
+            "director": "Fran\u00e7ois Truffaut",
             "adult": false,
             "backdrop_path": "/wwJEcAKY5drJj9o4EJKIOjLDZNF.jpg",
             "production_companies": [
@@ -3685,6 +5457,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt2737050",
+            "director": "Jean-Pierre Dardenne, Luc Dardenne",
             "adult": false,
             "backdrop_path": "/40fJ7cg5Q5IPNxYLE5xJil33TBc.jpg",
             "production_companies": [
@@ -3798,6 +5571,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2172584",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/i1DPN19CK8rTkwyMS9iy4D9iRAO.jpg",
             "production_companies": [
@@ -3867,6 +5641,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0057935",
+            "director": "Satyajit Ray",
             "adult": false,
             "backdrop_path": "/nHNTzZlKKel0STNg8v7zqZYusSO.jpg",
             "production_companies": [
@@ -3924,6 +5699,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0074991",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/taeJvCnOx8ZoRvqkJp4lhBjkPjX.jpg",
             "production_companies": [
@@ -3981,6 +5757,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0368226",
+            "director": "Tommy Wiseau",
             "adult": false,
             "backdrop_path": "/ol1jXenBOwnPHzBwkWlyPsujfQg.jpg",
             "production_companies": [
@@ -4042,6 +5819,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0039192",
+            "director": "Michael Powell, Emeric Pressburger",
             "adult": false,
             "backdrop_path": "/yAySSl3KaKWCxWu4EuFKFBxlOOC.jpg",
             "production_companies": [
@@ -4095,6 +5873,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0046487",
+            "director": "Jacques Tati",
             "adult": false,
             "backdrop_path": "/cWsQHhbShz3CnWmA3OXZtbVzXWf.jpg",
             "production_companies": [
@@ -4156,6 +5935,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0096257",
+            "director": "Errol Morris",
             "adult": false,
             "backdrop_path": "/kSaEzPnNu8HAvq1TpbmqWNPKP7.jpg",
             "production_companies": [
@@ -4209,6 +5989,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0051792",
+            "director": "Satyajit Ray",
             "adult": false,
             "backdrop_path": "/yXu7BQWzNqxoh8C5d3BJJGqME1I.jpg",
             "production_companies": [
@@ -4278,6 +6059,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0077711",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/sR3g3bJnOn2wPiElOujq3ZiMPav.jpg",
             "production_companies": [
@@ -4347,6 +6129,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2096673",
+            "director": "Pete Docter",
             "adult": false,
             "backdrop_path": "/szytSpLAyBh3ULei3x663mAv5ZT.jpg",
             "production_companies": [
@@ -4412,6 +6195,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0054389",
+            "director": "Fran\u00e7ois Truffaut",
             "adult": false,
             "backdrop_path": "/gweZZlLcU9fxosxj6HfCWsgsxlG.jpg",
             "production_companies": [
@@ -4469,6 +6253,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0074870",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/t2a5H0ucAYR8HE7tYMPsH2gpldf.jpg",
             "production_companies": [
@@ -4550,6 +6335,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0069400",
+            "director": "Jacques Tati",
             "adult": false,
             "backdrop_path": "/jaD9o3d0CqLCYtMTmtwDNEmYNMm.jpg",
             "production_companies": [
@@ -4619,6 +6405,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2718492",
+            "director": "Pawe\u0142 Pawlikowski",
             "adult": false,
             "backdrop_path": "/rYrhyxdLzniWXRnKYZScKaVcXUN.jpg",
             "production_companies": [
@@ -4717,6 +6504,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0081455",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/fOjllOSWeTibW5zKeJlqq3aLXpB.jpg",
             "production_companies": [
@@ -4778,6 +6566,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0082783",
+            "director": "Louis Malle",
             "adult": false,
             "backdrop_path": "/h2ejoOCwb1TMo8rKHXgsUhlGNum.jpg",
             "production_companies": [
@@ -4851,6 +6640,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0083946",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/z7w3uHWAH3XbUbyJDKUsEb1j61C.jpg",
             "production_companies": [
@@ -4924,6 +6714,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0083702",
+            "director": "Les Blank",
             "adult": false,
             "backdrop_path": "/8v7pGhjZ5HiJ6GGSTJrZlpjg2mX.jpg",
             "production_companies": [
@@ -4993,6 +6784,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0085933",
+            "director": "Nagisa \u014cshima",
             "adult": false,
             "backdrop_path": "/yNgCkakUKw1fyRSTezBw2iBVYzX.jpg",
             "production_companies": [
@@ -5042,6 +6834,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0110057",
+            "director": "Steve James",
             "adult": false,
             "backdrop_path": "/AlzHuy6VAJ9biMv4DPBlOnxh75Z.jpg",
             "production_companies": [
@@ -5099,6 +6892,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0245574",
+            "director": "Alfonso Cuar\u00f3n",
             "adult": false,
             "backdrop_path": "/nvOf9OgfcbK1duJWeBqpXOzWiIt.jpg",
             "production_companies": [
@@ -5164,6 +6958,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0118884",
+            "director": "Robert Zemeckis",
             "adult": false,
             "backdrop_path": "/vlulJKZ843k2fCRgIaUlm8X2EWz.jpg",
             "production_companies": [
@@ -5237,6 +7032,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0052893",
+            "director": "Alain Resnais",
             "adult": false,
             "backdrop_path": "/yqUc023vMheWlc6U8mkzYws169I.jpg",
             "production_companies": [
@@ -5302,6 +7098,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0910970",
+            "director": "Andrew Stanton",
             "adult": false,
             "backdrop_path": "/2nFyTvssbtJMLC6eyYwwZ88gALD.jpg",
             "production_companies": [
@@ -5367,6 +7164,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0077588",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/3b8GIGYA3UugEkDj7LT6VVXgm4i.jpg",
             "production_companies": [
@@ -5448,6 +7246,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3685218",
+            "director": "Maxime Giroux",
             "adult": false,
             "backdrop_path": "/fmuSwQemeAdb2s9bq29Aywo3fUX.jpg",
             "production_companies": [
@@ -5505,6 +7304,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0080661",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/kngjkJc8DZbbxxLzC9D139l4Z63.jpg",
             "production_companies": [
@@ -5575,6 +7375,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt1074638",
+            "director": "Sam Mendes",
             "adult": false,
             "backdrop_path": "/AunH2MIKIbnU9khgFp45eJlydPu.jpg",
             "production_companies": [
@@ -5640,6 +7441,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0129167",
+            "director": "Brad Bird",
             "adult": false,
             "backdrop_path": "/11XLucJQvdgtchSfO0ZTbo966pp.jpg",
             "production_companies": [
@@ -5697,6 +7499,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0082085",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/njiYDomW9nFmNWYZSFRU33c6hwr.jpg",
             "production_companies": [
@@ -5762,6 +7565,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0119094",
+            "director": "John Woo",
             "adult": false,
             "backdrop_path": "/kwsnFHKEkqlREvEl2RNvxGmEbFt.jpg",
             "production_companies": [
@@ -5831,6 +7635,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0051036",
+            "director": "Alexander Mackendrick",
             "adult": false,
             "backdrop_path": "/ofezlNAu5ADPcNChRxPpNgoYVC5.jpg",
             "production_companies": [
@@ -5892,6 +7697,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0115734",
+            "director": "Wes Anderson",
             "adult": false,
             "backdrop_path": "/3Fa0XjSyuyDrlVyYmbbten3nojg.jpg",
             "production_companies": [
@@ -5953,6 +7759,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt3774694",
+            "director": "Gaspar No\u00e9",
             "adult": false,
             "backdrop_path": "/3u2B1fRPxvwg7C9I7e4uwMNJ1LB.jpg",
             "production_companies": [
@@ -6035,6 +7842,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0369610",
+            "director": "Colin Trevorrow",
             "adult": false,
             "backdrop_path": "/dkMD5qlogeRMiEixC4YNPUvax2T.jpg",
             "production_companies": [
@@ -6103,6 +7911,7 @@
             "spoken_languages": [],
             "personalRating": "3",
             "imdb_id": "tt0079641",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/hqSThhiEMal7eSWEoWgeVyvSLAW.jpg",
             "production_companies": [
@@ -6200,6 +8009,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2818654",
+            "director": "Apichatpong Weerasethakul",
             "adult": false,
             "backdrop_path": "/6MM3aNljThsIuMenHwxWqeVEijG.jpg",
             "production_companies": [
@@ -6292,7 +8102,7 @@
             "title": "Back to the Future",
             "tagline": "He's the only kid ever to get into trouble before he was born.",
             "watchDate": "2015/10/21",
-            "vote_count": 4531,
+            "vote_count": 4532,
             "homepage": "http://www.backtothefuture.com/movies/backtothefuture1",
             "belongs_to_collection": {
                 "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg",
@@ -6310,6 +8120,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0088763",
+            "director": "Robert Zemeckis",
             "adult": false,
             "backdrop_path": "/x4N74cycZvKu5k3KDERJay4ajR3.jpg",
             "production_companies": [
@@ -6388,6 +8199,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0096874",
+            "director": "Robert Zemeckis",
             "adult": false,
             "backdrop_path": "/snLFUFzWUZCdYkAbhZlaGJxiY3I.jpg",
             "production_companies": [
@@ -6449,6 +8261,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0086984",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/6XxSoLqHYXpxxkFavLPYQeNFIBU.jpg",
             "production_companies": [
@@ -6522,6 +8335,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0076740",
+            "director": "William Friedkin",
             "adult": false,
             "backdrop_path": "/pxGwXidOIW5dh9b5ZmLCZhnyK1P.jpg",
             "production_companies": [
@@ -6587,6 +8401,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0078908",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/SOgoUJIBuqoSg2HOBaDWi95enb.jpg",
             "production_companies": [
@@ -6656,6 +8471,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0443706",
+            "director": "David Fincher",
             "adult": false,
             "backdrop_path": "/eZHgxdUV38utOvlWQCVuo6wRPgY.jpg",
             "production_companies": [
@@ -6721,6 +8537,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0063759",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/dTLY5rfId0EITdOCBOYeSaZOI5d.jpg",
             "production_companies": [
@@ -6787,6 +8604,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0118655",
+            "director": "Jay Roach",
             "adult": false,
             "backdrop_path": "/eaQEdvXCpJiJg50Ey0pulBhoYjY.jpg",
             "production_companies": [
@@ -6856,6 +8674,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0120832",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/pK5G5br9ooo55zCgyjGDGs4p4Hl.jpg",
             "production_companies": [
@@ -6925,6 +8744,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0040725",
+            "director": "Michael Powell, Emeric Pressburger",
             "adult": false,
             "backdrop_path": "/gf3DxP79Smp98KD6UNDsVb6GDeW.jpg",
             "production_companies": [
@@ -6990,6 +8810,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0070904",
+            "director": "Rainer Werner Fassbinder",
             "adult": false,
             "backdrop_path": "/gRvOGrgwQElZhyfZMVB0FOWjWXf.jpg",
             "production_companies": [
@@ -7063,6 +8884,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0280665",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/esp04dRDJcej55yrljgQGeG0uiK.jpg",
             "production_companies": [
@@ -7144,6 +8966,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt1829012",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/u5HhIo008Qhp2LYyR27PYHtVa6G.jpg",
             "production_companies": [
@@ -7230,6 +9053,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2381249",
+            "director": "Christopher McQuarrie",
             "adult": false,
             "backdrop_path": "/ubJFHt0WufOwaZhs28Vyzm6K4pL.jpg",
             "production_companies": [
@@ -7316,6 +9140,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0080179",
+            "director": "Yuen Woo-ping",
             "adult": false,
             "backdrop_path": "/quQt0DPCotCjTEhlFXpaM3sESQZ.jpg",
             "production_companies": [
@@ -7343,7 +9168,7 @@
                     "name": "United States of America"
                 }
             ],
-            "revenue": 879620923,
+            "revenue": 880674609,
             "overview": "A cryptic message from Bond\u2019s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
             "video": false,
             "id": 206647,
@@ -7398,6 +9223,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2379713",
+            "director": "Sam Mendes",
             "adult": false,
             "backdrop_path": "/wVTYlkKPKrljJfugXN7UlLNjtuJ.jpg",
             "production_companies": [
@@ -7471,6 +9297,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0072962",
+            "director": "Orson Welles",
             "adult": false,
             "backdrop_path": "/91qwjrBETM2cla8xDlHqV6hheNK.jpg",
             "production_companies": [
@@ -7524,6 +9351,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0077598",
+            "director": "Errol Morris",
             "adult": false,
             "backdrop_path": "/nMYTGNWRB3v9bO0D5cZp5BL4jjf.jpg",
             "production_companies": [],
@@ -7563,6 +9391,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0083281",
+            "director": "Errol Morris",
             "adult": false,
             "backdrop_path": "/hECF4LUB0PrhVvbY1XAXihtZrYh.jpg",
             "production_companies": [],
@@ -7619,6 +9448,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0477348",
+            "director": "Joel Coen, Ethan Coen",
             "adult": false,
             "backdrop_path": "/7hx7ANh11TbbvHLDXUuywYkg5rK.jpg",
             "production_companies": [
@@ -7684,6 +9514,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2582496",
+            "director": "Alfonso Gomez-Rejon",
             "adult": false,
             "backdrop_path": "/jrSo8OTeWZ0Ego7uOYS20syIZ5N.jpg",
             "production_companies": [
@@ -7745,6 +9576,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0105217",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/mJEMYlFdewwuqefyUdwAChzqSXX.jpg",
             "production_companies": [
@@ -7798,6 +9630,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0080149",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/zW30qsdUjUK3GPc3vo9Lmt9EF6N.jpg",
             "production_companies": [
@@ -7851,6 +9684,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0033467",
+            "director": "Orson Welles",
             "adult": false,
             "backdrop_path": "/xqDfLC7XbiaVN5XxZBWOJCX0hU7.jpg",
             "production_companies": [
@@ -7913,6 +9747,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0056714",
+            "director": "Kenji Misumi",
             "adult": false,
             "backdrop_path": "/bzYg6Sir6odIR1goBCuUZ8Etatq.jpg",
             "production_companies": [
@@ -7966,6 +9801,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0075276",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/1aXPllbyPHMd0z41Y0QEKnLEKsV.jpg",
             "production_companies": [
@@ -8027,6 +9863,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0073198",
+            "director": "Chantal Akerman",
             "adult": false,
             "backdrop_path": "/d0QXo7fdtVzCtwyrFnGf09QJ5XB.jpg",
             "production_companies": [
@@ -8088,6 +9925,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0047478",
+            "director": "Akira Kurosawa",
             "adult": false,
             "backdrop_path": "/61vLiK96sbXeHpQiMxI4CuqBA3z.jpg",
             "production_companies": [
@@ -8150,6 +9988,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0076759",
+            "director": "George Lucas",
             "adult": false,
             "backdrop_path": "/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg",
             "production_companies": [
@@ -8203,6 +10042,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0103882",
+            "director": "Errol Morris",
             "adult": false,
             "backdrop_path": "/x88d0zOAUix3pwO7sew2dFdVb4K.jpg",
             "production_companies": [
@@ -8273,6 +10113,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0080684",
+            "director": "Irvin Kershner",
             "adult": false,
             "backdrop_path": "/AkE7LQs2hPMG5tpWYcum847Knre.jpg",
             "production_companies": [
@@ -8339,6 +10180,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0086190",
+            "director": "Richard Marquand",
             "adult": false,
             "backdrop_path": "/koE7aMeR2ATivI18mCbscLsI0Nm.jpg",
             "production_companies": [
@@ -8404,6 +10246,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0051808",
+            "director": "Akira Kurosawa",
             "adult": false,
             "backdrop_path": "/tWYihe4jwkFdl38M62ZgrKtvBAx.jpg",
             "production_companies": [
@@ -8470,6 +10313,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2488496",
+            "director": "J.J. Abrams",
             "adult": false,
             "backdrop_path": "/njv65RTipNSTozFLuF85jL0bcQe.jpg",
             "production_companies": [
@@ -8548,6 +10392,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0108394",
+            "director": "Krzysztof Kie\u015blowski",
             "adult": false,
             "backdrop_path": "/dIXPijiNZ9JsMaFWD67bFwUtZdo.jpg",
             "production_companies": [
@@ -8614,6 +10459,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0478970",
+            "director": "Peyton Reed",
             "adult": false,
             "backdrop_path": "/kvXLZqY0Ngl1XSw7EaMQO0C1CCj.jpg",
             "production_companies": [
@@ -8684,6 +10530,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt2281587",
+            "director": "James Bobin",
             "adult": false,
             "backdrop_path": "/j5KtmMiOzLlyW0VWVP74exW3N5F.jpg",
             "production_companies": [
@@ -8741,6 +10588,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0071129",
+            "director": "Federico Fellini",
             "adult": false,
             "backdrop_path": "/ed0ThMuAJXtatQv3LBMPSWcAG7p.jpg",
             "production_companies": [
@@ -8794,6 +10642,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0106301",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/7A3TB4ylq7dLoF0ZnpNnKW0xnDj.jpg",
             "production_companies": [
@@ -8848,6 +10697,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0048473",
+            "director": "Satyajit Ray",
             "adult": false,
             "backdrop_path": "/qBMGpBBPqAitJVWLnNLEPV2DxnT.jpg",
             "production_companies": [
@@ -8902,6 +10752,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0105643",
+            "director": "Claudio Fragasso",
             "adult": false,
             "backdrop_path": "/rtxkcRaD43piUrr9dQpwLiA6byh.jpg",
             "production_companies": [
@@ -8963,6 +10814,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3659388",
+            "director": "Ridley Scott",
             "adult": false,
             "backdrop_path": "/sy3e2e4JwdAtd2oZGA2uUilZe8j.jpg",
             "production_companies": [
@@ -9036,6 +10888,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0079182",
+            "director": "Sh\u00f4hei Imamura",
             "adult": false,
             "backdrop_path": "/fMNh293t6FcLBtUDYzA6TeccwHI.jpg",
             "production_companies": [
@@ -9117,6 +10970,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt1663202",
+            "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
             "adult": false,
             "backdrop_path": "/8jNiQwGgAL5R2xwAcJTGWOZn3Mm.jpg",
             "production_companies": [
@@ -9198,6 +11052,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0074360",
+            "director": "Carlos Saura",
             "adult": false,
             "backdrop_path": "/eNsv6ipLJfusv4TzDiHGrLz3lPZ.jpg",
             "production_companies": [
@@ -9255,6 +11110,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0030643",
+            "director": "Marcel Carn\u00e9",
             "adult": false,
             "backdrop_path": "/dJOrBtlhgeXCzb5n0B84CqTXCbs.jpg",
             "production_companies": [
@@ -9312,6 +11168,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0062480",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/y0CLHEfpw5TtlGT0lWYp4KL4lWg.jpg",
             "production_companies": [
@@ -9369,6 +11226,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0070698",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/6vEYlREYssQiUCSXds8w14Q4cxe.jpg",
             "production_companies": [
@@ -9422,6 +11280,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0056663",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/eXTngljcBI9tTyLOknMin1PeU0D.jpg",
             "production_companies": [
@@ -9491,6 +11350,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2494362",
+            "director": "S. Craig Zahler",
             "adult": false,
             "backdrop_path": "/eMWYoor3TroQyPw3lNsolnOGqnf.jpg",
             "production_companies": [
@@ -9552,6 +11412,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt3235888",
+            "director": "David Robert Mitchell",
             "adult": false,
             "backdrop_path": "/nwQgcgGVrKyjlxNzaDZud82pUly.jpg",
             "production_companies": [
@@ -9617,6 +11478,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0049730",
+            "director": "John Ford",
             "adult": false,
             "backdrop_path": "/vth5eDW7kDEqjnyVQQXjHRAhw7O.jpg",
             "production_companies": [
@@ -9670,6 +11532,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt4428814",
+            "director": "St\u00e9phane Briz\u00e9",
             "adult": false,
             "backdrop_path": "/kjKD9iHEbRHG7v4tNyR931FLAdW.jpg",
             "production_companies": [
@@ -9759,6 +11622,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0096754",
+            "director": "James Cameron",
             "adult": false,
             "backdrop_path": "/5mE9rLSjtjGdl1q2tSsqMAydE4F.jpg",
             "production_companies": [
@@ -9820,6 +11684,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0048641",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/8abBXoucsoBE9ScQy5UA1TaX6Jc.jpg",
             "production_companies": [
@@ -9893,6 +11758,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt1664894",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/eccCdEZbaurm6DmQGiz6EQxo8f2.jpg",
             "production_companies": [
@@ -9958,6 +11824,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0094964",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/gCf2gXex52HwDgBUZVhDOYUDfVa.jpg",
             "production_companies": [
@@ -10005,6 +11872,7 @@
             "spoken_languages": [],
             "personalRating": "4",
             "imdb_id": "tt1568152",
+            "director": "Kenneth Anger",
             "adult": false,
             "backdrop_path": "/lPIgJl3jcEfTCBWnUuzXEEZydD2.jpg",
             "production_companies": [],
@@ -10057,6 +11925,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1798709",
+            "director": "Spike Jonze",
             "adult": false,
             "backdrop_path": "/hvQN0z0HeYZEM7vPOKEqE6WsMWf.jpg",
             "production_companies": [
@@ -10118,6 +11987,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2321549",
+            "director": "Jennifer Kent",
             "adult": false,
             "backdrop_path": "/pJ10mpKs2mM2AXTUOmM4yl5PJi8.jpg",
             "production_companies": [
@@ -10187,6 +12057,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0059592",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/f61MzuuehRWWDot3WJd1mBmWxUb.jpg",
             "production_companies": [
@@ -10248,6 +12119,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0024188",
+            "director": "Erle C. Kenton",
             "adult": false,
             "backdrop_path": "/fMJHPzHLA9L8SYn8RyHWAPqzcaG.jpg",
             "production_companies": [
@@ -10309,6 +12181,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0071381",
+            "director": "Jacques Rivette",
             "adult": false,
             "backdrop_path": "/qS4AWl4LHFkePkCjdhvewgxNqfB.jpg",
             "production_companies": [
@@ -10366,6 +12239,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0065036",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/digdNP57lQQIsjThXuu8HPuM7yd.jpg",
             "production_companies": [
@@ -10427,6 +12301,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0076085",
+            "director": "Ettore Scola",
             "adult": false,
             "backdrop_path": "/svusqJ6rq4kNeX3XIRpOUx6PZVl.jpg",
             "production_companies": [
@@ -10484,6 +12359,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0087644",
+            "director": "John Cassavetes",
             "adult": false,
             "backdrop_path": "/843UePf50Dw9aOOCqeRMqHP1xJT.jpg",
             "production_companies": [
@@ -10549,6 +12425,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0166924",
+            "director": "David Lynch",
             "adult": false,
             "backdrop_path": "/ihkQywNs6Si24WssdmT1rNHuAYy.jpg",
             "production_companies": [
@@ -10627,6 +12504,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0113568",
+            "director": "Mamoru Oshii",
             "adult": false,
             "backdrop_path": "/42mSZbKHlx4Cqsf2oirkrOT9lgM.jpg",
             "production_companies": [
@@ -10692,6 +12570,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0054167",
+            "director": "Michael Powell",
             "adult": false,
             "backdrop_path": "/3xvmvjKibxboJXL3wWnGyz7ltRZ.jpg",
             "production_companies": [
@@ -10761,6 +12640,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt3460252",
+            "director": "Quentin Tarantino",
             "adult": false,
             "backdrop_path": "/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg",
             "production_companies": [
@@ -10831,6 +12711,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0047034",
+            "director": "Ishir\u00f4 Honda",
             "adult": false,
             "backdrop_path": "/AvYDpn52RVu9bRfbtVka9mpyYOt.jpg",
             "production_companies": [
@@ -10884,6 +12765,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0088412",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/lHLqket3105qT7spdszLzG3YhV3.jpg",
             "production_companies": [],
@@ -10936,6 +12818,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2649554",
+            "director": "Jeff Nichols",
             "adult": false,
             "backdrop_path": "/sZmsl0OpeWCcbEzOJiygpaH5qhX.jpg",
             "production_companies": [
@@ -11013,6 +12896,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt3397884",
+            "director": "Denis Villeneuve",
             "adult": false,
             "backdrop_path": "/zAHozevwbbsB2epEVpCkzqVccWW.jpg",
             "production_companies": [
@@ -11075,6 +12959,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0048956",
+            "director": "Satyajit Ray",
             "adult": false,
             "backdrop_path": "/55rb4DIHpbpWnbODFeoI2X6qTxZ.jpg",
             "production_companies": [
@@ -11132,6 +13017,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0087317",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": null,
             "production_companies": [
@@ -11201,6 +13087,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0109424",
+            "director": "Wong Kar-wai",
             "adult": false,
             "backdrop_path": "/o45YcrzLOuPmKS0hA3BuECFeATz.jpg",
             "production_companies": [
@@ -11262,6 +13149,7 @@
             "spoken_languages": [],
             "personalRating": "5",
             "imdb_id": "tt0118694",
+            "director": "Wong Kar-wai",
             "adult": false,
             "backdrop_path": "/hz1lRjAEhXWr1257ribWpuqqnVz.jpg",
             "production_companies": [
@@ -11323,6 +13211,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt3170832",
+            "director": "Lenny Abrahamson",
             "adult": false,
             "backdrop_path": "/tBhp8MGaiL3BXpPCSl5xY397sGH.jpg",
             "production_companies": [
@@ -11417,6 +13306,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt1431045",
+            "director": "Tim Miller",
             "adult": false,
             "backdrop_path": "/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg",
             "production_companies": [
@@ -11490,6 +13380,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0086936",
+            "director": "Werner Herzog, Denis Reichle",
             "adult": false,
             "backdrop_path": "/2PCNjUzQe1DlqKHDK0USUnhtBew.jpg",
             "production_companies": [
@@ -11551,6 +13442,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt4263482",
+            "director": "Robert Eggers",
             "adult": false,
             "backdrop_path": "/v9oJ6MaO5wdBEa20dzG6OAhoM8h.jpg",
             "production_companies": [
@@ -11640,6 +13532,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0098669",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/vTTiQ92wJsqHFvgNPDE8X7unp8r.jpg",
             "production_companies": [],
@@ -11687,7 +13580,7 @@
             "title": "10 Cloverfield Lane",
             "tagline": "Monsters come in many forms.",
             "watchDate": "2016/05/13",
-            "vote_count": 1723,
+            "vote_count": 1724,
             "homepage": "http://www.10cloverfieldlane.com/",
             "belongs_to_collection": null,
             "original_language": "en",
@@ -11700,6 +13593,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt1179933",
+            "director": "Dan Trachtenberg",
             "adult": false,
             "backdrop_path": "/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg",
             "production_companies": [
@@ -11757,6 +13651,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0073076",
+            "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles",
             "adult": false,
             "backdrop_path": "/hEGgN2IgP19qiHTP1DYbhHM3ROY.jpg",
             "production_companies": [
@@ -11814,6 +13709,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0101985",
+            "director": "Edward Yang",
             "adult": false,
             "backdrop_path": "/a8Xf9S2vj6L0Tvf7nUv1VT9GpjH.jpg",
             "production_companies": [
@@ -11875,6 +13771,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt3053694",
+            "director": "Bruno Dumont",
             "adult": false,
             "backdrop_path": "/gg6EZk3nJOvqcbYR84mxSccRHrL.jpg",
             "production_companies": [
@@ -11973,6 +13870,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0087332",
+            "director": "Ivan Reitman",
             "adult": false,
             "backdrop_path": "/qmDy6Rdom8d8UFj9GeAAtVIjTRT.jpg",
             "production_companies": [
@@ -12046,6 +13944,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2452254",
+            "director": "Olivier Assayas",
             "adult": false,
             "backdrop_path": "/m5Uw8NYatJvCSMw5hwuZdbHpS3J.jpg",
             "production_companies": [
@@ -12119,6 +14018,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2948356",
+            "director": "Byron Howard, Rich Moore, Jared Bush",
             "adult": false,
             "backdrop_path": "/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg",
             "production_companies": [
@@ -12180,6 +14080,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0069762",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/czf6PpgXD71D0OAbyAdVXK0PEQj.jpg",
             "production_companies": [
@@ -12249,6 +14150,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0077405",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/7EZDWNgx8eEot0sWaB4eFFEwlfv.jpg",
             "production_companies": [
@@ -12318,6 +14220,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0244316",
+            "director": "Edward Yang",
             "adult": false,
             "backdrop_path": "/r3IJLWkORZWJD7v9yT4yFzp2XQ6.jpg",
             "production_companies": [
@@ -12383,6 +14286,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2402927",
+            "director": "Todd Haynes",
             "adult": false,
             "backdrop_path": "/sCubt6xIlG1RVBPFoBOM6ik8Mrw.jpg",
             "production_companies": [
@@ -12448,6 +14352,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0050539",
+            "director": "Jack Arnold",
             "adult": false,
             "backdrop_path": "/soaKwwBWXq0gSoEscKP0cwuPBSo.jpg",
             "production_companies": [
@@ -12501,6 +14406,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0246135",
+            "director": "Jacques Rivette, Suzanne Schiffman",
             "adult": false,
             "backdrop_path": "/870wE2OrS2UJIW9CnzAtOjP0Zhs.jpg",
             "production_companies": [
@@ -12571,6 +14477,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0114148",
+            "director": "Mike Gabriel, Eric Goldberg",
             "adult": false,
             "backdrop_path": "/vb9ypjVwBKnxQaCGEkduSdJv0Hx.jpg",
             "production_companies": [
@@ -12628,6 +14535,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt1595656",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/mCXS5HgJuvs5tMytNuaj5d4VbK9.jpg",
             "production_companies": [
@@ -12677,6 +14585,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0051365",
+            "director": "Ingmar Bergman",
             "adult": false,
             "backdrop_path": "/gcyFhZGtPee0hwWNh3hrEjqmb8W.jpg",
             "production_companies": [
@@ -12738,6 +14647,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2401878",
+            "director": "Duke Johnson, Charlie Kaufman",
             "adult": false,
             "backdrop_path": "/7gXheUIaNCGsp6kwhKqpLCBeqBm.jpg",
             "production_companies": [
@@ -12791,6 +14701,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0091830",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/niYgN4O3fHqQ0XYTSth4tz5UrH3.jpg",
             "production_companies": [
@@ -12861,6 +14772,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0051418",
+            "director": "Irvin S. Yeaworth Jr.",
             "adult": false,
             "backdrop_path": "/Syu9W2uH5OhHrb2GAcnq40cTWZ.jpg",
             "production_companies": [
@@ -12922,6 +14834,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0058530",
+            "director": "Byron Haskin",
             "adult": false,
             "backdrop_path": "/blE9HmsOF78Q1h1Z5VzTmVEzsdc.jpg",
             "production_companies": [
@@ -12979,6 +14892,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0035279",
+            "director": "Alfred Hitchcock",
             "adult": false,
             "backdrop_path": "/lZchBGbbXhBKrr11fPzGxJFxXUj.jpg",
             "production_companies": [
@@ -13040,6 +14954,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2101383",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/6yan1Sdwz9dNKxRwEPVrtwXFjgO.jpg",
             "production_companies": [
@@ -13097,6 +15012,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0105151",
+            "director": "Robert Altman",
             "adult": false,
             "backdrop_path": "/9eFiBJr6mnqTEcKrBlPCUXzAZjM.jpg",
             "production_companies": [
@@ -13171,6 +15087,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2975590",
+            "director": "Zack Snyder",
             "adult": false,
             "backdrop_path": "/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg",
             "production_companies": [
@@ -13256,6 +15173,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0070544",
+            "director": "Ren\u00e9 Laloux",
             "adult": false,
             "backdrop_path": "/v1YaCy6ZNOyBcqS3q97qyVv6ohc.jpg",
             "production_companies": [
@@ -13321,6 +15239,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0040522",
+            "director": "Vittorio De Sica",
             "adult": false,
             "backdrop_path": "/vyz8ZJpATpxWCvYe5caZyzdn9Zq.jpg",
             "production_companies": [
@@ -13370,6 +15289,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0053270",
+            "director": "John Cassavetes",
             "adult": false,
             "backdrop_path": "/pZ4aTbmUAbNx3kqzJkRgNsUe94p.jpg",
             "production_companies": [
@@ -13427,6 +15347,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0036342",
+            "director": "Alfred Hitchcock",
             "adult": false,
             "backdrop_path": "/tR1RXbnkSvZq0sgx0Gyh3GmgYoB.jpg",
             "production_companies": [
@@ -13488,6 +15409,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0086541",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/z71Ec0T4So8nGnvfR9NQHWraOdh.jpg",
             "production_companies": [
@@ -13569,6 +15491,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0071994",
+            "director": "Brian De Palma",
             "adult": false,
             "backdrop_path": "/lvXZIHJFMloRAgUssJEUgQlahfv.jpg",
             "production_companies": [
@@ -13627,6 +15550,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt4515544",
+            "director": "Eric Judor",
             "adult": false,
             "backdrop_path": "/ll47usZIl3BQfBimB8UBaJm6aPx.jpg",
             "production_companies": [
@@ -13676,6 +15600,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1093824",
+            "director": "Werner Herzog",
             "adult": false,
             "backdrop_path": "/2Y6tw146A492NTO8m0Lsj3SyRdp.jpg",
             "production_companies": [
@@ -13725,6 +15650,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0055018",
+            "director": "Jack Clayton",
             "adult": false,
             "backdrop_path": "/bgJuEW5Mb8SeeNobBkQa6u5kA7D.jpg",
             "production_companies": [
@@ -13790,6 +15716,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1974419",
+            "director": "Nicolas Winding Refn",
             "adult": false,
             "backdrop_path": "/dPZDNDS6pE6qjmMxB1Qc6Oza5Nw.jpg",
             "production_companies": [
@@ -13864,6 +15791,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0082010",
+            "director": "John Landis",
             "adult": false,
             "backdrop_path": "/lFiEdW3zVjR2Wujxu3yZLpL2N8n.jpg",
             "production_companies": [
@@ -13929,6 +15857,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0047811",
+            "director": "Douglas Sirk",
             "adult": false,
             "backdrop_path": "/10kDDXg8Z6cPUrAjGXoE9vbJXcN.jpg",
             "production_companies": [
@@ -13978,6 +15907,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0021576",
+            "director": "Jean Vigo",
             "adult": false,
             "backdrop_path": "/oHxGw2b9XxvJiT30JYsFQ8B8odp.jpg",
             "production_companies": [
@@ -14027,6 +15957,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0022462",
+            "director": "Jean Vigo",
             "adult": false,
             "backdrop_path": null,
             "production_companies": [],
@@ -14079,6 +16010,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0024803",
+            "director": "Jean Vigo",
             "adult": false,
             "backdrop_path": "/roog9nmIyArcI02RqPQ9JfWl9Y9.jpg",
             "production_companies": [
@@ -14140,6 +16072,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0024844",
+            "director": "Jean Vigo",
             "adult": false,
             "backdrop_path": "/lzZp0CynyESNFFcoonKwPBeiNNq.jpg",
             "production_companies": [
@@ -14201,6 +16134,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0073650",
+            "director": "Pier Paolo Pasolini",
             "adult": false,
             "backdrop_path": "/mOHNcd5dVHu8XGOzbcRyoZgGaUe.jpg",
             "production_companies": [
@@ -14258,6 +16192,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2846972",
+            "director": "Antonin Peretjatko",
             "adult": false,
             "backdrop_path": "/2HVcw4frAnSROxnZRRwKX2HD0Ia.jpg",
             "production_companies": [
@@ -14311,6 +16246,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0073440",
+            "director": "Robert Altman",
             "adult": false,
             "backdrop_path": "/dyK4NOS0zIUpEHFBQWzBveBpQwF.jpg",
             "production_companies": [
@@ -14376,6 +16312,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt4062536",
+            "director": "Jeremy Saulnier",
             "adult": false,
             "backdrop_path": "/w5TW2cLJknpWRYjmyuwfsQ1jFDA.jpg",
             "production_companies": [
@@ -14437,6 +16374,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0079336",
+            "director": "Arthur Hiller",
             "adult": false,
             "backdrop_path": "/7k44lOZzrniNjUItBx6HCUSikTy.jpg",
             "production_companies": [
@@ -14490,6 +16428,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0087821",
+            "director": "\u00c9ric Rohmer",
             "adult": false,
             "backdrop_path": "/55nlsO4ZTjxbelEQbjZE8QmzSLx.jpg",
             "production_companies": [
@@ -14555,6 +16494,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0062229",
+            "director": "Jean-Pierre Melville",
             "adult": false,
             "backdrop_path": "/uC9xGDps26YSX0v1wSdUE81JjDa.jpg",
             "production_companies": [
@@ -14628,6 +16568,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0060647",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/1NiP3vp2IDExay9J8mgi78jvz3y.jpg",
             "production_companies": [
@@ -14693,6 +16634,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0402399",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/eJw95HMmQdOb3uGUpOeJwLLui5J.jpg",
             "production_companies": [
@@ -14758,6 +16700,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0075612",
+            "director": "Robert Altman",
             "adult": false,
             "backdrop_path": "/wL2cj2yCbV9UGJD8iATXuYN4hmO.jpg",
             "production_companies": [
@@ -14811,6 +16754,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0073705",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/geNQL14KwHrRJKSMSiwTBI0soRL.jpg",
             "production_companies": [
@@ -14880,6 +16824,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0070130",
+            "director": "Marco Ferreri",
             "adult": false,
             "backdrop_path": "/cRlV4LoIKQc3LGozJRaKeVOTaHs.jpg",
             "production_companies": [
@@ -14949,6 +16894,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt3296658",
+            "director": "Gr\u00edmur H\u00e1konarson",
             "adult": false,
             "backdrop_path": "/eLUah3hMQ708x7tDkqSyycJvdRE.jpg",
             "production_companies": [
@@ -15006,6 +16952,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2084989",
+            "director": "Shane Carruth",
             "adult": false,
             "backdrop_path": "/kAP1HdlU4rnqC7mYMx2Rg7KZST3.jpg",
             "production_companies": [
@@ -15055,6 +17002,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0064451",
+            "director": "King Hu",
             "adult": false,
             "backdrop_path": "/d3jAyzTLLukl5pI2OinRcHEo9Mj.jpg",
             "production_companies": [
@@ -15124,6 +17072,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0462335",
+            "director": "Ben Wheatley",
             "adult": false,
             "backdrop_path": "/gwXIxyQVwunRYMj21YkvRefQ3vq.jpg",
             "production_companies": [
@@ -15201,6 +17150,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1216496",
+            "director": "Bong Joon-ho ",
             "adult": false,
             "backdrop_path": "/qCWHkMFWaNjlE1QV3iy3iMaA1fD.jpg",
             "production_companies": [
@@ -15258,6 +17208,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0053134",
+            "director": "Yasujir\u014d Ozu",
             "adult": false,
             "backdrop_path": "/8gjHYpl5ZBK2LtltGrDjaoHuYLa.jpg",
             "production_companies": [
@@ -15298,7 +17249,7 @@
             "title": "Captain America: Civil War",
             "tagline": "Divided We Fall",
             "watchDate": "2016/09/11",
-            "vote_count": 4929,
+            "vote_count": 4932,
             "homepage": "http://marvel.com/captainamericapremiere",
             "belongs_to_collection": {
                 "backdrop_path": "/nZSYqitBkAvmoq5IrsGsSWuhSC8.jpg",
@@ -15328,6 +17279,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3498820",
+            "director": "Anthony Russo, Joe Russo",
             "adult": false,
             "backdrop_path": "/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg",
             "production_companies": [
@@ -15389,6 +17341,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt1683048",
+            "director": "Noah Baumbach, Jake Paltrow",
             "adult": false,
             "backdrop_path": "/mrUbDvyPEolk4HZiQI3838qb2g1.jpg",
             "production_companies": [
@@ -15450,6 +17403,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt5700672",
+            "director": " Yeon Sang-Ho",
             "adult": false,
             "backdrop_path": "/9EetaShpwcbSfrcvDmaFaNMtVyK.jpg",
             "production_companies": [
@@ -15507,6 +17461,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0060390",
+            "director": "Fran\u00e7ois Truffaut",
             "adult": false,
             "backdrop_path": "/sxmZ0u5AzxWOgfQuKy5ylvKbp9W.jpg",
             "production_companies": [
@@ -15560,6 +17515,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0064296",
+            "director": "Yoshishige Yoshida",
             "adult": false,
             "backdrop_path": "/aCj9skRHyLR977nBMJlp24vJqKs.jpg",
             "production_companies": [
@@ -15617,6 +17573,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt4645368",
+            "director": "Xavier Dolan",
             "adult": false,
             "backdrop_path": "/ngCkX82tbmMXQ2DhP9vqZbtSume.jpg",
             "production_companies": [
@@ -15695,6 +17652,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0034587",
+            "director": "Jacques Tourneur",
             "adult": false,
             "backdrop_path": "/fFN0s7wTBtDuzWCxZV8lPe3gGWK.jpg",
             "production_companies": [
@@ -15753,6 +17711,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0114436",
+            "director": "Paul Verhoeven",
             "adult": false,
             "backdrop_path": "/w1I5Irc48SYup0Z2n1VJrLRcUUS.jpg",
             "production_companies": [
@@ -15830,6 +17789,7 @@
             ],
             "personalRating": "1",
             "imdb_id": "tt0803096",
+            "director": "Duncan Jones",
             "adult": false,
             "backdrop_path": "/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg",
             "production_companies": [
@@ -15903,6 +17863,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt3040964",
+            "director": "Jon Favreau",
             "adult": false,
             "backdrop_path": "/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg",
             "production_companies": [
@@ -15976,6 +17937,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2375605",
+            "director": "Joshua Oppenheimer, Christine Cynn, Anonymous",
             "adult": false,
             "backdrop_path": "/l2QQ0OFAsQqFNdPTzkdyX5kbGWs.jpg",
             "production_companies": [
@@ -16073,6 +18035,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt3521134",
+            "director": "Joshua Oppenheimer",
             "adult": false,
             "backdrop_path": "/ymBMEi2YrentURJW5HKEvxDndIm.jpg",
             "production_companies": [
@@ -16138,6 +18101,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt5326448",
+            "director": "Fran\u00e7ois Ruffin",
             "adult": false,
             "backdrop_path": "/2x6x76bUTmhjNP290ho0AY3zd2S.jpg",
             "production_companies": [
@@ -16199,6 +18163,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0055830",
+            "director": "Herk Harvey",
             "adult": false,
             "backdrop_path": "/qatg0LmXFdaJYEUhMgsymR0L6hD.jpg",
             "production_companies": [
@@ -16248,6 +18213,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0067411",
+            "director": "Robert Altman",
             "adult": false,
             "backdrop_path": "/eu1tpFquagrdJGJZ4sPZcnODp4l.jpg",
             "production_companies": [
@@ -16309,6 +18275,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1128075",
+            "director": "Sion Sono",
             "adult": false,
             "backdrop_path": "/hyrAh7Y6SvzGTsqRUye6kXZeTfz.jpg",
             "production_companies": [
@@ -16362,6 +18329,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0108122",
+            "director": "Robert Altman",
             "adult": false,
             "backdrop_path": "/yYl34UM122dKnIYnXM0Yxz7P0qn.jpg",
             "production_companies": [
@@ -16419,6 +18387,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0068278",
+            "director": "Rainer Werner Fassbinder",
             "adult": false,
             "backdrop_path": "/fv7DANWpK79yMN4jKocc7jcrB4W.jpg",
             "production_companies": [
@@ -16484,6 +18453,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt1700841",
+            "director": "Conrad Vernon, Greg Tiernan",
             "adult": false,
             "backdrop_path": "/49qeJLCgTDCxesSV7tgtosqhMQX.jpg",
             "production_companies": [
@@ -16561,6 +18531,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt4726636",
+            "director": "Bruno Dumont",
             "adult": false,
             "backdrop_path": "/7ZnIF8QXkRMUlvMq8JHcFqTzwai.jpg",
             "production_companies": [
@@ -16690,6 +18661,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0108435",
+            "director": "Bertrand Blier",
             "adult": false,
             "backdrop_path": "/dxoq2XpIf4WNPo1hElxRY2acpIi.jpg",
             "production_companies": [
@@ -16771,6 +18743,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0101765",
+            "director": "Krzysztof Kie\u015blowski",
             "adult": false,
             "backdrop_path": "/mCkj8IwQq7JSClJeaalRWO4XLLW.jpg",
             "production_companies": [
@@ -16841,6 +18814,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2277860",
+            "director": "Andrew Stanton, Angus MacLane",
             "adult": false,
             "backdrop_path": "/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg",
             "production_companies": [
@@ -16902,6 +18876,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt3716530",
+            "director": "Paul Verhoeven",
             "adult": false,
             "backdrop_path": "/lpRqMiDCHEXcr7akOauls367NsN.jpg",
             "production_companies": [
@@ -16968,6 +18943,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0079095",
+            "director": "Rainer Werner Fassbinder",
             "adult": false,
             "backdrop_path": "/mvZbgOQpePfktmAeeFzMwrR0UKO.jpg",
             "production_companies": [
@@ -17049,6 +19025,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt5215952",
+            "director": "Na Hong-jin",
             "adult": false,
             "backdrop_path": "/pthuMQIXSRDdGGS8p6n6IG21ZRJ.jpg",
             "production_companies": [
@@ -17102,6 +19079,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt5278506",
+            "director": "David Farrier, Dylan Reeve",
             "adult": false,
             "backdrop_path": "/nlTFwDEHnoSVYhibNQf7l7TrAD3.jpg",
             "production_companies": [
@@ -17171,6 +19149,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2543164",
+            "director": "Denis Villeneuve",
             "adult": false,
             "backdrop_path": "/yIZ1xendyqKvY3FGeeUYUd5X9Mm.jpg",
             "production_companies": [
@@ -17228,6 +19207,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt5115004",
+            "director": "Antonin Peretjatko",
             "adult": false,
             "backdrop_path": "/of2kJH6OGBbVH1PSbJGf8PmTZm6.jpg",
             "production_companies": [
@@ -17293,6 +19273,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0057345",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/jC3JTnd8Vb6EkRGtfTxafPleFHM.jpg",
             "production_companies": [
@@ -17366,6 +19347,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0851578",
+            "director": "Satoshi Kon",
             "adult": false,
             "backdrop_path": "/5hWaV1JrT0GLA8Yfnh8DYwQC72X.jpg",
             "production_companies": [
@@ -17427,6 +19409,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0076590",
+            "director": "David Cronenberg",
             "adult": false,
             "backdrop_path": "/iqisWYtU2HjfmU3HhzgHm8gz1x4.jpg",
             "production_companies": [
@@ -17497,6 +19480,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0093177",
+            "director": "Clive Barker",
             "adult": false,
             "backdrop_path": "/jd7pIx2XnO8wRdPT5ncAjhFxNwL.jpg",
             "production_companies": [
@@ -17558,6 +19542,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0043014",
+            "director": "Billy Wilder",
             "adult": false,
             "backdrop_path": "/49OTCCPYlARRe2JS1PAhPJmFkIW.jpg",
             "production_companies": [
@@ -17620,6 +19605,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0103919",
+            "director": "Bernard Rose",
             "adult": false,
             "backdrop_path": "/ytzqiDJ1mixWxBhFr1Lmp0VZjtT.jpg",
             "production_companies": [
@@ -17693,6 +19679,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0065234",
+            "director": "Costa-Gavras",
             "adult": false,
             "backdrop_path": "/waPBHUht5XiGltMzNl6qwOZSy2E.jpg",
             "production_companies": [
@@ -17742,6 +19729,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0057176",
+            "director": "Alain Robbe-Grillet",
             "adult": false,
             "backdrop_path": "/z5P1xmSDddCeL2az0eMw1DJNB1S.jpg",
             "production_companies": [
@@ -17823,6 +19811,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0120863",
+            "director": "Terrence Malick",
             "adult": false,
             "backdrop_path": "/oS0cFYuAkQ3D44uRdJwbIuuPBli.jpg",
             "production_companies": [
@@ -17888,6 +19877,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0043338",
+            "director": "Billy Wilder",
             "adult": false,
             "backdrop_path": "/tks1iihrgodKkUobDjr0UFENimk.jpg",
             "production_companies": [
@@ -17945,6 +19935,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0061113",
+            "director": "Alain Robbe-Grillet",
             "adult": false,
             "backdrop_path": "/5opPt0tN8MwfxL0mUuaSW1v7qzj.jpg",
             "production_companies": [
@@ -18003,6 +19994,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0095294",
+            "director": "Tony Randel",
             "adult": false,
             "backdrop_path": "/s3YnyO4lwQ5tgdWw664zdKsKkpk.jpg",
             "production_companies": [
@@ -18064,6 +20056,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt4139124",
+            "director": "Peter Atencio",
             "adult": false,
             "backdrop_path": "/scM6zcBTXvUByKxQnyM11qWJbtX.jpg",
             "production_companies": [
@@ -18125,6 +20118,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt4701660",
+            "director": "Stephen Chow",
             "adult": false,
             "backdrop_path": "/z9G1nEv6XYBBw6C5w0dLf6HLsGu.jpg",
             "production_companies": [
@@ -18178,6 +20172,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0151804",
+            "director": "Mike Judge",
             "adult": false,
             "backdrop_path": "/xczi1bXG9FCfxN1NmTrKgmCx0i4.jpg",
             "production_companies": [
@@ -18239,6 +20234,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt3013610",
+            "director": "Nanni Moretti",
             "adult": false,
             "backdrop_path": "/ph9MTsU4D08eE2Pi8bHFSBlq8Ad.jpg",
             "production_companies": [
@@ -18304,6 +20300,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0074811",
+            "director": "Roman Polanski",
             "adult": false,
             "backdrop_path": "/lAFd6iJAvsJCotFqFox45vDfv79.jpg",
             "production_companies": [
@@ -18357,6 +20354,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0047396",
+            "director": "Alfred Hitchcock",
             "adult": false,
             "backdrop_path": "/8hknli2ljweYPkdEgl33vtJBf2U.jpg",
             "production_companies": [
@@ -18414,6 +20412,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0059646",
+            "director": "Roman Polanski",
             "adult": false,
             "backdrop_path": "/kDnN3JQKaJHYfl0jYsv0CIwNpPU.jpg",
             "production_companies": [
@@ -18483,6 +20482,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0032599",
+            "director": "Howard Hawks",
             "adult": false,
             "backdrop_path": "/99EC2akzRSUNQoCTxgZLNolQR8I.jpg",
             "production_companies": [
@@ -18544,6 +20544,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt3783958",
+            "director": "Damien Chazelle",
             "adult": false,
             "backdrop_path": "/fp6X6yhgcxzxCpmM0EVC6V9B8XB.jpg",
             "production_companies": [
@@ -18625,6 +20626,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0048393",
+            "director": "Orson Welles",
             "adult": false,
             "backdrop_path": "/ulTUztWpvsQ1KQEwmEyXfXDvtrV.jpg",
             "production_companies": [
@@ -18690,6 +20692,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0079672",
+            "director": "John Cassavetes",
             "adult": false,
             "backdrop_path": "/mepi960Cs1fild6LKHBh84g0way.jpg",
             "production_companies": [
@@ -18751,6 +20754,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2396224",
+            "director": "Don Hertzfeldt",
             "adult": false,
             "backdrop_path": "/8d6pHJuYGh0PNeYbD1NjzAaQlgO.jpg",
             "production_companies": [
@@ -18808,6 +20812,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt1895587",
+            "director": "Tom McCarthy",
             "adult": false,
             "backdrop_path": "/mYle76KdC8vaMJz6r73S0nKmnk2.jpg",
             "production_companies": [
@@ -18881,6 +20886,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt0057869",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/tJz0WBkQBlg3LCMTnWa3wrykrOs.jpg",
             "production_companies": [
@@ -18942,6 +20948,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0038355",
+            "director": "Howard Hawks",
             "adult": false,
             "backdrop_path": "/eBqZdccNpwswdIrbx64Snml1dOI.jpg",
             "production_companies": [
@@ -19007,6 +21014,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt4048272",
+            "director": "Maren Ade",
             "adult": false,
             "backdrop_path": "/lxg1RBZ8tWalxyOjYjFbPRti7JJ.jpg",
             "production_companies": [
@@ -19092,6 +21100,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0096734",
+            "director": "Joe Dante",
             "adult": false,
             "backdrop_path": "/yCOTJnV7I0UcusTycv5bGEDQ5ll.jpg",
             "production_companies": [
@@ -19153,6 +21162,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt2513074",
+            "director": "Ang Lee",
             "adult": false,
             "backdrop_path": "/v3a3PEJH9HQobkHdh6mxw4XBN3M.jpg",
             "production_companies": [
@@ -19225,7 +21235,7 @@
             "title": "Doctor Strange",
             "tagline": "Open your mind. Change your reality.",
             "watchDate": "2017/02/15",
-            "vote_count": 3002,
+            "vote_count": 3009,
             "homepage": "http://marvel.com/doctorstrange",
             "belongs_to_collection": null,
             "original_language": "en",
@@ -19238,6 +21248,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt1211837",
+            "director": "Scott Derrickson",
             "adult": false,
             "backdrop_path": "/tFI8VLMgSTTU38i8TIsklfqS9Nl.jpg",
             "production_companies": [
@@ -19299,6 +21310,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt0084899",
+            "director": "Samuel Fuller",
             "adult": false,
             "backdrop_path": "/xrSBM8TF1fXz0XDujb4XUqJymEU.jpg",
             "production_companies": [
@@ -19356,6 +21368,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt2582782",
+            "director": "David Mackenzie",
             "adult": false,
             "backdrop_path": "/5GbRKOQSY08U3SQXXcQAKEnL2rE.jpg",
             "production_companies": [
@@ -19417,6 +21430,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0058701",
+            "director": "Jean-Luc Godard",
             "adult": false,
             "backdrop_path": "/cl6oT2uaHI0tlrvGbxhjyC7jhqa.jpg",
             "production_companies": [
@@ -19478,6 +21492,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0073582",
+            "director": "Dario Argento",
             "adult": false,
             "backdrop_path": "/dZVcOjtgktUgThW617jdBOypFXh.jpg",
             "production_companies": [
@@ -19543,6 +21558,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt1619029",
+            "director": "Pablo Larra\u00edn",
             "adult": false,
             "backdrop_path": "/t1uKXfaZDZUt9ZsEYxBpwHirbZT.jpg",
             "production_companies": [
@@ -19624,6 +21640,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt5275892",
+            "director": "Ezra Edelman",
             "adult": false,
             "backdrop_path": "/6Q2NXl1vIKurNMWTtK6opVQHmLO.jpg",
             "production_companies": [
@@ -19677,6 +21694,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt5895028",
+            "director": "Ava DuVernay",
             "adult": false,
             "backdrop_path": "/fhSkVpRCg5s9b8nmdSS77Q1onhv.jpg",
             "production_companies": [
@@ -19730,6 +21748,7 @@
             ],
             "personalRating": "2",
             "imdb_id": "tt2382298",
+            "director": "Steve James",
             "adult": false,
             "backdrop_path": "/cWbkp7D7OYvtddLEVzXNu1uqw9x.jpg",
             "production_companies": [
@@ -19777,6 +21796,7 @@
             "spoken_languages": [],
             "personalRating": "3",
             "imdb_id": "tt2361846",
+            "director": "Bill Plympton",
             "adult": false,
             "backdrop_path": "/r5pNhst4ilOYiWtEBL58cF4CSyA.jpg",
             "production_companies": [
@@ -19830,6 +21850,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0031679",
+            "director": "Frank Capra",
             "adult": false,
             "backdrop_path": "/dwy7iMMePSfSNXvahTQPmygot1g.jpg",
             "production_companies": [
@@ -19904,6 +21925,7 @@
             ],
             "personalRating": "4",
             "imdb_id": "tt0111507",
+            "director": "Krzysztof Kie\u015blowski",
             "adult": false,
             "backdrop_path": "/kA93JyJKPbS3my9pZVrr9V2jDeV.jpg",
             "production_companies": [
@@ -19977,6 +21999,7 @@
             ],
             "personalRating": "3",
             "imdb_id": "tt2245084",
+            "director": "Don Hall, Chris Williams",
             "adult": false,
             "backdrop_path": "/2BXd0t9JdVqCp9sKf6kzMkr7QjB.jpg",
             "production_companies": [
@@ -20051,6 +22074,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0112431",
+            "director": "Chris Noonan",
             "adult": false,
             "backdrop_path": "/67jzzA7YqDTR5qIUhAH32cvkf53.jpg",
             "production_companies": [
@@ -20128,6 +22152,7 @@
             ],
             "personalRating": "5",
             "imdb_id": "tt0460829",
+            "director": "David Lynch",
             "adult": false,
             "backdrop_path": "/85uNq0R2uGEW90SDnWnCH8bfqs7.jpg",
             "production_companies": [
@@ -20164,27 +22189,150 @@
             "runtime": 172
         }
     ],
-    "genres": {
-        "Mystery": 33,
-        "Romance": 47,
-        "Family": 18,
-        "Science Fiction": 46,
-        "Horror": 42,
-        "Crime": 37,
-        "Drama": 189,
-        "Fantasy": 21,
-        "Western": 6,
-        "Animation": 14,
-        "Music": 12,
-        "Adventure": 38,
-        "Foreign": 2,
-        "Action": 39,
-        "Comedy": 70,
-        "Documentary": 26,
-        "War": 6,
-        "Thriller": 64,
-        "History": 6
-    },
+    "cinematographers": [
+        [
+            11905,
+            {
+                "count": 11,
+                "name": "Sven Nykvist"
+            }
+        ],
+        [
+            3540,
+            {
+                "count": 8,
+                "name": "Raoul Coutard"
+            }
+        ],
+        [
+            3569,
+            {
+                "count": 5,
+                "name": "N\u00e9stor Almendros"
+            }
+        ],
+        [
+            4185,
+            {
+                "count": 5,
+                "name": "Emmanuel Lubezki"
+            }
+        ],
+        [
+            14020,
+            {
+                "count": 4,
+                "name": "Roland Totheroh"
+            }
+        ],
+        [
+            6652,
+            {
+                "count": 4,
+                "name": "Gunnar Fischer"
+            }
+        ],
+        [
+            12235,
+            {
+                "count": 3,
+                "name": "Vilmos Zsigmond"
+            }
+        ],
+        [
+            12166,
+            {
+                "count": 3,
+                "name": "Subrata Mitra"
+            }
+        ],
+        [
+            1258,
+            {
+                "count": 3,
+                "name": "Stephen H. Burum"
+            }
+        ],
+        [
+            151,
+            {
+                "count": 3,
+                "name": "Roger Deakins"
+            }
+        ]
+    ],
+    "actors": [
+        [
+            2201,
+            {
+                "count": 8,
+                "name": "Max von Sydow"
+            }
+        ],
+        [
+            6649,
+            {
+                "count": 8,
+                "name": "Gunnar Bj\u00f6rnstrand"
+            }
+        ],
+        [
+            38127,
+            {
+                "count": 8,
+                "name": "Erland Josephson"
+            }
+        ],
+        [
+            4,
+            {
+                "count": 7,
+                "name": "Carrie Fisher"
+            }
+        ],
+        [
+            6818,
+            {
+                "count": 6,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
+            1653,
+            {
+                "count": 6,
+                "name": "Jean-Pierre L\u00e9aud"
+            }
+        ],
+        [
+            8742,
+            {
+                "count": 6,
+                "name": "Ingrid Thulin"
+            }
+        ],
+        [
+            7624,
+            {
+                "count": 5,
+                "name": "Stan Lee"
+            }
+        ],
+        [
+            2,
+            {
+                "count": 5,
+                "name": "Mark Hamill"
+            }
+        ],
+        [
+            11916,
+            {
+                "count": 5,
+                "name": "Liv Ullmann"
+            }
+        ]
+    ],
     "decades": {
         "1920s": 1,
         "1930s": 9,
@@ -20196,48 +22344,5 @@
         "1990s": 28,
         "2000s": 18,
         "2010s": 97
-    },
-    "countries": {
-        "BE": 5,
-        "FR": 88,
-        "DK": 6,
-        "DE": 29,
-        "JP": 14,
-        "HK": 4,
-        "DZ": 1,
-        "FI": 1,
-        "RU": 1,
-        "NL": 1,
-        "NO": 6,
-        "NA": 1,
-        "TR": 1,
-        "NZ": 3,
-        "TH": 1,
-        "PE": 1,
-        "AT": 1,
-        "IS": 1,
-        "PL": 6,
-        "CH": 5,
-        "CN": 5,
-        "CL": 1,
-        "CA": 20,
-        "IR": 1,
-        "IT": 17,
-        "ZA": 1,
-        "CZ": 1,
-        "AR": 1,
-        "AU": 5,
-        "GB": 28,
-        "IN": 5,
-        "IE": 1,
-        "ID": 1,
-        "ES": 5,
-        "US": 145,
-        "KR": 4,
-        "TW": 4,
-        "MY": 1,
-        "MX": 2,
-        "SE": 18,
-        "IL": 1
     }
 }
