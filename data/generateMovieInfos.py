@@ -79,14 +79,21 @@ def generateMovieInfos():
 			watchDate, imdbId, rating = movie.strip().split(" ")
 			if movie:
 				movieInfo = getMovieInfo(imdbId)
-				movieInfo["watchDate"] = watchDate
-				movieInfo["personalRating"] = rating
 				getDecade(movieInfo)
 				getCountry(movieInfo)
 				getGenre(movieInfo)
 				director = getCreditsInfo(imdbId)
-				movieInfo["director"] = director
-				movieInfos.append(movieInfo)
+				movieInfoLight = dict()
+				movieInfoLight["imdb_id"] = movieInfo["imdb_id"]
+				movieInfoLight["original_title"] = movieInfo["original_title"]
+				movieInfoLight["release_date"] = movieInfo["release_date"]
+				movieInfoLight["vote_average"] = movieInfo["vote_average"]
+				movieInfoLight["watchDate"] = watchDate
+				movieInfoLight["personalRating"] = rating
+				movieInfoLight["runtime"] = movieInfo["runtime"]
+				movieInfoLight["poster_path"] = movieInfo["poster_path"]
+				movieInfoLight["director"] = director
+				movieInfos.append(movieInfoLight)
 				sys.stdout.flush()
 
 	jsonResult["countries"] = countryList
