@@ -1,15 +1,15 @@
 {
     "genres": {
-        "Drama": 189,
+        "Drama": 190,
         "Comedy": 71,
         "Thriller": 64,
-        "Romance": 47,
+        "Romance": 48,
         "Science Fiction": 46,
         "Horror": 42,
         "Adventure": 39,
         "Action": 39,
         "Crime": 37,
-        "Mystery": 33,
+        "Mystery": 34,
         "Documentary": 26,
         "Fantasy": 22,
         "Family": 19,
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 88,
+            "count": 89,
             "name": "France"
         },
         "DK": {
@@ -94,11 +94,11 @@
             "name": "Iceland"
         },
         "PL": {
-            "count": 6,
+            "count": 7,
             "name": "Poland"
         },
         "CH": {
-            "count": 5,
+            "count": 6,
             "name": "Switzerland"
         },
         "CN": {
@@ -258,6 +258,13 @@
             }
         ],
         [
+            1126,
+            {
+                "count": 4,
+                "name": "Krzysztof Kie\u015blowski"
+            }
+        ],
+        [
             142865,
             {
                 "count": 4,
@@ -304,13 +311,6 @@
             {
                 "count": 3,
                 "name": "Michael Powell"
-            }
-        ],
-        [
-            1126,
-            {
-                "count": 3,
-                "name": "Krzysztof Kie\u015blowski"
             }
         ],
         [
@@ -1732,7 +1732,7 @@
         {
             "poster_path": "/zaTSxlRTPF0rJXNJeskCdck80AR.jpg",
             "original_title": "Mais o\u00f9 est donc pass\u00e9e la 7\u00e8me compagnie ?",
-            "release_date": "1973-01-01",
+            "release_date": "1973",
             "watchDate": "2015-01-02",
             "imdb_id": "tt0070356",
             "director": "Robert Lamoureux",
@@ -1743,7 +1743,7 @@
         {
             "poster_path": "/mSrfyFGeSZ58sfDvtVz8TvTQyfX.jpg",
             "original_title": "Nostalghia",
-            "release_date": "1983-05-01",
+            "release_date": "1983",
             "watchDate": "2015-01-04",
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
@@ -1754,7 +1754,7 @@
         {
             "poster_path": "/gdiLTof3rbPDAmPaCf4g6op46bj.jpg",
             "original_title": "Gone Girl",
-            "release_date": "2014-10-01",
+            "release_date": "2014",
             "watchDate": "2015-01-10",
             "imdb_id": "tt2267998",
             "director": "David Fincher",
@@ -1765,7 +1765,7 @@
         {
             "poster_path": "/odrDjWF4LESn2tJXukmKRWyi1Vf.jpg",
             "original_title": "Offret",
-            "release_date": "1986-05-14",
+            "release_date": "1986",
             "watchDate": "2015-01-11",
             "imdb_id": "tt0091670",
             "director": "Andrei Tarkovsky",
@@ -1776,7 +1776,7 @@
         {
             "poster_path": "/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
             "original_title": "Whiplash",
-            "release_date": "2014-10-10",
+            "release_date": "2014",
             "watchDate": "2015-01-12",
             "imdb_id": "tt2582802",
             "director": "Damien Chazelle",
@@ -1787,7 +1787,7 @@
         {
             "poster_path": "/xTRRw69N4vsccTY0TDB9FqZY5ld.jpg",
             "original_title": "What's Eating Gilbert Grape",
-            "release_date": "1993-12-17",
+            "release_date": "1993",
             "watchDate": "2015-01-14",
             "imdb_id": "tt0108550",
             "director": "Lasse Hallstr\u00f6m",
@@ -1798,7 +1798,7 @@
         {
             "poster_path": "/aKzNcJyGuuXeGLU6LhIth8PtUe1.jpg",
             "original_title": "Le Signe du lion",
-            "release_date": "1962-05-03",
+            "release_date": "1962",
             "watchDate": "2015-01-18",
             "imdb_id": "tt0053279",
             "director": "\u00c9ric Rohmer",
@@ -1809,7 +1809,7 @@
         {
             "poster_path": "/1WDyB4Kljpxg0hcosLYH6QzPeUP.jpg",
             "original_title": "Adieu au langage",
-            "release_date": "2014-08-15",
+            "release_date": "2014",
             "watchDate": "2015-01-18",
             "imdb_id": "tt2400275",
             "director": "Jean-Luc Godard",
@@ -1820,7 +1820,7 @@
         {
             "poster_path": "/4ecSw6cvCgXiw6eRbsCzvlrPPeM.jpg",
             "original_title": "Saraband",
-            "release_date": "2003-12-01",
+            "release_date": "2003",
             "watchDate": "2015-01-19",
             "imdb_id": "tt0299478",
             "director": "Ingmar Bergman",
@@ -1831,7 +1831,7 @@
         {
             "poster_path": "/xFJqU1W5WlJiKr4Witnb7h9HNHn.jpg",
             "original_title": "Dabba",
-            "release_date": "2013-09-19",
+            "release_date": "2013",
             "watchDate": "2015-01-21",
             "imdb_id": "tt2350496",
             "director": "Ritesh Batra",
@@ -1842,7 +1842,7 @@
         {
             "poster_path": "/etAL1QNI1tBMuy4jUPVYLMicbr5.jpg",
             "original_title": "K\u0131\u015f Uykusu",
-            "release_date": "2014-06-13",
+            "release_date": "2014",
             "watchDate": "2015-01-22",
             "imdb_id": "tt2758880",
             "director": "Nuri Bilge Ceylan",
@@ -1853,7 +1853,7 @@
         {
             "poster_path": "/lYhOcZ3yIXJaoWEGOFwleypLTE9.jpg",
             "original_title": "Europa",
-            "release_date": "1991-05-11",
+            "release_date": "1991",
             "watchDate": "2015-01-26",
             "imdb_id": "tt0101829",
             "director": "Lars von Trier",
@@ -1864,7 +1864,7 @@
         {
             "poster_path": "/2uWb0aSm5cFmRCHP95OdA6hvTEs.jpg",
             "original_title": "The Interview",
-            "release_date": "2014-12-25",
+            "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
             "director": "Evan Goldberg, Seth Rogen",
@@ -1875,7 +1875,7 @@
         {
             "poster_path": "/oc7XMMpoDuXf7ZeLMNjw8VrHdrB.jpg",
             "original_title": "S\u00e5som i en spegel",
-            "release_date": "1961-10-16",
+            "release_date": "1961",
             "watchDate": "2015-01-31",
             "imdb_id": "tt0055499",
             "director": "Ingmar Bergman",
@@ -1886,7 +1886,7 @@
         {
             "poster_path": "/cjAnlvCrp9ZY7atASUsxRrhve7o.jpg",
             "original_title": "Persona",
-            "release_date": "1966-10-18",
+            "release_date": "1966",
             "watchDate": "2015-02-08",
             "imdb_id": "tt0060827",
             "director": "Ingmar Bergman",
@@ -1897,7 +1897,7 @@
         {
             "poster_path": "/jN5BRy3TbxqnPLOkqLaXpfxujRU.jpg",
             "original_title": "Ma nuit chez Maud",
-            "release_date": "1969-06-04",
+            "release_date": "1969",
             "watchDate": "2015-02-08",
             "imdb_id": "tt0064612",
             "director": "\u00c9ric Rohmer",
@@ -1908,7 +1908,7 @@
         {
             "poster_path": "/ylkO72wPas7bJ7dvPlBPV2wlhjS.jpg",
             "original_title": "Les demoiselles de Rochefort",
-            "release_date": "1967-03-08",
+            "release_date": "1967",
             "watchDate": "2015-02-12",
             "imdb_id": "tt0062873",
             "director": "Jacques Demy",
@@ -1919,7 +1919,7 @@
         {
             "poster_path": "/nih4uL369ATVTYr8LTHopuHYchq.jpg",
             "original_title": "Le genou de Claire",
-            "release_date": "1970-12-11",
+            "release_date": "1970",
             "watchDate": "2015-02-14",
             "imdb_id": "tt0065772",
             "director": "\u00c9ric Rohmer",
@@ -1930,7 +1930,7 @@
         {
             "poster_path": "/zFDtirgBArEMNNhIUJvYA7k2tzn.jpg",
             "original_title": "Jungfruk\u00e4llan",
-            "release_date": "1960-02-08",
+            "release_date": "1960",
             "watchDate": "2015-02-15",
             "imdb_id": "tt0053976",
             "director": "Ingmar Bergman",
@@ -1941,7 +1941,7 @@
         {
             "poster_path": "/5pIZsbjGcWyg7ZS26b1RWWA0Fgc.jpg",
             "original_title": "L'amour l'apr\u00e8s-midi",
-            "release_date": "1972-08-21",
+            "release_date": "1972",
             "watchDate": "2015-02-21",
             "imdb_id": "tt0068205",
             "director": "\u00c9ric Rohmer",
@@ -1952,7 +1952,7 @@
         {
             "poster_path": "/3TPOQUNP0aBAvY4gm9D3N3uB7sS.jpg",
             "original_title": "Tu dors Nicole",
-            "release_date": "2014-08-22",
+            "release_date": "2014",
             "watchDate": "2015-02-23",
             "imdb_id": "tt3483194",
             "director": "St\u00e9phane LaFleur",
@@ -1963,7 +1963,7 @@
         {
             "poster_path": "/cIwYXrSPf4nIpix6LSdLMGS2BRr.jpg",
             "original_title": "Nattvardsg\u00e4sterna",
-            "release_date": "1963-02-11",
+            "release_date": "1963",
             "watchDate": "2015-02-28",
             "imdb_id": "tt0057358",
             "director": "Ingmar Bergman",
@@ -1974,7 +1974,7 @@
         {
             "poster_path": "/Tn5IdM6XyCls0XekJk0BYKxpHQ.jpg",
             "original_title": "Fanny och Alexander",
-            "release_date": "1982-12-17",
+            "release_date": "1982",
             "watchDate": "2015-03-04",
             "imdb_id": "tt0083922",
             "director": "Ingmar Bergman",
@@ -1985,7 +1985,7 @@
         {
             "poster_path": "/je9lvVfSihc4L4yMNmw0rg6oks0.jpg",
             "original_title": "Smultronst\u00e4llet",
-            "release_date": "1957-12-26",
+            "release_date": "1957",
             "watchDate": "2015-03-22",
             "imdb_id": "tt0050986",
             "director": "Ingmar Bergman",
@@ -1996,7 +1996,7 @@
         {
             "poster_path": "/aocUVKlBV0JHbg0IZuEN1uTTXjs.jpg",
             "original_title": "La Marche de l'empereur",
-            "release_date": "2005-01-26",
+            "release_date": "2005",
             "watchDate": "2015-03-23",
             "imdb_id": "tt0428803",
             "director": "Luc Jacquet, J\u00e9r\u00f4me Maison",
@@ -2007,7 +2007,7 @@
         {
             "poster_path": "/vMwQEPazqbgyGuVdj3cbvK2n3Zh.jpg",
             "original_title": "Trollfl\u00f6jten",
-            "release_date": "1975-01-01",
+            "release_date": "1975",
             "watchDate": "2015-03-29",
             "imdb_id": "tt0073822",
             "director": "Ingmar Bergman",
@@ -2018,7 +2018,7 @@
         {
             "poster_path": "/8qc4aWkYJVXaWcypDusuudnME18.jpg",
             "original_title": "Relatos salvajes",
-            "release_date": "2014-08-21",
+            "release_date": "2014",
             "watchDate": "2015-03-29",
             "imdb_id": "tt3011894",
             "director": "Dami\u00e1n Szifr\u00f3n",
@@ -2029,7 +2029,7 @@
         {
             "poster_path": "/fJ9wX5BzJL4p5R5x8y7SjZOuEoO.jpg",
             "original_title": "A Girl Walks Home Alone at Night",
-            "release_date": "2014-01-19",
+            "release_date": "2014",
             "watchDate": "2015-03-31",
             "imdb_id": "tt2326554",
             "director": "Ana Lily Amirpour",
@@ -2040,7 +2040,7 @@
         {
             "poster_path": "/5TI6iida487FB4W8pBydAeQijfQ.jpg",
             "original_title": "The Gold Rush",
-            "release_date": "1925-06-26",
+            "release_date": "1925",
             "watchDate": "2015-04-04",
             "imdb_id": "tt0015864",
             "director": "Charlie Chaplin",
@@ -2051,7 +2051,7 @@
         {
             "poster_path": "/jWzs3akV1857qNFXisadh52QFl6.jpg",
             "original_title": "Pickpocket",
-            "release_date": "1959-12-16",
+            "release_date": "1959",
             "watchDate": "2015-04-05",
             "imdb_id": "tt0053168",
             "director": "Robert Bresson",
@@ -2062,7 +2062,7 @@
         {
             "poster_path": "/gSlrUu8ij9MfRsXF0UJEJFCk1Pa.jpg",
             "original_title": "Du rififi chez les hommes",
-            "release_date": "1955-04-13",
+            "release_date": "1955",
             "watchDate": "2015-04-06",
             "imdb_id": "tt0048021",
             "director": "Jules Dassin",
@@ -2073,7 +2073,7 @@
         {
             "poster_path": "/xXEPpFJJeBHcVuQGAbSjKJTWonh.jpg",
             "original_title": "Don't Look Now",
-            "release_date": "1973-12-03",
+            "release_date": "1973",
             "watchDate": "2015-04-09",
             "imdb_id": "tt0069995",
             "director": "Nicolas Roeg",
@@ -2084,7 +2084,7 @@
         {
             "poster_path": "/nKVXTcCtOc3Zuu4yCEDMOUyeXfH.jpg",
             "original_title": "Les quatre cents coups",
-            "release_date": "1959-05-04",
+            "release_date": "1959",
             "watchDate": "2015-04-11",
             "imdb_id": "tt0053198",
             "director": "Fran\u00e7ois Truffaut",
@@ -2095,7 +2095,7 @@
         {
             "poster_path": "/m4ZCx2Iwr418IGPxRfoKnpumz9X.jpg",
             "original_title": "Modern Times",
-            "release_date": "1936-02-05",
+            "release_date": "1936",
             "watchDate": "2015-04-12",
             "imdb_id": "tt0027977",
             "director": "Charlie Chaplin",
@@ -2106,7 +2106,7 @@
         {
             "poster_path": "/o6bDZf6MVoTMmXNRX7HoKdkW7Ux.jpg",
             "original_title": "L'avventura",
-            "release_date": "1960-05-15",
+            "release_date": "1960",
             "watchDate": "2015-04-12",
             "imdb_id": "tt0053619",
             "director": "Michelangelo Antonioni",
@@ -2117,7 +2117,7 @@
         {
             "poster_path": "/rGMtc9AtZsnWSSL5VnLaGvx1PI6.jpg",
             "original_title": "Turist",
-            "release_date": "2014-08-15",
+            "release_date": "2014",
             "watchDate": "2015-04-20",
             "imdb_id": "tt2121382",
             "director": "Ruben \u00d6stlund",
@@ -2128,7 +2128,7 @@
         {
             "poster_path": "/rbx0k8IYSrBx9YhG7q3ZbVprAEx.jpg",
             "original_title": "City Lights",
-            "release_date": "1931-01-30",
+            "release_date": "1931",
             "watchDate": "2015-04-25",
             "imdb_id": "tt0021749",
             "director": "Charlie Chaplin",
@@ -2139,7 +2139,7 @@
         {
             "poster_path": "/7CeGGRLJI2Dbx9QjIwqq9Gqfjt1.jpg",
             "original_title": "Angst essen Seele auf",
-            "release_date": "1974-03-05",
+            "release_date": "1974",
             "watchDate": "2015-04-26",
             "imdb_id": "tt0071141",
             "director": "Rainer Werner Fassbinder",
@@ -2150,7 +2150,7 @@
         {
             "poster_path": "/hxL6Obbbbh9KPvGpXX7F1Oc9Fft.jpg",
             "original_title": "Koyaanisqatsi",
-            "release_date": "1982-06-06",
+            "release_date": "1982",
             "watchDate": "2015-04-30",
             "imdb_id": "tt0085809",
             "director": "Godfrey Reggio",
@@ -2161,7 +2161,7 @@
         {
             "poster_path": "/tWU8kqqJyLzZBQzB023K7NYpb8P.jpg",
             "original_title": "Tystnaden",
-            "release_date": "1963-09-23",
+            "release_date": "1963",
             "watchDate": "2015-05-02",
             "imdb_id": "tt0057611",
             "director": "Ingmar Bergman",
@@ -2172,7 +2172,7 @@
         {
             "poster_path": "/2fCg6FORkgRLpFIKlUg4gULIn1u.jpg",
             "original_title": "Inherent Vice",
-            "release_date": "2014-12-25",
+            "release_date": "2014",
             "watchDate": "2015-05-03",
             "imdb_id": "tt1791528",
             "director": "Paul Thomas Anderson",
@@ -2183,7 +2183,7 @@
         {
             "poster_path": "/2QXMswzQsEGm7oTq2YEFiiXgegd.jpg",
             "original_title": "Peau d'\u00e2ne",
-            "release_date": "1970-12-20",
+            "release_date": "1970",
             "watchDate": "2015-05-07",
             "imdb_id": "tt0066207",
             "director": "Jacques Demy",
@@ -2194,7 +2194,7 @@
         {
             "poster_path": "/javNDira5CgkDhGicvj8Rdjlk3e.jpg",
             "original_title": "Sommarlek",
-            "release_date": "1951-10-01",
+            "release_date": "1951",
             "watchDate": "2015-05-10",
             "imdb_id": "tt0044060",
             "director": "Ingmar Bergman",
@@ -2205,7 +2205,7 @@
         {
             "poster_path": "/brECyRPAWJS1clF0unAC3MtERMA.jpg",
             "original_title": "The Night of the Hunter",
-            "release_date": "1955-04-03",
+            "release_date": "1955",
             "watchDate": "2015-05-11",
             "imdb_id": "tt0048424",
             "director": "Charles Laughton",
@@ -2216,7 +2216,7 @@
         {
             "poster_path": "/aMEsvTUklw0uZ3gk3Q6lAj6302a.jpg",
             "original_title": "Jupiter Ascending",
-            "release_date": "2015-02-04",
+            "release_date": "2015",
             "watchDate": "2015-05-11",
             "imdb_id": "tt1617661",
             "director": "Lana Wachowski, Lilly Wachowski",
@@ -2227,7 +2227,7 @@
         {
             "poster_path": "/hK2KsU0lNiYRqIrYJcC3x63dPnH.jpg",
             "original_title": "The Great Dictator",
-            "release_date": "1940-10-15",
+            "release_date": "1940",
             "watchDate": "2015-05-16",
             "imdb_id": "tt0032553",
             "director": "Charlie Chaplin",
@@ -2238,7 +2238,7 @@
         {
             "poster_path": "/m2lG7g1JAzYNsgBRrDhzZe5bEDz.jpg",
             "original_title": "Viskningar och rop",
-            "release_date": "1972-12-21",
+            "release_date": "1972",
             "watchDate": "2015-05-17",
             "imdb_id": "tt0069467",
             "director": "Ingmar Bergman",
@@ -2249,7 +2249,7 @@
         {
             "poster_path": "/4n7T0G6kNLszUyfqKAboesNTm55.jpg",
             "original_title": "Still Alice",
-            "release_date": "2014-12-05",
+            "release_date": "2014",
             "watchDate": "2015-05-21",
             "imdb_id": "tt3316960",
             "director": "Richard Glatzer, Wash Westmoreland",
@@ -2260,7 +2260,7 @@
         {
             "poster_path": "/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg",
             "original_title": "Kingsman: The Secret Service",
-            "release_date": "2015-01-29",
+            "release_date": "2015",
             "watchDate": "2015-05-23",
             "imdb_id": "tt2802144",
             "director": "Matthew Vaughn",
@@ -2271,7 +2271,7 @@
         {
             "poster_path": "/bfk4raYpPodzOVbM5BHf023IfI1.jpg",
             "original_title": "Herz aus Glas",
-            "release_date": "1976-11-12",
+            "release_date": "1976",
             "watchDate": "2015-05-24",
             "imdb_id": "tt0074626",
             "director": "Werner Herzog",
@@ -2282,7 +2282,7 @@
         {
             "poster_path": "/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
             "original_title": "Mad Max: Fury Road",
-            "release_date": "2015-05-13",
+            "release_date": "2015",
             "watchDate": "2015-05-26",
             "imdb_id": "tt1392190",
             "director": "George Miller",
@@ -2293,7 +2293,7 @@
         {
             "poster_path": "/2woVot4i5Yo8RYyfnSgdhH7WEQZ.jpg",
             "original_title": "La Jet\u00e9e",
-            "release_date": "1962-02-16",
+            "release_date": "1962",
             "watchDate": "2015-05-31",
             "imdb_id": "tt0056119",
             "director": "Chris Marker",
@@ -2304,7 +2304,7 @@
         {
             "poster_path": "/3L5sW2hGHQmNfVBdOsonSfGzSrN.jpg",
             "original_title": "Sans soleil",
-            "release_date": "1983-02-15",
+            "release_date": "1983",
             "watchDate": "2015-05-31",
             "imdb_id": "tt0084628",
             "director": "Chris Marker",
@@ -2315,7 +2315,7 @@
         {
             "poster_path": "/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
             "original_title": "Interstellar",
-            "release_date": "2014-11-05",
+            "release_date": "2014",
             "watchDate": "2015-06-02",
             "imdb_id": "tt0816692",
             "director": "Christopher Nolan",
@@ -2326,7 +2326,7 @@
         {
             "poster_path": "/btbRB7BrD887j5NrvjxceRDmaot.jpg",
             "original_title": "Ex Machina",
-            "release_date": "2015-01-21",
+            "release_date": "2015",
             "watchDate": "2015-06-06",
             "imdb_id": "tt0470752",
             "director": "Alex Garland",
@@ -2337,7 +2337,7 @@
         {
             "poster_path": "/4bqqrtzY9vVQeEcqyqWfTJWmpD9.jpg",
             "original_title": "What We Do in the Shadows",
-            "release_date": "2014-06-19",
+            "release_date": "2014",
             "watchDate": "2015-06-06",
             "imdb_id": "tt3416742",
             "director": "Jemaine Clement, Taika Waititi",
@@ -2348,7 +2348,7 @@
         {
             "poster_path": "/aerF4eDsrSWZWPfJ7svnrIXkWZD.jpg",
             "original_title": "La nuit am\u00e9ricaine",
-            "release_date": "1973-05-24",
+            "release_date": "1973",
             "watchDate": "2015-06-07",
             "imdb_id": "tt0070460",
             "director": "Fran\u00e7ois Truffaut",
@@ -2359,7 +2359,7 @@
         {
             "poster_path": "/1mYAejpMskvskGr0J0SaBvdjmrH.jpg",
             "original_title": "Deux jours, une nuit",
-            "release_date": "2014-05-21",
+            "release_date": "2014",
             "watchDate": "2015-06-10",
             "imdb_id": "tt2737050",
             "director": "Jean-Pierre Dardenne, Luc Dardenne",
@@ -2370,7 +2370,7 @@
         {
             "poster_path": "/ciIFIMR78V9BMfLEylJGSwnlwm.jpg",
             "original_title": "Maps to the Stars",
-            "release_date": "2014-05-21",
+            "release_date": "2014",
             "watchDate": "2015-06-11",
             "imdb_id": "tt2172584",
             "director": "David Cronenberg",
@@ -2381,7 +2381,7 @@
         {
             "poster_path": "/8wnaYoVcSL8TbjWPUqSX8s8PfqG.jpg",
             "original_title": "\u099a\u09be\u09b0\u09c1\u09b2\u09a4\u09be",
-            "release_date": "1964-04-17",
+            "release_date": "1964",
             "watchDate": "2015-06-13",
             "imdb_id": "tt0057935",
             "director": "Satyajit Ray",
@@ -2392,7 +2392,7 @@
         {
             "poster_path": "/xghbwWlA9uW4bjkUCtUDaIeOvQ4.jpg",
             "original_title": "Obsession",
-            "release_date": "1976-08-01",
+            "release_date": "1976",
             "watchDate": "2015-06-16",
             "imdb_id": "tt0074991",
             "director": "Brian De Palma",
@@ -2403,7 +2403,7 @@
         {
             "poster_path": "/zYM0l2XBkwxJQQBCmi9A6zEUJX0.jpg",
             "original_title": "The Room",
-            "release_date": "2003-06-27",
+            "release_date": "2003",
             "watchDate": "2015-06-19",
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
@@ -2414,7 +2414,7 @@
         {
             "poster_path": "/wJ9HK1V9fs8v3fqRwQ0FOGEvj1S.jpg",
             "original_title": "Black Narcissus",
-            "release_date": "1947-01-01",
+            "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
             "director": "Michael Powell, Emeric Pressburger",
@@ -2425,7 +2425,7 @@
         {
             "poster_path": "/61G1lOkaFwt2XTYXgs9wFGDvyBV.jpg",
             "original_title": "Les Vacances de Monsieur Hulot",
-            "release_date": "1953-02-26",
+            "release_date": "1953",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0046487",
             "director": "Jacques Tati",
@@ -2436,7 +2436,7 @@
         {
             "poster_path": "/xFN3xPDzN4O7oIBmxnLIh8VROIw.jpg",
             "original_title": "The Thin Blue Line",
-            "release_date": "1988-08-28",
+            "release_date": "1988",
             "watchDate": "2015-06-25",
             "imdb_id": "tt0096257",
             "director": "Errol Morris",
@@ -2447,7 +2447,7 @@
         {
             "poster_path": "/aiTN7DL3vJYr3X26sXM0wNxYIQ7.jpg",
             "original_title": "Jalsaghar",
-            "release_date": "1958-10-10",
+            "release_date": "1958",
             "watchDate": "2015-06-28",
             "imdb_id": "tt0051792",
             "director": "Satyajit Ray",
@@ -2458,7 +2458,7 @@
         {
             "poster_path": "/3PQwY5I8I1272BHkYwDaGUBbUY0.jpg",
             "original_title": "H\u00f6stsonaten",
-            "release_date": "1978-10-08",
+            "release_date": "1978",
             "watchDate": "2015-06-28",
             "imdb_id": "tt0077711",
             "director": "Ingmar Bergman",
@@ -2469,7 +2469,7 @@
         {
             "poster_path": "/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
             "original_title": "Inside Out",
-            "release_date": "2015-06-09",
+            "release_date": "2015",
             "watchDate": "2015-06-30",
             "imdb_id": "tt2096673",
             "director": "Pete Docter",
@@ -2480,7 +2480,7 @@
         {
             "poster_path": "/tdVpsYocOpJLNhU7lDFY2yTMZcY.jpg",
             "original_title": "Tirez sur le pianiste",
-            "release_date": "1960-10-21",
+            "release_date": "1960",
             "watchDate": "2015-07-01",
             "imdb_id": "tt0054389",
             "director": "Fran\u00e7ois Truffaut",
@@ -2491,7 +2491,7 @@
         {
             "poster_path": "/eUEkR2vdP2hoGXikvsBBxIoKTW7.jpg",
             "original_title": "Die Marquise von O...",
-            "release_date": "1976-05-19",
+            "release_date": "1976",
             "watchDate": "2015-07-12",
             "imdb_id": "tt0074870",
             "director": "\u00c9ric Rohmer",
@@ -2502,7 +2502,7 @@
         {
             "poster_path": "/vpQmIOyxAw3wbXt2FeEvnVCiI2C.jpg",
             "original_title": "Trafic",
-            "release_date": "1971-04-16",
+            "release_date": "1971",
             "watchDate": "2015-07-23",
             "imdb_id": "tt0069400",
             "director": "Jacques Tati",
@@ -2513,7 +2513,7 @@
         {
             "poster_path": "/aO8dgaxaY1tcAdtFkLuz1WSxgdd.jpg",
             "original_title": "Ida",
-            "release_date": "2013-10-25",
+            "release_date": "2013",
             "watchDate": "2015-07-25",
             "imdb_id": "tt2718492",
             "director": "Pawe\u0142 Pawlikowski",
@@ -2524,7 +2524,7 @@
         {
             "poster_path": "/8c4No9UlTgkmqrybMvXGuA6nhvC.jpg",
             "original_title": "Scanners",
-            "release_date": "1981-01-14",
+            "release_date": "1981",
             "watchDate": "2015-07-29",
             "imdb_id": "tt0081455",
             "director": "David Cronenberg",
@@ -2535,7 +2535,7 @@
         {
             "poster_path": "/jmY4LAmCu27X9U88ksVvodm9mXW.jpg",
             "original_title": "My Dinner with Andr\u00e9",
-            "release_date": "1981-10-11",
+            "release_date": "1981",
             "watchDate": "2015-08-07",
             "imdb_id": "tt0082783",
             "director": "Louis Malle",
@@ -2546,7 +2546,7 @@
         {
             "poster_path": "/uovgR063sBxGHQWD8YzQm4WJX4.jpg",
             "original_title": "Fitzcarraldo",
-            "release_date": "1982-03-04",
+            "release_date": "1982",
             "watchDate": "2015-08-08",
             "imdb_id": "tt0083946",
             "director": "Werner Herzog",
@@ -2557,7 +2557,7 @@
         {
             "poster_path": "/xof9qWnk2hZ83VThQfjBFfj6F5a.jpg",
             "original_title": "Burden of Dreams",
-            "release_date": "1982-05-30",
+            "release_date": "1982",
             "watchDate": "2015-08-09",
             "imdb_id": "tt0083702",
             "director": "Les Blank",
@@ -2568,7 +2568,7 @@
         {
             "poster_path": "/mmm88wFv0X8DfhsCx2bw7JO0D69.jpg",
             "original_title": "\u6226\u5834\u306e\u30e1\u30ea\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
-            "release_date": "1983-05-23",
+            "release_date": "1983",
             "watchDate": "2015-08-09",
             "imdb_id": "tt0085933",
             "director": "Nagisa \u014cshima",
@@ -2579,7 +2579,7 @@
         {
             "poster_path": "/g5yIxuzZ3LFRxDa8SBQybJJhXng.jpg",
             "original_title": "Hoop Dreams",
-            "release_date": "1994-09-12",
+            "release_date": "1994",
             "watchDate": "2015-08-16",
             "imdb_id": "tt0110057",
             "director": "Steve James",
@@ -2590,18 +2590,18 @@
         {
             "poster_path": "/lA52Zr0MGkCDDAzwno9ruCjDwK0.jpg",
             "original_title": "Y tu mam\u00e1 tambi\u00e9n",
-            "release_date": "2001-06-08",
+            "release_date": "2001",
             "watchDate": "2015-08-16",
             "imdb_id": "tt0245574",
             "director": "Alfonso Cuar\u00f3n",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 106
         },
         {
             "poster_path": "/yRF1qpaQPZJjiORDsR7eUHzSHbf.jpg",
             "original_title": "Contact",
-            "release_date": "1997-07-11",
+            "release_date": "1997",
             "watchDate": "2015-08-22",
             "imdb_id": "tt0118884",
             "director": "Robert Zemeckis",
@@ -2612,7 +2612,7 @@
         {
             "poster_path": "/p58R3Bbzs2AoGufPBhS56DQZLtl.jpg",
             "original_title": "Hiroshima mon amour",
-            "release_date": "1959-06-10",
+            "release_date": "1959",
             "watchDate": "2015-08-23",
             "imdb_id": "tt0052893",
             "director": "Alain Resnais",
@@ -2623,7 +2623,7 @@
         {
             "poster_path": "/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
             "original_title": "WALL\u00b7E",
-            "release_date": "2008-06-22",
+            "release_date": "2008",
             "watchDate": "2015-08-28",
             "imdb_id": "tt0910970",
             "director": "Andrew Stanton",
@@ -2634,7 +2634,7 @@
         {
             "poster_path": "/u23CCG87bWtpnPuSLMWpLkdK75H.jpg",
             "original_title": "The Fury",
-            "release_date": "1978-03-10",
+            "release_date": "1978",
             "watchDate": "2015-08-30",
             "imdb_id": "tt0077588",
             "director": "Brian De Palma",
@@ -2645,7 +2645,7 @@
         {
             "poster_path": "/1caUTyQdqX9XKNXpjvNnoTDi0QP.jpg",
             "original_title": "F\u00e9lix et Meira",
-            "release_date": "2015-01-11",
+            "release_date": "2015",
             "watchDate": "2015-09-01",
             "imdb_id": "tt3685218",
             "director": "Maxime Giroux",
@@ -2656,7 +2656,7 @@
         {
             "poster_path": "/b9RHUexTE6MT5x6iZ2Wmq56H1cJ.jpg",
             "original_title": "Dressed to Kill",
-            "release_date": "1980-06-25",
+            "release_date": "1980",
             "watchDate": "2015-09-06",
             "imdb_id": "tt0080661",
             "director": "Brian De Palma",
@@ -2667,7 +2667,7 @@
         {
             "poster_path": "/lQCkPLDxFONmgzrWLvq085v1g2d.jpg",
             "original_title": "Skyfall",
-            "release_date": "2012-10-25",
+            "release_date": "2012",
             "watchDate": "2015-09-21",
             "imdb_id": "tt1074638",
             "director": "Sam Mendes",
@@ -2678,7 +2678,7 @@
         {
             "poster_path": "/rdN6IjV4xlDDhrT8ewkkJfPvp2e.jpg",
             "original_title": "The Iron Giant",
-            "release_date": "1999-08-06",
+            "release_date": "1999",
             "watchDate": "2015-09-25",
             "imdb_id": "tt0129167",
             "director": "Brad Bird",
@@ -2689,7 +2689,7 @@
         {
             "poster_path": "/vt5d1gGPgkAKoKp127WPHjSJF3P.jpg",
             "original_title": "Blow Out",
-            "release_date": "1981-07-24",
+            "release_date": "1981",
             "watchDate": "2015-09-26",
             "imdb_id": "tt0082085",
             "director": "Brian De Palma",
@@ -2700,7 +2700,7 @@
         {
             "poster_path": "/q1i8QHiHZ1cukG5iOxai8pydmoa.jpg",
             "original_title": "Face/Off",
-            "release_date": "1997-06-27",
+            "release_date": "1997",
             "watchDate": "2015-09-28",
             "imdb_id": "tt0119094",
             "director": "John Woo",
@@ -2711,7 +2711,7 @@
         {
             "poster_path": "/dZBi7DSd3zjraZY1mxYeI5JohOr.jpg",
             "original_title": "Sweet Smell of Success",
-            "release_date": "1957-06-27",
+            "release_date": "1957",
             "watchDate": "2015-09-29",
             "imdb_id": "tt0051036",
             "director": "Alexander Mackendrick",
@@ -2722,7 +2722,7 @@
         {
             "poster_path": "/iuO10cRKrMfql5yc8YTgdfHt7gR.jpg",
             "original_title": "Bottle Rocket",
-            "release_date": "1996-02-21",
+            "release_date": "1996",
             "watchDate": "2015-10-04",
             "imdb_id": "tt0115734",
             "director": "Wes Anderson",
@@ -2733,7 +2733,7 @@
         {
             "poster_path": "/dw7Lbq7luiH11cbL5MlJwUdxkUk.jpg",
             "original_title": "Love",
-            "release_date": "2015-07-06",
+            "release_date": "2015",
             "watchDate": "2015-10-08",
             "imdb_id": "tt3774694",
             "director": "Gaspar No\u00e9",
@@ -2744,7 +2744,7 @@
         {
             "poster_path": "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
             "original_title": "Jurassic World",
-            "release_date": "2015-06-09",
+            "release_date": "2015",
             "watchDate": "2015-10-17",
             "imdb_id": "tt0369610",
             "director": "Colin Trevorrow",
@@ -2755,7 +2755,7 @@
         {
             "poster_path": "/pgW8m63jB7ZgDiBbLQSMJEOQB6Z.jpg",
             "original_title": "Nosferatu: Phantom der Nacht",
-            "release_date": "1979-04-11",
+            "release_date": "1979",
             "watchDate": "2015-10-18",
             "imdb_id": "tt0079641",
             "director": "Werner Herzog",
@@ -2766,7 +2766,7 @@
         {
             "poster_path": "/5GasjPRAy5rlEyDOH7MeOyxyQGX.jpg",
             "original_title": "Cemetery of Splendour",
-            "release_date": "2015-09-02",
+            "release_date": "2015",
             "watchDate": "2015-10-18",
             "imdb_id": "tt2818654",
             "director": "Apichatpong Weerasethakul",
@@ -2777,7 +2777,7 @@
         {
             "poster_path": "/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
             "original_title": "Back to the Future",
-            "release_date": "1985-07-03",
+            "release_date": "1985",
             "watchDate": "2015-10-21",
             "imdb_id": "tt0088763",
             "director": "Robert Zemeckis",
@@ -2788,7 +2788,7 @@
         {
             "poster_path": "/k5dzvCQkXU2CAhLtlj9BHE7xmyK.jpg",
             "original_title": "Back to the Future Part II",
-            "release_date": "1989-11-20",
+            "release_date": "1989",
             "watchDate": "2015-10-24",
             "imdb_id": "tt0096874",
             "director": "Robert Zemeckis",
@@ -2799,7 +2799,7 @@
         {
             "poster_path": "/9bXkxtLrUiMrNOBfuYBqxRItDT9.jpg",
             "original_title": "Body Double",
-            "release_date": "1984-10-26",
+            "release_date": "1984",
             "watchDate": "2015-10-25",
             "imdb_id": "tt0086984",
             "director": "Brian De Palma",
@@ -2810,7 +2810,7 @@
         {
             "poster_path": "/iGDkhDPQKiA4ycpExU9kbDPW9QA.jpg",
             "original_title": "Sorcerer",
-            "release_date": "1977-06-24",
+            "release_date": "1977",
             "watchDate": "2015-10-31",
             "imdb_id": "tt0076740",
             "director": "William Friedkin",
@@ -2821,7 +2821,7 @@
         {
             "poster_path": "/t8pFmS8tvLT6khNpp7gGC7li7Jt.jpg",
             "original_title": "The Brood",
-            "release_date": "1979-05-25",
+            "release_date": "1979",
             "watchDate": "2015-11-01",
             "imdb_id": "tt0078908",
             "director": "David Cronenberg",
@@ -2832,7 +2832,7 @@
         {
             "poster_path": "/kIW7N2bKV42OWk1kkMeq5ewZQVh.jpg",
             "original_title": "Zodiac",
-            "release_date": "2007-03-02",
+            "release_date": "2007",
             "watchDate": "2015-11-07",
             "imdb_id": "tt0443706",
             "director": "David Fincher",
@@ -2843,7 +2843,7 @@
         {
             "poster_path": "/loCd5o7kk8wzNEJUwVSXGfOsisa.jpg",
             "original_title": "Vargtimmen",
-            "release_date": "1968-01-01",
+            "release_date": "1968",
             "watchDate": "2015-11-08",
             "imdb_id": "tt0063759",
             "director": "Ingmar Bergman",
@@ -2854,18 +2854,18 @@
         {
             "poster_path": "/1Ly0MRK2Na0aRpy2bD6GBRP3Rzx.jpg",
             "original_title": "Austin Powers: International Man of Mystery",
-            "release_date": "1997-05-02",
+            "release_date": "1997",
             "watchDate": "2015-11-08",
             "imdb_id": "tt0118655",
             "director": "Jay Roach",
             "personalRating": "1",
-            "vote_average": 6.5,
+            "vote_average": 6.4,
             "runtime": 94
         },
         {
             "poster_path": "/i49r4ycCQAoGh2esfnL57PWGNh.jpg",
             "original_title": "Snake Eyes",
-            "release_date": "1998-08-07",
+            "release_date": "1998",
             "watchDate": "2015-11-10",
             "imdb_id": "tt0120832",
             "director": "Brian De Palma",
@@ -2876,7 +2876,7 @@
         {
             "poster_path": "/oyOtIdNJJO8zVwPyCtxVRxPLuHO.jpg",
             "original_title": "The Red Shoes",
-            "release_date": "1948-07-20",
+            "release_date": "1948",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0040725",
             "director": "Michael Powell, Emeric Pressburger",
@@ -2887,7 +2887,7 @@
         {
             "poster_path": "/tTuDCX5MqRyJOTcyRCdmb5FkTSx.jpg",
             "original_title": "Welt am Draht",
-            "release_date": "1973-10-14",
+            "release_date": "1973",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0070904",
             "director": "Rainer Werner Fassbinder",
@@ -2898,7 +2898,7 @@
         {
             "poster_path": "/2g98fu0sbGSn6M1xPDWqzJ4cIO0.jpg",
             "original_title": "Femme Fatale",
-            "release_date": "2002-11-06",
+            "release_date": "2002",
             "watchDate": "2015-11-17",
             "imdb_id": "tt0280665",
             "director": "Brian De Palma",
@@ -2909,7 +2909,7 @@
         {
             "poster_path": "/fb4odFgekpIlFRGnW47D52Qwbky.jpg",
             "original_title": "Passion",
-            "release_date": "2012-09-07",
+            "release_date": "2012",
             "watchDate": "2015-11-21",
             "imdb_id": "tt1829012",
             "director": "Brian De Palma",
@@ -2920,7 +2920,7 @@
         {
             "poster_path": "/z2sJd1OvAGZLxgjBdSnQoLCfn3M.jpg",
             "original_title": "Mission: Impossible - Rogue Nation",
-            "release_date": "2015-07-23",
+            "release_date": "2015",
             "watchDate": "2015-11-21",
             "imdb_id": "tt2381249",
             "director": "Christopher McQuarrie",
@@ -2931,7 +2931,7 @@
         {
             "poster_path": "/fWrUTM8jeiU6G6rA4NKwkeigxGa.jpg",
             "original_title": "\u9189\u62f3",
-            "release_date": "1978-10-05",
+            "release_date": "1978",
             "watchDate": "2015-11-23",
             "imdb_id": "tt0080179",
             "director": "Yuen Woo-ping",
@@ -2942,7 +2942,7 @@
         {
             "poster_path": "/hE24GYddaxB9MVZl1CaiI86M3kp.jpg",
             "original_title": "Spectre",
-            "release_date": "2015-10-26",
+            "release_date": "2015",
             "watchDate": "2015-11-24",
             "imdb_id": "tt2379713",
             "director": "Sam Mendes",
@@ -2953,7 +2953,7 @@
         {
             "poster_path": "/9Kh39gLE5XErkPmn5nZrPJXNabb.jpg",
             "original_title": "V\u00e9rit\u00e9s et Mensonges",
-            "release_date": "1973-03-13",
+            "release_date": "1973",
             "watchDate": "2015-11-27",
             "imdb_id": "tt0072962",
             "director": "Orson Welles",
@@ -2964,7 +2964,7 @@
         {
             "poster_path": "/lOjKhH8R9hTaxeAmLBxlaqDuBka.jpg",
             "original_title": "Gates of Heaven",
-            "release_date": "1978-10-01",
+            "release_date": "1978",
             "watchDate": "2015-11-28",
             "imdb_id": "tt0077598",
             "director": "Errol Morris",
@@ -2975,7 +2975,7 @@
         {
             "poster_path": "/2e6LMhHPyLWiToCx2Gqe2f1SWEn.jpg",
             "original_title": "Vernon, Florida",
-            "release_date": "1981-10-08",
+            "release_date": "1981",
             "watchDate": "2015-11-29",
             "imdb_id": "tt0083281",
             "director": "Errol Morris",
@@ -2986,7 +2986,7 @@
         {
             "poster_path": "/nBaqryObPuxmuAndWUjDE5rriTd.jpg",
             "original_title": "No Country for Old Men",
-            "release_date": "2007-11-08",
+            "release_date": "2007",
             "watchDate": "2015-11-29",
             "imdb_id": "tt0477348",
             "director": "Joel Coen, Ethan Coen",
@@ -2997,7 +2997,7 @@
         {
             "poster_path": "/4Zrvc5rddDSHD3JmfkzvAx82wuT.jpg",
             "original_title": "Me and Earl and the Dying Girl",
-            "release_date": "2015-06-12",
+            "release_date": "2015",
             "watchDate": "2015-12-02",
             "imdb_id": "tt2582496",
             "director": "Alfonso Gomez-Rejon",
@@ -3008,7 +3008,7 @@
         {
             "poster_path": "/upKnvCg33FiYlhJh6h3QGAxOJU4.jpg",
             "original_title": "Raising Cain",
-            "release_date": "1992-08-07",
+            "release_date": "1992",
             "watchDate": "2015-12-03",
             "imdb_id": "tt0105217",
             "director": "Brian De Palma",
@@ -3019,7 +3019,7 @@
         {
             "poster_path": "/c8mPnfCaVX1gYKtsQnLA6W54vVN.jpg",
             "original_title": "Woyzeck",
-            "release_date": "1979-05-25",
+            "release_date": "1979",
             "watchDate": "2015-12-05",
             "imdb_id": "tt0080149",
             "director": "Werner Herzog",
@@ -3030,7 +3030,7 @@
         {
             "poster_path": "/n8wfFsQ5vtm6dM8vdgXb6OLv2GY.jpg",
             "original_title": "Citizen Kane",
-            "release_date": "1941-04-30",
+            "release_date": "1941",
             "watchDate": "2015-12-06",
             "imdb_id": "tt0033467",
             "director": "Orson Welles",
@@ -3041,7 +3041,7 @@
         {
             "poster_path": "/9KG8BHXfj0hyQm005vSMr5Co1iW.jpg",
             "original_title": "Zat\u00f4ichi monogatari",
-            "release_date": "1962-04-18",
+            "release_date": "1962",
             "watchDate": "2015-12-11",
             "imdb_id": "tt0056714",
             "director": "Kenji Misumi",
@@ -3052,7 +3052,7 @@
         {
             "poster_path": "/3AvIsic96J6c7GVz3XqfnRmHgVS.jpg",
             "original_title": "Stroszek",
-            "release_date": "1977-01-12",
+            "release_date": "1977",
             "watchDate": "2015-12-13",
             "imdb_id": "tt0075276",
             "director": "Werner Herzog",
@@ -3063,7 +3063,7 @@
         {
             "poster_path": "/wdwXuaJRuUbPl5ecki7KfSKOrSD.jpg",
             "original_title": "Jeanne Dielman 23, Quai du Commerce 1080 Bruxelles",
-            "release_date": "1975-05-14",
+            "release_date": "1975",
             "watchDate": "2015-12-15",
             "imdb_id": "tt0073198",
             "director": "Chantal Akerman",
@@ -3074,7 +3074,7 @@
         {
             "poster_path": "/5hqbJSmtAimbaP3XcYshCixuUtk.jpg",
             "original_title": "\u4e03\u4eba\u306e\u4f8d",
-            "release_date": "1954-04-26",
+            "release_date": "1954",
             "watchDate": "2015-12-16",
             "imdb_id": "tt0047478",
             "director": "Akira Kurosawa",
@@ -3085,7 +3085,7 @@
         {
             "poster_path": "/tvSlBzAdRE29bZe5yYWrJ2ds137.jpg",
             "original_title": "Star Wars",
-            "release_date": "1977-05-25",
+            "release_date": "1977",
             "watchDate": "2015-12-19",
             "imdb_id": "tt0076759",
             "director": "George Lucas",
@@ -3096,7 +3096,7 @@
         {
             "poster_path": "/245tFCzZLiE9Xo03EuZIU03zXEw.jpg",
             "original_title": "A Brief History of Time",
-            "release_date": "1991-10-01",
+            "release_date": "1991",
             "watchDate": "2015-12-19",
             "imdb_id": "tt0103882",
             "director": "Errol Morris",
@@ -3107,7 +3107,7 @@
         {
             "poster_path": "/6u1fYtxG5eqjhtCPDx04pJphQRW.jpg",
             "original_title": "The Empire Strikes Back",
-            "release_date": "1980-05-17",
+            "release_date": "1980",
             "watchDate": "2015-12-20",
             "imdb_id": "tt0080684",
             "director": "Irvin Kershner",
@@ -3118,7 +3118,7 @@
         {
             "poster_path": "/jx5p0aHlbPXqe3AH9G15NvmWaqQ.jpg",
             "original_title": "Return of the Jedi",
-            "release_date": "1983-05-23",
+            "release_date": "1983",
             "watchDate": "2015-12-20",
             "imdb_id": "tt0086190",
             "director": "Richard Marquand",
@@ -3129,7 +3129,7 @@
         {
             "poster_path": "/yqfr8ubc1xEPjUDoezasyrMkOSG.jpg",
             "original_title": "\u96a0\u3057\u7826\u306e\u4e09\u60aa\u4eba",
-            "release_date": "1958-12-28",
+            "release_date": "1958",
             "watchDate": "2015-12-21",
             "imdb_id": "tt0051808",
             "director": "Akira Kurosawa",
@@ -3140,7 +3140,7 @@
         {
             "poster_path": "/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
             "original_title": "Star Wars: The Force Awakens",
-            "release_date": "2015-12-15",
+            "release_date": "2015",
             "watchDate": "2015-12-22",
             "imdb_id": "tt2488496",
             "director": "J.J. Abrams",
@@ -3151,7 +3151,7 @@
         {
             "poster_path": "/ztIqf7yGmb4JRFiv2i62K6PhTQR.jpg",
             "original_title": "Trois couleurs : Bleu",
-            "release_date": "1993-01-10",
+            "release_date": "1993",
             "watchDate": "2016-01-04",
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
@@ -3162,7 +3162,7 @@
         {
             "poster_path": "/D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
             "original_title": "Ant-Man",
-            "release_date": "2015-07-14",
+            "release_date": "2015",
             "watchDate": "2016-01-04",
             "imdb_id": "tt0478970",
             "director": "Peyton Reed",
@@ -3173,7 +3173,7 @@
         {
             "poster_path": "/bxDby1r6WW3HyWzA9vd8uCMG9E6.jpg",
             "original_title": "Muppets Most Wanted",
-            "release_date": "2014-03-20",
+            "release_date": "2014",
             "watchDate": "2016-01-04",
             "imdb_id": "tt2281587",
             "director": "James Bobin",
@@ -3184,7 +3184,7 @@
         {
             "poster_path": "/jBCSrDQtA07P7Vfr0YBkD3EFEDS.jpg",
             "original_title": "Amarcord",
-            "release_date": "1973-12-13",
+            "release_date": "1973",
             "watchDate": "2016-01-09",
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
@@ -3195,7 +3195,7 @@
         {
             "poster_path": "/vrZ1uIIx8DXPUj2YpwlFYZFFPH.jpg",
             "original_title": "L'Arbre, le maire et la m\u00e9diath\u00e8que",
-            "release_date": "1993-02-10",
+            "release_date": "1993",
             "watchDate": "2016-01-10",
             "imdb_id": "tt0106301",
             "director": "\u00c9ric Rohmer",
@@ -3206,7 +3206,7 @@
         {
             "poster_path": "/5osX2Q40qcjNy8KQJ0Q4fI2XhMM.jpg",
             "original_title": "Pather Panchali",
-            "release_date": "1955-08-26",
+            "release_date": "1955",
             "watchDate": "2016-01-12",
             "imdb_id": "tt0048473",
             "director": "Satyajit Ray",
@@ -3217,7 +3217,7 @@
         {
             "poster_path": "/ld2CYJ27fguCqYQNjXG69kjihKV.jpg",
             "original_title": "Troll 2",
-            "release_date": "1990-10-12",
+            "release_date": "1990",
             "watchDate": "2016-01-13",
             "imdb_id": "tt0105643",
             "director": "Claudio Fragasso",
@@ -3228,7 +3228,7 @@
         {
             "poster_path": "/5aGhaIHYuQbqlHWvWYqMCnj40y2.jpg",
             "original_title": "The Martian",
-            "release_date": "2015-09-30",
+            "release_date": "2015",
             "watchDate": "2016-01-15",
             "imdb_id": "tt3659388",
             "director": "Ridley Scott",
@@ -3239,7 +3239,7 @@
         {
             "poster_path": "/81QVm3TiINs4KCnNYXrDcEwn8mc.jpg",
             "original_title": "\u5fa9\u8b90\u3059\u308b\u306f\u6211\u306b\u3042\u308a",
-            "release_date": "1979-04-21",
+            "release_date": "1979",
             "watchDate": "2016-01-17",
             "imdb_id": "tt0079182",
             "director": "Sh\u00f4hei Imamura",
@@ -3250,7 +3250,7 @@
         {
             "poster_path": "/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg",
             "original_title": "The Revenant",
-            "release_date": "2015-12-25",
+            "release_date": "2015",
             "watchDate": "2016-01-18",
             "imdb_id": "tt1663202",
             "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
@@ -3261,7 +3261,7 @@
         {
             "poster_path": "/b2qB4Fb5Wy0AnrTZAkIfQ6NRInl.jpg",
             "original_title": "Cr\u00eda Cuervos",
-            "release_date": "1976-01-26",
+            "release_date": "1976",
             "watchDate": "2016-01-22",
             "imdb_id": "tt0074360",
             "director": "Carlos Saura",
@@ -3272,7 +3272,7 @@
         {
             "poster_path": "/yoiJPfIBWWFC81w1pf1rFDdpRbf.jpg",
             "original_title": "Le Quai des brumes",
-            "release_date": "1938-05-18",
+            "release_date": "1938",
             "watchDate": "2016-01-24",
             "imdb_id": "tt0030643",
             "director": "Marcel Carn\u00e9",
@@ -3283,7 +3283,7 @@
         {
             "poster_path": "/N0jOUJZf98sG8FRojfLE9wsiBb.jpg",
             "original_title": "Week End",
-            "release_date": "1967-12-29",
+            "release_date": "1967",
             "watchDate": "2016-01-24",
             "imdb_id": "tt0062480",
             "director": "Jean-Luc Godard",
@@ -3294,7 +3294,7 @@
         {
             "poster_path": "/g8uuN0Ad09pdgh5q0da0ihikJnb.jpg",
             "original_title": "Sisters",
-            "release_date": "1973-03-27",
+            "release_date": "1973",
             "watchDate": "2016-01-26",
             "imdb_id": "tt0070698",
             "director": "Brian De Palma",
@@ -3305,7 +3305,7 @@
         {
             "poster_path": "/baz1c9dzsf5uhNuUYhXy7eudNJd.jpg",
             "original_title": "Vivre sa vie: film en douze tableaux",
-            "release_date": "1962-09-20",
+            "release_date": "1962",
             "watchDate": "2016-01-30",
             "imdb_id": "tt0056663",
             "director": "Jean-Luc Godard",
@@ -3316,7 +3316,7 @@
         {
             "poster_path": "/8A51Ur47D0CNJhmvQlbif0vzyqZ.jpg",
             "original_title": "Bone Tomahawk",
-            "release_date": "2015-10-23",
+            "release_date": "2015",
             "watchDate": "2016-01-31",
             "imdb_id": "tt2494362",
             "director": "S. Craig Zahler",
@@ -3327,7 +3327,7 @@
         {
             "poster_path": "/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg",
             "original_title": "It Follows",
-            "release_date": "2014-08-27",
+            "release_date": "2014",
             "watchDate": "2016-01-31",
             "imdb_id": "tt3235888",
             "director": "David Robert Mitchell",
@@ -3338,7 +3338,7 @@
         {
             "poster_path": "/Ai1lpWFaBHH3szTSBz7eZT3iobi.jpg",
             "original_title": "The Searchers",
-            "release_date": "1956-03-13",
+            "release_date": "1956",
             "watchDate": "2016-02-03",
             "imdb_id": "tt0049730",
             "director": "John Ford",
@@ -3349,7 +3349,7 @@
         {
             "poster_path": "/4iBgmuRFwI6r73EZnCgjABHGwEU.jpg",
             "original_title": "La Loi du march\u00e9",
-            "release_date": "2015-05-19",
+            "release_date": "2015",
             "watchDate": "2016-02-14",
             "imdb_id": "tt4428814",
             "director": "St\u00e9phane Briz\u00e9",
@@ -3360,7 +3360,7 @@
         {
             "poster_path": "/kRP5dGXDhKt7bDpXX4YBa4dRwlL.jpg",
             "original_title": "The Abyss",
-            "release_date": "1989-08-08",
+            "release_date": "1989",
             "watchDate": "2016-02-23",
             "imdb_id": "tt0096754",
             "director": "James Cameron",
@@ -3371,7 +3371,7 @@
         {
             "poster_path": "/apiOXPLDw6BKuIpdNlArf6YPwRI.jpg",
             "original_title": "Sommarnattens leende",
-            "release_date": "1955-12-26",
+            "release_date": "1955",
             "watchDate": "2016-02-27",
             "imdb_id": "tt0048641",
             "director": "Ingmar Bergman",
@@ -3382,7 +3382,7 @@
         {
             "poster_path": "/ml6BLrR3fEAuTGtKL6EkBPPgoPt.jpg",
             "original_title": "Cave of Forgotten Dreams",
-            "release_date": "2010-09-10",
+            "release_date": "2010",
             "watchDate": "2016-02-29",
             "imdb_id": "tt1664894",
             "director": "Werner Herzog",
@@ -3393,7 +3393,7 @@
         {
             "poster_path": "/wkGtd8ZwUKDfi5QCbQEcfdC7Pud.jpg",
             "original_title": "Dead Ringers",
-            "release_date": "1988-09-23",
+            "release_date": "1988",
             "watchDate": "2016-03-02",
             "imdb_id": "tt0094964",
             "director": "David Cronenberg",
@@ -3404,7 +3404,7 @@
         {
             "poster_path": "/nJc7G6w5Qv2VNCo55fsea35G6nS.jpg",
             "original_title": "Magick Lantern Cycle",
-            "release_date": "2009-05-25",
+            "release_date": "2009",
             "watchDate": "2016-03-06",
             "imdb_id": "tt1568152",
             "director": "Kenneth Anger",
@@ -3415,7 +3415,7 @@
         {
             "poster_path": "/fsoTLnUXEUTNuVCBxAJMY0HPPd.jpg",
             "original_title": "Her",
-            "release_date": "2013-12-18",
+            "release_date": "2013",
             "watchDate": "2016-03-09",
             "imdb_id": "tt1798709",
             "director": "Spike Jonze",
@@ -3426,7 +3426,7 @@
         {
             "poster_path": "/ohg11LlgBhuM2HKDslUpXSXjO6p.jpg",
             "original_title": "The Babadook",
-            "release_date": "2014-05-22",
+            "release_date": "2014",
             "watchDate": "2016-03-13",
             "imdb_id": "tt2321549",
             "director": "Jennifer Kent",
@@ -3437,7 +3437,7 @@
         {
             "poster_path": "/6CVgR47VyZ1MC6bbRyB0La7CzbV.jpg",
             "original_title": "Pierrot le fou",
-            "release_date": "1965-08-29",
+            "release_date": "1965",
             "watchDate": "2016-03-14",
             "imdb_id": "tt0059592",
             "director": "Jean-Luc Godard",
@@ -3448,7 +3448,7 @@
         {
             "poster_path": "/hRuzYPzmYB78ASamMP7vsTO0zhd.jpg",
             "original_title": "Island of Lost Souls",
-            "release_date": "1932-12-01",
+            "release_date": "1932",
             "watchDate": "2016-03-18",
             "imdb_id": "tt0024188",
             "director": "Erle C. Kenton",
@@ -3459,7 +3459,7 @@
         {
             "poster_path": "/mXCFetLVFerhZQZ5KvUmHE5zuyf.jpg",
             "original_title": "C\u00e9line et Julie vont en bateau",
-            "release_date": "1974-09-18",
+            "release_date": "1974",
             "watchDate": "2016-03-19",
             "imdb_id": "tt0071381",
             "director": "Jacques Rivette",
@@ -3470,7 +3470,7 @@
         {
             "poster_path": "/pQYSs8RgDj2jtrnTrH5OkyPPByG.jpg",
             "original_title": "Stereo",
-            "release_date": "1969-06-23",
+            "release_date": "1969",
             "watchDate": "2016-03-20",
             "imdb_id": "tt0065036",
             "director": "David Cronenberg",
@@ -3481,7 +3481,7 @@
         {
             "poster_path": "/20D1aU0gTrWwE6RWYKbDvgSCiJx.jpg",
             "original_title": "Una giornata particolare",
-            "release_date": "1977-08-11",
+            "release_date": "1977",
             "watchDate": "2016-03-21",
             "imdb_id": "tt0076085",
             "director": "Ettore Scola",
@@ -3492,7 +3492,7 @@
         {
             "poster_path": "/1XzEOEUFtdV2WdD7PRC39aYy1bA.jpg",
             "original_title": "Love Streams",
-            "release_date": "1984-02-20",
+            "release_date": "1984",
             "watchDate": "2016-03-23",
             "imdb_id": "tt0087644",
             "director": "John Cassavetes",
@@ -3503,7 +3503,7 @@
         {
             "poster_path": "/fMC8JBWx2VjsJ53JopAcFjqmlYv.jpg",
             "original_title": "Mulholland Drive",
-            "release_date": "2001-05-16",
+            "release_date": "2001",
             "watchDate": "2016-03-26",
             "imdb_id": "tt0166924",
             "director": "David Lynch",
@@ -3514,7 +3514,7 @@
         {
             "poster_path": "/dKIg7OiBlvmg7bpq6h0opSNMxRn.jpg",
             "original_title": "\u653b\u6bbb\u6a5f\u52d5\u968a",
-            "release_date": "1995-11-18",
+            "release_date": "1995",
             "watchDate": "2016-03-28",
             "imdb_id": "tt0113568",
             "director": "Mamoru Oshii",
@@ -3525,7 +3525,7 @@
         {
             "poster_path": "/iFyR8FO9FASJyDQRvJUzFak7UD5.jpg",
             "original_title": "Peeping Tom",
-            "release_date": "1960-04-06",
+            "release_date": "1960",
             "watchDate": "2016-03-30",
             "imdb_id": "tt0054167",
             "director": "Michael Powell",
@@ -3536,7 +3536,7 @@
         {
             "poster_path": "/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",
             "original_title": "The Hateful Eight",
-            "release_date": "2015-12-25",
+            "release_date": "2015",
             "watchDate": "2016-04-02",
             "imdb_id": "tt3460252",
             "director": "Quentin Tarantino",
@@ -3547,7 +3547,7 @@
         {
             "poster_path": "/qGTJmSFytUDBtbJ7jFSYdQF1lNM.jpg",
             "original_title": "\u30b4\u30b8\u30e9",
-            "release_date": "1954-11-03",
+            "release_date": "1954",
             "watchDate": "2016-04-09",
             "imdb_id": "tt0047034",
             "director": "Ishir\u00f4 Honda",
@@ -3558,7 +3558,7 @@
         {
             "poster_path": "/bIN2AAjTpQ2cmFTcXcVbYqP5tLk.jpg",
             "original_title": "Wo die gr\u00fcnen Ameisen tr\u00e4umen",
-            "release_date": "1984-08-31",
+            "release_date": "1984",
             "watchDate": "2016-04-09",
             "imdb_id": "tt0088412",
             "director": "Werner Herzog",
@@ -3569,7 +3569,7 @@
         {
             "poster_path": "/fqIjExm1RJEkbGPtMBXnP20MmHm.jpg",
             "original_title": "Midnight Special",
-            "release_date": "2016-02-18",
+            "release_date": "2016",
             "watchDate": "2016-04-10",
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
@@ -3580,7 +3580,7 @@
         {
             "poster_path": "/p2SdfGmQRaw8xhFbexlHL7srMM8.jpg",
             "original_title": "Sicario",
-            "release_date": "2015-09-17",
+            "release_date": "2015",
             "watchDate": "2016-04-17",
             "imdb_id": "tt3397884",
             "director": "Denis Villeneuve",
@@ -3591,7 +3591,7 @@
         {
             "poster_path": "/9fXNiDKtomQPbZnRXxahbpNfxE9.jpg",
             "original_title": "\u0985\u09aa\u09b0\u09be\u099c\u09bf\u09a4",
-            "release_date": "1956-10-11",
+            "release_date": "1956",
             "watchDate": "2016-04-20",
             "imdb_id": "tt0048956",
             "director": "Satyajit Ray",
@@ -3602,7 +3602,7 @@
         {
             "poster_path": "/x0Ab8CDJdCoLc5tnhWQcrcRoDvi.jpg",
             "original_title": "Gasherbrum - Der leuchtende Berg",
-            "release_date": "1985-03-09",
+            "release_date": "1985",
             "watchDate": "2016-04-25",
             "imdb_id": "tt0087317",
             "director": "Werner Herzog",
@@ -3613,7 +3613,7 @@
         {
             "poster_path": "/yQUjZTzwgskqOJdr3jhwQ4yTkvb.jpg",
             "original_title": "\u91cd\u6176\u68ee\u6797",
-            "release_date": "1994-07-14",
+            "release_date": "1994",
             "watchDate": "2016-04-25",
             "imdb_id": "tt0109424",
             "director": "Wong Kar-wai",
@@ -3624,7 +3624,7 @@
         {
             "poster_path": "/unOW3SxFxBdd7LMWjmRONdHWKPb.jpg",
             "original_title": "\u82b1\u6a23\u5e74\u83ef",
-            "release_date": "2000-05-22",
+            "release_date": "2000",
             "watchDate": "2016-04-27",
             "imdb_id": "tt0118694",
             "director": "Wong Kar-wai",
@@ -3635,18 +3635,18 @@
         {
             "poster_path": "/eqFckcHuFCT1FrzLOAvXBb4jHwq.jpg",
             "original_title": "Room",
-            "release_date": "2015-10-16",
+            "release_date": "2015",
             "watchDate": "2016-04-30",
             "imdb_id": "tt3170832",
             "director": "Lenny Abrahamson",
             "personalRating": "4",
-            "vote_average": 8.1,
+            "vote_average": 8.0,
             "runtime": 117
         },
         {
             "poster_path": "/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
             "original_title": "Deadpool",
-            "release_date": "2016-02-09",
+            "release_date": "2016",
             "watchDate": "2016-05-01",
             "imdb_id": "tt1431045",
             "director": "Tim Miller",
@@ -3657,7 +3657,7 @@
         {
             "poster_path": "/8JO8aTWg5pEYCADRyr2sFJeBTPK.jpg",
             "original_title": "Ballade vom kleinen Soldaten",
-            "release_date": "1984-11-05",
+            "release_date": "1984",
             "watchDate": "2016-05-03",
             "imdb_id": "tt0086936",
             "director": "Werner Herzog, Denis Reichle",
@@ -3668,7 +3668,7 @@
         {
             "poster_path": "/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg",
             "original_title": "The Witch",
-            "release_date": "2015-03-24",
+            "release_date": "2015",
             "watchDate": "2016-05-04",
             "imdb_id": "tt4263482",
             "director": "Robert Eggers",
@@ -3679,7 +3679,7 @@
         {
             "poster_path": "/ekdIaPakRDWv4pAEKO0blA7pIVO.jpg",
             "original_title": "Wodaabe - Die Hirten der Sonne. Nomaden am S\u00fcdrand der Sahara",
-            "release_date": "1989-01-01",
+            "release_date": "1989",
             "watchDate": "2016-05-11",
             "imdb_id": "tt0098669",
             "director": "Werner Herzog",
@@ -3690,7 +3690,7 @@
         {
             "poster_path": "/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg",
             "original_title": "10 Cloverfield Lane",
-            "release_date": "2016-03-10",
+            "release_date": "2016",
             "watchDate": "2016-05-13",
             "imdb_id": "tt1179933",
             "director": "Dan Trachtenberg",
@@ -3701,7 +3701,7 @@
         {
             "poster_path": "/jw1qTQX8pWUM8XFGbhM7A5mpmG9.jpg",
             "original_title": "Grey Gardens",
-            "release_date": "1975-09-27",
+            "release_date": "1975",
             "watchDate": "2016-05-14",
             "imdb_id": "tt0073076",
             "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles",
@@ -3712,7 +3712,7 @@
         {
             "poster_path": "/bOIFfbbppE0f21p4bNF8FyowhDR.jpg",
             "original_title": "\u726f\u5dba\u8857\u5c11\u5e74\u6bba\u4eba\u4e8b\u4ef6",
-            "release_date": "1991-07-27",
+            "release_date": "1991",
             "watchDate": "2016-05-15",
             "imdb_id": "tt0101985",
             "director": "Edward Yang",
@@ -3723,7 +3723,7 @@
         {
             "poster_path": "/hJIIHaersqVZEYefN0Bwivo9TLz.jpg",
             "original_title": "P'tit Quinquin",
-            "release_date": "2014-09-18",
+            "release_date": "2014",
             "watchDate": "2016-05-21",
             "imdb_id": "tt3053694",
             "director": "Bruno Dumont",
@@ -3734,7 +3734,7 @@
         {
             "poster_path": "/3FS3oBdorgczgfCkFi2u8ZTFfpS.jpg",
             "original_title": "Ghostbusters",
-            "release_date": "1984-06-07",
+            "release_date": "1984",
             "watchDate": "2016-05-22",
             "imdb_id": "tt0087332",
             "director": "Ivan Reitman",
@@ -3745,7 +3745,7 @@
         {
             "poster_path": "/nMntR8SXxDgU3pi0v1Gnx3tmr1L.jpg",
             "original_title": "Clouds of Sils Maria",
-            "release_date": "2014-08-20",
+            "release_date": "2014",
             "watchDate": "2016-05-23",
             "imdb_id": "tt2452254",
             "director": "Olivier Assayas",
@@ -3756,7 +3756,7 @@
         {
             "poster_path": "/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg",
             "original_title": "Zootopia",
-            "release_date": "2016-02-11",
+            "release_date": "2016",
             "watchDate": "2016-05-23",
             "imdb_id": "tt2948356",
             "director": "Byron Howard, Rich Moore, Jared Bush",
@@ -3767,7 +3767,7 @@
         {
             "poster_path": "/lcfhmkaWqDRYTh3JD5iRPTBVcv4.jpg",
             "original_title": "Badlands",
-            "release_date": "1973-10-15",
+            "release_date": "1973",
             "watchDate": "2016-05-25",
             "imdb_id": "tt0069762",
             "director": "Terrence Malick",
@@ -3778,7 +3778,7 @@
         {
             "poster_path": "/rjw7tQbiBnbIeufyEt02oVickDM.jpg",
             "original_title": "Days of Heaven",
-            "release_date": "1978-09-13",
+            "release_date": "1978",
             "watchDate": "2016-05-25",
             "imdb_id": "tt0077405",
             "director": "Terrence Malick",
@@ -3789,7 +3789,7 @@
         {
             "poster_path": "/hhsYCYVPy1V0eTjkGNGdvpDO2qk.jpg",
             "original_title": "\u4e00\u4e00",
-            "release_date": "2000-09-20",
+            "release_date": "2000",
             "watchDate": "2016-05-27",
             "imdb_id": "tt0244316",
             "director": "Edward Yang",
@@ -3800,7 +3800,7 @@
         {
             "poster_path": "/AbKa7ANxmui0Jmhh7gV7OSELKIL.jpg",
             "original_title": "Carol",
-            "release_date": "2015-11-20",
+            "release_date": "2015",
             "watchDate": "2016-05-28",
             "imdb_id": "tt2402927",
             "director": "Todd Haynes",
@@ -3811,7 +3811,7 @@
         {
             "poster_path": "/pBBgIy2ncPgX5lRtYsWm0BmMFjg.jpg",
             "original_title": "The Incredible Shrinking Man",
-            "release_date": "1957-02-22",
+            "release_date": "1957",
             "watchDate": "2016-05-29",
             "imdb_id": "tt0050539",
             "director": "Jack Arnold",
@@ -3822,7 +3822,7 @@
         {
             "poster_path": "/iQFGBHZ2Fnm36EKZ4bk9TpV2Tcy.jpg",
             "original_title": "Out 1, noli me tangere",
-            "release_date": "1971-10-09",
+            "release_date": "1971",
             "watchDate": "2016-06-02",
             "imdb_id": "tt0246135",
             "director": "Jacques Rivette, Suzanne Schiffman",
@@ -3833,18 +3833,18 @@
         {
             "poster_path": "/qk95miOV8wDABbO5gyCpCrvbVFu.jpg",
             "original_title": "Pocahontas",
-            "release_date": "1995-06-14",
+            "release_date": "1995",
             "watchDate": "2016-06-04",
             "imdb_id": "tt0114148",
             "director": "Mike Gabriel, Eric Goldberg",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 81
         },
         {
             "poster_path": "/zazIldLqJ1YNZoEsNRitO6KF6Ty.jpg",
             "original_title": "To the Wonder",
-            "release_date": "2012-09-02",
+            "release_date": "2012",
             "watchDate": "2016-06-07",
             "imdb_id": "tt1595656",
             "director": "Terrence Malick",
@@ -3855,7 +3855,7 @@
         {
             "poster_path": "/o2qWU90scefAwg3gOR0NbHFGdKD.jpg",
             "original_title": "Ansiktet",
-            "release_date": "1958-12-26",
+            "release_date": "1958",
             "watchDate": "2016-06-08",
             "imdb_id": "tt0051365",
             "director": "Ingmar Bergman",
@@ -3866,7 +3866,7 @@
         {
             "poster_path": "/5DpDEEb6UJUiSaXyNegYlCqsZdd.jpg",
             "original_title": "Anomalisa",
-            "release_date": "2015-12-30",
+            "release_date": "2015",
             "watchDate": "2016-06-11",
             "imdb_id": "tt2401878",
             "director": "Duke Johnson, Charlie Kaufman",
@@ -3877,7 +3877,7 @@
         {
             "poster_path": "/mFFqthZqOmCCktecOHia0Jn3JEH.jpg",
             "original_title": "Le rayon vert",
-            "release_date": "1986-08-29",
+            "release_date": "1986",
             "watchDate": "2016-06-14",
             "imdb_id": "tt0091830",
             "director": "\u00c9ric Rohmer",
@@ -3888,7 +3888,7 @@
         {
             "poster_path": "/3JgsBnpmFHFAbyWV99UasOvWLjC.jpg",
             "original_title": "The Blob",
-            "release_date": "1958-09-12",
+            "release_date": "1958",
             "watchDate": "2016-06-15",
             "imdb_id": "tt0051418",
             "director": "Irvin S. Yeaworth Jr.",
@@ -3899,7 +3899,7 @@
         {
             "poster_path": "/s7jn0FJCuIT7WONeOTBwldXhtFL.jpg",
             "original_title": "Robinson Crusoe on Mars",
-            "release_date": "1964-06-01",
+            "release_date": "1964",
             "watchDate": "2016-06-16",
             "imdb_id": "tt0058530",
             "director": "Byron Haskin",
@@ -3910,7 +3910,7 @@
         {
             "poster_path": "/x5l97t0FqYKisYNcEbwHWPvnBUH.jpg",
             "original_title": "Saboteur",
-            "release_date": "1942-04-24",
+            "release_date": "1942",
             "watchDate": "2016-06-27",
             "imdb_id": "tt0035279",
             "director": "Alfred Hitchcock",
@@ -3921,7 +3921,7 @@
         {
             "poster_path": "/sYjRSEM9f7wKcHx9Hu0Lh6JCWT6.jpg",
             "original_title": "Knight of Cups",
-            "release_date": "2015-09-10",
+            "release_date": "2015",
             "watchDate": "2016-06-27",
             "imdb_id": "tt2101383",
             "director": "Terrence Malick",
@@ -3932,7 +3932,7 @@
         {
             "poster_path": "/g20oPyKrX317mRpOV5skpdQqf3p.jpg",
             "original_title": "The Player",
-            "release_date": "1992-04-03",
+            "release_date": "1992",
             "watchDate": "2016-06-28",
             "imdb_id": "tt0105151",
             "director": "Robert Altman",
@@ -3943,7 +3943,7 @@
         {
             "poster_path": "/cGOPbv9wA5gEejkUN892JrveARt.jpg",
             "original_title": "Batman v Superman: Dawn of Justice",
-            "release_date": "2016-03-23",
+            "release_date": "2016",
             "watchDate": "2016-06-29",
             "imdb_id": "tt2975590",
             "director": "Zack Snyder",
@@ -3954,7 +3954,7 @@
         {
             "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
             "original_title": "La Plan\u00e8te Sauvage",
-            "release_date": "1973-05-01",
+            "release_date": "1973",
             "watchDate": "2016-06-29",
             "imdb_id": "tt0070544",
             "director": "Ren\u00e9 Laloux",
@@ -3965,7 +3965,7 @@
         {
             "poster_path": "/8ipMMbjgAA9M4wpoPc9yxFEiIeA.jpg",
             "original_title": "Ladri di biciclette",
-            "release_date": "1948-11-24",
+            "release_date": "1948",
             "watchDate": "2016-06-30",
             "imdb_id": "tt0040522",
             "director": "Vittorio De Sica",
@@ -3976,7 +3976,7 @@
         {
             "poster_path": "/kRmzDnwlsLEtmHU4JHqVFmO6O4D.jpg",
             "original_title": "Shadows",
-            "release_date": "1959-11-11",
+            "release_date": "1959",
             "watchDate": "2016-06-30",
             "imdb_id": "tt0053270",
             "director": "John Cassavetes",
@@ -3987,7 +3987,7 @@
         {
             "poster_path": "/yOh2tz9FlQ6D89qOqHBpScv5tBP.jpg",
             "original_title": "Shadow of a Doubt",
-            "release_date": "1943-01-16",
+            "release_date": "1943",
             "watchDate": "2016-06-30",
             "imdb_id": "tt0036342",
             "director": "Alfred Hitchcock",
@@ -3998,7 +3998,7 @@
         {
             "poster_path": "/fl09Ai2lKPau49MdLp0pOc5rYlP.jpg",
             "original_title": "Videodrome",
-            "release_date": "1983-02-04",
+            "release_date": "1983",
             "watchDate": "2016-06-30",
             "imdb_id": "tt0086541",
             "director": "David Cronenberg",
@@ -4009,7 +4009,7 @@
         {
             "poster_path": "/btqFBntYQ88RXfE2eUAWayeWufm.jpg",
             "original_title": "Phantom of the Paradise",
-            "release_date": "1974-10-31",
+            "release_date": "1974",
             "watchDate": "2016-06-30",
             "imdb_id": "tt0071994",
             "director": "Brian De Palma",
@@ -4020,7 +4020,7 @@
         {
             "poster_path": "/5pOzyiPe9tv2zW3TRsHZWnzu6Qj.jpg",
             "original_title": "La Tour de contr\u00f4le infernale",
-            "release_date": "2016-02-10",
+            "release_date": "2016",
             "watchDate": "2016-06-30",
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
@@ -4031,7 +4031,7 @@
         {
             "poster_path": "/4hVyXAVAjyuXUcKbD4rRkYVPQx1.jpg",
             "original_title": "Encounters at the End of the World",
-            "release_date": "2007-09-01",
+            "release_date": "2007",
             "watchDate": "2016-07-02",
             "imdb_id": "tt1093824",
             "director": "Werner Herzog",
@@ -4042,7 +4042,7 @@
         {
             "poster_path": "/qdSlJ3lZITHDva5EI4lQHidZbf5.jpg",
             "original_title": "The Innocents",
-            "release_date": "1961-12-25",
+            "release_date": "1961",
             "watchDate": "2016-07-03",
             "imdb_id": "tt0055018",
             "director": "Jack Clayton",
@@ -4053,7 +4053,7 @@
         {
             "poster_path": "/pksGBk7yJqSuQ2F47S9eoqbtjWt.jpg",
             "original_title": "The Neon Demon",
-            "release_date": "2016-06-08",
+            "release_date": "2016",
             "watchDate": "2016-07-04",
             "imdb_id": "tt1974419",
             "director": "Nicolas Winding Refn",
@@ -4064,7 +4064,7 @@
         {
             "poster_path": "/r5CbVhy3vO6SqdOTwinZVtaRbhb.jpg",
             "original_title": "An American Werewolf in London",
-            "release_date": "1981-08-21",
+            "release_date": "1981",
             "watchDate": "2016-07-09",
             "imdb_id": "tt0082010",
             "director": "John Landis",
@@ -4075,7 +4075,7 @@
         {
             "poster_path": "/t3mZwAXfyhzVQs7EgF4FfE1TWUE.jpg",
             "original_title": "All That Heaven Allows",
-            "release_date": "1955-12-25",
+            "release_date": "1955",
             "watchDate": "2016-07-10",
             "imdb_id": "tt0047811",
             "director": "Douglas Sirk",
@@ -4086,7 +4086,7 @@
         {
             "poster_path": "/naJkRjPSua9CHqDZqxcEjXCP5PU.jpg",
             "original_title": "\u00c0 propos de Nice",
-            "release_date": "1930-05-28",
+            "release_date": "1930",
             "watchDate": "2016-07-10",
             "imdb_id": "tt0021576",
             "director": "Jean Vigo",
@@ -4097,7 +4097,7 @@
         {
             "poster_path": "/gnU19i9E8DuTpRkT2rxnQ3COg7I.jpg",
             "original_title": "Taris, roi de l'eau",
-            "release_date": "1931-01-01",
+            "release_date": "1931",
             "watchDate": "2016-07-10",
             "imdb_id": "tt0022462",
             "director": "Jean Vigo",
@@ -4108,7 +4108,7 @@
         {
             "poster_path": "/92lvrL5Stk7Zn15UdGgWtQMrecU.jpg",
             "original_title": "Z\u00e9ro de conduite",
-            "release_date": "1933-04-07",
+            "release_date": "1933",
             "watchDate": "2016-07-10",
             "imdb_id": "tt0024803",
             "director": "Jean Vigo",
@@ -4119,7 +4119,7 @@
         {
             "poster_path": "/6g3uPTJKvPxFO7ErcMCvjpzqMaw.jpg",
             "original_title": "L'Atalante",
-            "release_date": "1934-04-24",
+            "release_date": "1934",
             "watchDate": "2016-07-10",
             "imdb_id": "tt0024844",
             "director": "Jean Vigo",
@@ -4130,7 +4130,7 @@
         {
             "poster_path": "/d2YXhqlJ3gISDQCdPbvUvUfvlEG.jpg",
             "original_title": "Sal\u00f2 o le 120 giornate di Sodoma",
-            "release_date": "1975-11-22",
+            "release_date": "1975",
             "watchDate": "2016-07-12",
             "imdb_id": "tt0073650",
             "director": "Pier Paolo Pasolini",
@@ -4141,7 +4141,7 @@
         {
             "poster_path": "/lPENX9W1t0dp7YchhuA9CuRnSab.jpg",
             "original_title": "La Fille du 14 juillet",
-            "release_date": "2013-06-05",
+            "release_date": "2013",
             "watchDate": "2016-07-16",
             "imdb_id": "tt2846972",
             "director": "Antonin Peretjatko",
@@ -4152,7 +4152,7 @@
         {
             "poster_path": "/bGnArVmtOqBqU5TDGi5DewcDKQd.jpg",
             "original_title": "Nashville",
-            "release_date": "1975-06-11",
+            "release_date": "1975",
             "watchDate": "2016-07-17",
             "imdb_id": "tt0073440",
             "director": "Robert Altman",
@@ -4163,7 +4163,7 @@
         {
             "poster_path": "/sTlPvjdQrrv5cLH410aMlSxqi0x.jpg",
             "original_title": "Green Room",
-            "release_date": "2016-04-15",
+            "release_date": "2016",
             "watchDate": "2016-07-19",
             "imdb_id": "tt4062536",
             "director": "Jeremy Saulnier",
@@ -4174,7 +4174,7 @@
         {
             "poster_path": "/vJXfjb8ZX2iCj8s3bfCXt6UM2FW.jpg",
             "original_title": "The In-Laws",
-            "release_date": "1979-06-15",
+            "release_date": "1979",
             "watchDate": "2016-07-23",
             "imdb_id": "tt0079336",
             "director": "Arthur Hiller",
@@ -4185,7 +4185,7 @@
         {
             "poster_path": "/xVmoTSAgxHJFGD4QYFX7bZypEyG.jpg",
             "original_title": "Les nuits de la pleine lune",
-            "release_date": "1984-08-29",
+            "release_date": "1984",
             "watchDate": "2016-07-23",
             "imdb_id": "tt0087821",
             "director": "\u00c9ric Rohmer",
@@ -4196,7 +4196,7 @@
         {
             "poster_path": "/cvNW8IXigbaMNo4gKEIps0NGnhA.jpg",
             "original_title": "Le Samoura\u00ef",
-            "release_date": "1967-10-25",
+            "release_date": "1967",
             "watchDate": "2016-07-25",
             "imdb_id": "tt0062229",
             "director": "Jean-Pierre Melville",
@@ -4207,7 +4207,7 @@
         {
             "poster_path": "/6ZnhSeO5YhuwvYOp9gsTbHad0u0.jpg",
             "original_title": "Made in U.S.A",
-            "release_date": "1966-12-03",
+            "release_date": "1966",
             "watchDate": "2016-07-26",
             "imdb_id": "tt0060647",
             "director": "Jean-Luc Godard",
@@ -4218,7 +4218,7 @@
         {
             "poster_path": "/amihqP51DyBx1CZ8ybEvR1v68zH.jpg",
             "original_title": "The New World",
-            "release_date": "2005-12-25",
+            "release_date": "2005",
             "watchDate": "2016-07-30",
             "imdb_id": "tt0402399",
             "director": "Terrence Malick",
@@ -4229,7 +4229,7 @@
         {
             "poster_path": "/eO9JnxcIQa8BPVqVrTBapj5w1Jq.jpg",
             "original_title": "3 Women",
-            "release_date": "1977-04-03",
+            "release_date": "1977",
             "watchDate": "2016-08-04",
             "imdb_id": "tt0075612",
             "director": "Robert Altman",
@@ -4240,7 +4240,7 @@
         {
             "poster_path": "/qNfWhBr1gnxsc16utYeEUB0DE5J.jpg",
             "original_title": "Shivers",
-            "release_date": "1975-10-10",
+            "release_date": "1975",
             "watchDate": "2016-08-07",
             "imdb_id": "tt0073705",
             "director": "David Cronenberg",
@@ -4251,7 +4251,7 @@
         {
             "poster_path": "/1igj08OLKkOn6053oqxNDXvoekw.jpg",
             "original_title": "La Grande bouffe",
-            "release_date": "1973-05-17",
+            "release_date": "1973",
             "watchDate": "2016-08-09",
             "imdb_id": "tt0070130",
             "director": "Marco Ferreri",
@@ -4262,7 +4262,7 @@
         {
             "poster_path": "/raOBs0LDaMix0g8sGFtYxwYx6JQ.jpg",
             "original_title": "Hr\u00fatar",
-            "release_date": "2015-05-28",
+            "release_date": "2015",
             "watchDate": "2016-08-13",
             "imdb_id": "tt3296658",
             "director": "Gr\u00edmur H\u00e1konarson",
@@ -4273,7 +4273,7 @@
         {
             "poster_path": "/ckbUVwa9r7h348upwiRvjpl4sQp.jpg",
             "original_title": "Upstream Color",
-            "release_date": "2013-04-05",
+            "release_date": "2013",
             "watchDate": "2016-08-14",
             "imdb_id": "tt2084989",
             "director": "Shane Carruth",
@@ -4284,7 +4284,7 @@
         {
             "poster_path": "/ML08wSWFrt9dLIc08uIOsu4CI.jpg",
             "original_title": "\u4fe0\u5973",
-            "release_date": "1971-11-17",
+            "release_date": "1971",
             "watchDate": "2016-08-16",
             "imdb_id": "tt0064451",
             "director": "King Hu",
@@ -4295,7 +4295,7 @@
         {
             "poster_path": "/hz3GXwcJC5csPZQa4PMbqmiPqDc.jpg",
             "original_title": "High-Rise",
-            "release_date": "2016-03-18",
+            "release_date": "2016",
             "watchDate": "2016-08-24",
             "imdb_id": "tt0462335",
             "director": "Ben Wheatley",
@@ -4306,10 +4306,10 @@
         {
             "poster_path": "/mHdlmzflukTX2a2w6rwOkCix34v.jpg",
             "original_title": "\ub9c8\ub354",
-            "release_date": "2009-05-28",
+            "release_date": "2009",
             "watchDate": "2016-08-25",
             "imdb_id": "tt1216496",
-            "director": "Bong Joon-ho ",
+            "director": "Bong Joon-ho",
             "personalRating": "5",
             "vote_average": 7.4,
             "runtime": 128
@@ -4317,7 +4317,7 @@
         {
             "poster_path": "/lHMmtgBUg3leEty20Q97Jnw5pmq.jpg",
             "original_title": "\u304a\u65e9\u3088\u3046",
-            "release_date": "1959-05-12",
+            "release_date": "1959",
             "watchDate": "2016-08-25",
             "imdb_id": "tt0053134",
             "director": "Yasujir\u014d Ozu",
@@ -4328,7 +4328,7 @@
         {
             "poster_path": "/kSBXou5Ac7vEqKd97wotJumyJvU.jpg",
             "original_title": "Captain America: Civil War",
-            "release_date": "2016-04-27",
+            "release_date": "2016",
             "watchDate": "2016-09-11",
             "imdb_id": "tt3498820",
             "director": "Anthony Russo, Joe Russo",
@@ -4339,7 +4339,7 @@
         {
             "poster_path": "/CslqVcf2ViLo1GCSFYPpnhrJfc.jpg",
             "original_title": "De Palma",
-            "release_date": "2016-06-10",
+            "release_date": "2016",
             "watchDate": "2016-09-21",
             "imdb_id": "tt1683048",
             "director": "Noah Baumbach, Jake Paltrow",
@@ -4350,10 +4350,10 @@
         {
             "poster_path": "/qWOkfCgioLEf3Km9OWva93RYWAc.jpg",
             "original_title": "\ubd80\uc0b0\ud589",
-            "release_date": "2016-07-20",
+            "release_date": "2016",
             "watchDate": "2016-09-26",
             "imdb_id": "tt5700672",
-            "director": " Yeon Sang-Ho",
+            "director": "Yeon Sang-Ho",
             "personalRating": "4",
             "vote_average": 7.6,
             "runtime": 118
@@ -4361,7 +4361,7 @@
         {
             "poster_path": "/rcy2czarYgMZxyyXjvt9OWK0bd.jpg",
             "original_title": "Fahrenheit 451",
-            "release_date": "1966-09-06",
+            "release_date": "1966",
             "watchDate": "2016-09-28",
             "imdb_id": "tt0060390",
             "director": "Fran\u00e7ois Truffaut",
@@ -4372,7 +4372,7 @@
         {
             "poster_path": "/vbNDSmtMjbZnnfMchb5HKCSlOM1.jpg",
             "original_title": "\u30a8\u30ed\u30b9\uff0b\u8650\u6bba",
-            "release_date": "1969-10-15",
+            "release_date": "1969",
             "watchDate": "2016-09-29",
             "imdb_id": "tt0064296",
             "director": "Yoshishige Yoshida",
@@ -4383,7 +4383,7 @@
         {
             "poster_path": "/ag6NsqD8tpDGgAcs4CnfdI3miSD.jpg",
             "original_title": "Juste la fin du monde",
-            "release_date": "2016-09-01",
+            "release_date": "2016",
             "watchDate": "2016-10-03",
             "imdb_id": "tt4645368",
             "director": "Xavier Dolan",
@@ -4394,7 +4394,7 @@
         {
             "poster_path": "/9JhFPJQXo6850gQlueHUQWETrzJ.jpg",
             "original_title": "Cat People",
-            "release_date": "1942-12-06",
+            "release_date": "1942",
             "watchDate": "2016-10-05",
             "imdb_id": "tt0034587",
             "director": "Jacques Tourneur",
@@ -4405,7 +4405,7 @@
         {
             "poster_path": "/7O2SxrsXYaGFZ5cZgJF0Ab5SV5J.jpg",
             "original_title": "Showgirls",
-            "release_date": "1995-09-22",
+            "release_date": "1995",
             "watchDate": "2016-10-07",
             "imdb_id": "tt0114436",
             "director": "Paul Verhoeven",
@@ -4416,7 +4416,7 @@
         {
             "poster_path": "/ckrTPz6FZ35L5ybjqvkLWzzSLO7.jpg",
             "original_title": "Warcraft",
-            "release_date": "2016-05-25",
+            "release_date": "2016",
             "watchDate": "2016-10-08",
             "imdb_id": "tt0803096",
             "director": "Duncan Jones",
@@ -4427,7 +4427,7 @@
         {
             "poster_path": "/vOipe2myi26UDwP978hsYOrnUWC.jpg",
             "original_title": "The Jungle Book",
-            "release_date": "2016-04-07",
+            "release_date": "2016",
             "watchDate": "2016-10-08",
             "imdb_id": "tt3040964",
             "director": "Jon Favreau",
@@ -4438,7 +4438,7 @@
         {
             "poster_path": "/6ng86moS1tBdofRVMooOMCfW4TJ.jpg",
             "original_title": "The Act of Killing",
-            "release_date": "2012-08-31",
+            "release_date": "2012",
             "watchDate": "2016-10-08",
             "imdb_id": "tt2375605",
             "director": "Joshua Oppenheimer, Christine Cynn, Anonymous",
@@ -4449,7 +4449,7 @@
         {
             "poster_path": "/u1G9PZlHzqBNvdSmjFPQLMVIHV3.jpg",
             "original_title": "The Look of Silence",
-            "release_date": "2014-08-30",
+            "release_date": "2014",
             "watchDate": "2016-10-09",
             "imdb_id": "tt3521134",
             "director": "Joshua Oppenheimer",
@@ -4460,7 +4460,7 @@
         {
             "poster_path": "/jxi8tgN47VO6S97HQPVCupa4A8d.jpg",
             "original_title": "Merci patron !",
-            "release_date": "2016-02-24",
+            "release_date": "2016",
             "watchDate": "2016-10-09",
             "imdb_id": "tt5326448",
             "director": "Fran\u00e7ois Ruffin",
@@ -4471,7 +4471,7 @@
         {
             "poster_path": "/3rKD5cJpXgzNosKVDpZYJSHm7P5.jpg",
             "original_title": "Carnival of Souls",
-            "release_date": "1962-09-26",
+            "release_date": "1962",
             "watchDate": "2016-10-12",
             "imdb_id": "tt0055830",
             "director": "Herk Harvey",
@@ -4482,7 +4482,7 @@
         {
             "poster_path": "/buuKUShkNWfF5clxVE2pGCBFu81.jpg",
             "original_title": "McCabe & Mrs. Miller",
-            "release_date": "1971-06-24",
+            "release_date": "1971",
             "watchDate": "2016-10-15",
             "imdb_id": "tt0067411",
             "director": "Robert Altman",
@@ -4493,7 +4493,7 @@
         {
             "poster_path": "/f2DwUVv1sg7CjcjjyxJrNYYG0TY.jpg",
             "original_title": "\u611b\u306e\u3080\u304d\u3060\u3057",
-            "release_date": "2008-11-29",
+            "release_date": "2008",
             "watchDate": "2016-10-15",
             "imdb_id": "tt1128075",
             "director": "Sion Sono",
@@ -4504,7 +4504,7 @@
         {
             "poster_path": "/op1Us7HA7bgkJqRUhcoZQrVBHzr.jpg",
             "original_title": "Short Cuts",
-            "release_date": "1993-09-05",
+            "release_date": "1993",
             "watchDate": "2016-10-15",
             "imdb_id": "tt0108122",
             "director": "Robert Altman",
@@ -4515,7 +4515,7 @@
         {
             "poster_path": "/e1RGbJFQeDLVeUsbtz1ZuzcA0x2.jpg",
             "original_title": "Die bitteren Tr\u00e4nen der Petra von Kant",
-            "release_date": "1972-10-05",
+            "release_date": "1972",
             "watchDate": "2016-10-22",
             "imdb_id": "tt0068278",
             "director": "Rainer Werner Fassbinder",
@@ -4526,7 +4526,7 @@
         {
             "poster_path": "/w90cORtNWQAd2k93aFlIBbpQYTC.jpg",
             "original_title": "Sausage Party",
-            "release_date": "2016-07-11",
+            "release_date": "2016",
             "watchDate": "2016-10-22",
             "imdb_id": "tt1700841",
             "director": "Conrad Vernon, Greg Tiernan",
@@ -4537,7 +4537,7 @@
         {
             "poster_path": "/n2UrwSwestikQDaQefl2FQHW3rI.jpg",
             "original_title": "Ma loute",
-            "release_date": "2016-05-13",
+            "release_date": "2016",
             "watchDate": "2016-10-23",
             "imdb_id": "tt4726636",
             "director": "Bruno Dumont",
@@ -4548,7 +4548,7 @@
         {
             "poster_path": "/lbukkuDxWEzT6Q79CwetoO8QGjQ.jpg",
             "original_title": "Un, deux, trois, soleil",
-            "release_date": "1993-08-18",
+            "release_date": "1993",
             "watchDate": "2016-10-24",
             "imdb_id": "tt0108435",
             "director": "Bertrand Blier",
@@ -4559,7 +4559,7 @@
         {
             "poster_path": "/CuBNIdRCfFbTQTZtK0G99mxI42.jpg",
             "original_title": "La double vie de V\u00e9ronique",
-            "release_date": "1991-05-15",
+            "release_date": "1991",
             "watchDate": "2016-11-01",
             "imdb_id": "tt0101765",
             "director": "Krzysztof Kie\u015blowski",
@@ -4570,7 +4570,7 @@
         {
             "poster_path": "/z09QAf8WbZncbitewNk6lKYMZsh.jpg",
             "original_title": "Finding Dory",
-            "release_date": "2016-06-16",
+            "release_date": "2016",
             "watchDate": "2016-11-04",
             "imdb_id": "tt2277860",
             "director": "Andrew Stanton, Angus MacLane",
@@ -4581,7 +4581,7 @@
         {
             "poster_path": "/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg",
             "original_title": "Elle",
-            "release_date": "2016-05-25",
+            "release_date": "2016",
             "watchDate": "2016-11-07",
             "imdb_id": "tt3716530",
             "director": "Paul Verhoeven",
@@ -4592,7 +4592,7 @@
         {
             "poster_path": "/umHMlDhZoO0lSd6YadufzisxvBw.jpg",
             "original_title": "Die Ehe der Maria Braun",
-            "release_date": "1979-02-20",
+            "release_date": "1979",
             "watchDate": "2016-11-13",
             "imdb_id": "tt0079095",
             "director": "Rainer Werner Fassbinder",
@@ -4603,7 +4603,7 @@
         {
             "poster_path": "/aijmq2I4O8zZrJtqAZm6o4tOM6g.jpg",
             "original_title": "\uace1\uc131",
-            "release_date": "2016-05-12",
+            "release_date": "2016",
             "watchDate": "2016-11-16",
             "imdb_id": "tt5215952",
             "director": "Na Hong-jin",
@@ -4614,7 +4614,7 @@
         {
             "poster_path": "/uOLOPkD9rpubk9KfNv4gt6NS9ZU.jpg",
             "original_title": "Tickled",
-            "release_date": "2016-01-24",
+            "release_date": "2016",
             "watchDate": "2016-11-20",
             "imdb_id": "tt5278506",
             "director": "David Farrier, Dylan Reeve",
@@ -4625,7 +4625,7 @@
         {
             "poster_path": "/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg",
             "original_title": "Arrival",
-            "release_date": "2016-11-10",
+            "release_date": "2016",
             "watchDate": "2016-11-22",
             "imdb_id": "tt2543164",
             "director": "Denis Villeneuve",
@@ -4636,7 +4636,7 @@
         {
             "poster_path": "/53Nvgs7DvPN5oPLmgNPCFPmyyBJ.jpg",
             "original_title": "La Loi de la jungle",
-            "release_date": "2016-06-15",
+            "release_date": "2016",
             "watchDate": "2016-11-23",
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
@@ -4647,7 +4647,7 @@
         {
             "poster_path": "/e8AFmkWiY6MS7Em4GmLuqjEDc1v.jpg",
             "original_title": "Le M\u00e9pris",
-            "release_date": "1963-10-29",
+            "release_date": "1963",
             "watchDate": "2016-11-27",
             "imdb_id": "tt0057345",
             "director": "Jean-Luc Godard",
@@ -4658,7 +4658,7 @@
         {
             "poster_path": "/y3ySbGb56lbNCnVtTWWsEdHyMNt.jpg",
             "original_title": "\u30d1\u30d7\u30ea\u30ab",
-            "release_date": "2006-10-01",
+            "release_date": "2006",
             "watchDate": "2016-12-04",
             "imdb_id": "tt0851578",
             "director": "Satoshi Kon",
@@ -4669,7 +4669,7 @@
         {
             "poster_path": "/3IqxFXJHLeyr3PXOZJJRCujw3mp.jpg",
             "original_title": "Rabid",
-            "release_date": "1977-04-08",
+            "release_date": "1977",
             "watchDate": "2016-12-04",
             "imdb_id": "tt0076590",
             "director": "David Cronenberg",
@@ -4680,7 +4680,7 @@
         {
             "poster_path": "/hcq0TqbjBkPIOCKwYY5WTcjvT8o.jpg",
             "original_title": "Hellraiser",
-            "release_date": "1987-09-11",
+            "release_date": "1987",
             "watchDate": "2016-12-06",
             "imdb_id": "tt0093177",
             "director": "Clive Barker",
@@ -4691,7 +4691,7 @@
         {
             "poster_path": "/oFwzvRgfxJc0FUr2mwYTi10dk3G.jpg",
             "original_title": "Sunset Boulevard",
-            "release_date": "1950-08-10",
+            "release_date": "1950",
             "watchDate": "2016-12-10",
             "imdb_id": "tt0043014",
             "director": "Billy Wilder",
@@ -4702,7 +4702,7 @@
         {
             "poster_path": "/w5YQqrwzreHfa7RmXCB7rpLLxbe.jpg",
             "original_title": "Candyman",
-            "release_date": "1992-10-16",
+            "release_date": "1992",
             "watchDate": "2016-12-14",
             "imdb_id": "tt0103919",
             "director": "Bernard Rose",
@@ -4713,7 +4713,7 @@
         {
             "poster_path": "/nbN1WTcFvQvSUZuSgkvFrZVdsBO.jpg",
             "original_title": "Z",
-            "release_date": "1969-02-26",
+            "release_date": "1969",
             "watchDate": "2016-12-18",
             "imdb_id": "tt0065234",
             "director": "Costa-Gavras",
@@ -4724,7 +4724,7 @@
         {
             "poster_path": "/vFWrFc6CzLlOm06gm8uYnTs6zXT.jpg",
             "original_title": "L'immortelle",
-            "release_date": "1963-03-27",
+            "release_date": "1963",
             "watchDate": "2016-12-19",
             "imdb_id": "tt0057176",
             "director": "Alain Robbe-Grillet",
@@ -4735,7 +4735,7 @@
         {
             "poster_path": "/jGDK6eM6vb8VEUmR0ZoaghcCG8f.jpg",
             "original_title": "The Thin Red Line",
-            "release_date": "1998-12-25",
+            "release_date": "1998",
             "watchDate": "2016-12-20",
             "imdb_id": "tt0120863",
             "director": "Terrence Malick",
@@ -4746,7 +4746,7 @@
         {
             "poster_path": "/erCPvts7KedbFCmpNOV21QNLrRs.jpg",
             "original_title": "Ace in the Hole",
-            "release_date": "1951-06-29",
+            "release_date": "1951",
             "watchDate": "2016-12-20",
             "imdb_id": "tt0043338",
             "director": "Billy Wilder",
@@ -4757,7 +4757,7 @@
         {
             "poster_path": "/nWa1vufekd3O4eoyHmm7XBybKfe.jpg",
             "original_title": "Trans-Europ-Express",
-            "release_date": "1966-01-01",
+            "release_date": "1966",
             "watchDate": "2016-12-21",
             "imdb_id": "tt0061113",
             "director": "Alain Robbe-Grillet",
@@ -4768,7 +4768,7 @@
         {
             "poster_path": "/pa0NxJBrekjf85QPV4JvwmlnY3h.jpg",
             "original_title": "Hellbound: Hellraiser II",
-            "release_date": "1988-12-23",
+            "release_date": "1988",
             "watchDate": "2016-12-21",
             "imdb_id": "tt0095294",
             "director": "Tony Randel",
@@ -4779,7 +4779,7 @@
         {
             "poster_path": "/udU6t5xPNDLlRTxhjXqgWFFYlvO.jpg",
             "original_title": "Keanu",
-            "release_date": "2016-04-21",
+            "release_date": "2016",
             "watchDate": "2016-12-21",
             "imdb_id": "tt4139124",
             "director": "Peter Atencio",
@@ -4790,7 +4790,7 @@
         {
             "poster_path": "/5Vl1jzffFvYZnovKmZIOu8ayBXg.jpg",
             "original_title": "\u7f8e\u4eba\u9c7c",
-            "release_date": "2016-02-08",
+            "release_date": "2016",
             "watchDate": "2017-01-02",
             "imdb_id": "tt4701660",
             "director": "Stephen Chow",
@@ -4801,7 +4801,7 @@
         {
             "poster_path": "/iO9aZzrfmMvm3IqkFiQyuuUMLh2.jpg",
             "original_title": "Office Space",
-            "release_date": "1999-02-19",
+            "release_date": "1999",
             "watchDate": "2017-01-02",
             "imdb_id": "tt0151804",
             "director": "Mike Judge",
@@ -4812,7 +4812,7 @@
         {
             "poster_path": "/6cPLskkOlnpfsWuJnp1a5twcIQL.jpg",
             "original_title": "Mia madre",
-            "release_date": "2015-04-16",
+            "release_date": "2015",
             "watchDate": "2017-01-02",
             "imdb_id": "tt3013610",
             "director": "Nanni Moretti",
@@ -4823,7 +4823,7 @@
         {
             "poster_path": "/pgCEAll5ROxjnIexHomp79dGGZs.jpg",
             "original_title": "Le locataire",
-            "release_date": "1976-05-26",
+            "release_date": "1976",
             "watchDate": "2017-01-07",
             "imdb_id": "tt0074811",
             "director": "Roman Polanski",
@@ -4834,7 +4834,7 @@
         {
             "poster_path": "/fjIVHiAaBUEtBbHgRLoTgeY8Ter.jpg",
             "original_title": "Rear Window",
-            "release_date": "1954-08-01",
+            "release_date": "1954",
             "watchDate": "2017-01-07",
             "imdb_id": "tt0047396",
             "director": "Alfred Hitchcock",
@@ -4845,7 +4845,7 @@
         {
             "poster_path": "/4payjKRO69Aew6Y53DfJ4KqhWs8.jpg",
             "original_title": "Repulsion",
-            "release_date": "1965-06-01",
+            "release_date": "1965",
             "watchDate": "2017-01-08",
             "imdb_id": "tt0059646",
             "director": "Roman Polanski",
@@ -4856,7 +4856,7 @@
         {
             "poster_path": "/vYaWP1Pt8n9npX5eaynZHP7MIRV.jpg",
             "original_title": "His Girl Friday",
-            "release_date": "1940-01-18",
+            "release_date": "1940",
             "watchDate": "2017-01-08",
             "imdb_id": "tt0032599",
             "director": "Howard Hawks",
@@ -4867,7 +4867,7 @@
         {
             "poster_path": "/ylXCdC106IKiarftHkcacasaAcb.jpg",
             "original_title": "La La Land",
-            "release_date": "2016-09-12",
+            "release_date": "2016",
             "watchDate": "2017-01-09",
             "imdb_id": "tt3783958",
             "director": "Damien Chazelle",
@@ -4878,7 +4878,7 @@
         {
             "poster_path": "/gSZNcG6xSa2IivuRDWSrE3IrwnA.jpg",
             "original_title": "Mr. Arkadin",
-            "release_date": "1955-03-01",
+            "release_date": "1955",
             "watchDate": "2017-01-16",
             "imdb_id": "tt0048393",
             "director": "Orson Welles",
@@ -4889,7 +4889,7 @@
         {
             "poster_path": "/xpbLyEd0XMozYh6hwSuZaw63cFK.jpg",
             "original_title": "Opening Night",
-            "release_date": "1977-12-22",
+            "release_date": "1977",
             "watchDate": "2017-01-18",
             "imdb_id": "tt0079672",
             "director": "John Cassavetes",
@@ -4900,7 +4900,7 @@
         {
             "poster_path": "/2ESOIwHMqxtjobuEdJHmTsBAmPh.jpg",
             "original_title": "It's Such a Beautiful Day",
-            "release_date": "2012-10-05",
+            "release_date": "2012",
             "watchDate": "2017-01-19",
             "imdb_id": "tt2396224",
             "director": "Don Hertzfeldt",
@@ -4911,7 +4911,7 @@
         {
             "poster_path": "/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg",
             "original_title": "Spotlight",
-            "release_date": "2015-11-06",
+            "release_date": "2015",
             "watchDate": "2017-01-21",
             "imdb_id": "tt1895587",
             "director": "Tom McCarthy",
@@ -4922,7 +4922,7 @@
         {
             "poster_path": "/pQBrEFmWXaeQulfRaH7aSwMIh5X.jpg",
             "original_title": "Bande \u00e0 part",
-            "release_date": "1964-08-05",
+            "release_date": "1964",
             "watchDate": "2017-01-25",
             "imdb_id": "tt0057869",
             "director": "Jean-Luc Godard",
@@ -4933,7 +4933,7 @@
         {
             "poster_path": "/ttUJSTKBdu1dR8d24FaoS4S1GFJ.jpg",
             "original_title": "The Big Sleep",
-            "release_date": "1946-08-23",
+            "release_date": "1946",
             "watchDate": "2017-01-28",
             "imdb_id": "tt0038355",
             "director": "Howard Hawks",
@@ -4944,7 +4944,7 @@
         {
             "poster_path": "/gJNjVE8WGUjiSKUtMDEvNzxR5zq.jpg",
             "original_title": "Toni Erdmann",
-            "release_date": "2016-07-14",
+            "release_date": "2016",
             "watchDate": "2017-02-04",
             "imdb_id": "tt4048272",
             "director": "Maren Ade",
@@ -4955,7 +4955,7 @@
         {
             "poster_path": "/zPEECSo5ZOBr9oEmBLSVXcqndTO.jpg",
             "original_title": "The 'Burbs",
-            "release_date": "1989-02-17",
+            "release_date": "1989",
             "watchDate": "2017-02-05",
             "imdb_id": "tt0096734",
             "director": "Joe Dante",
@@ -4966,7 +4966,7 @@
         {
             "poster_path": "/jw60oWt2PWWCvuz8S93i2RH4XJh.jpg",
             "original_title": "Billy Lynn's Long Halftime Walk",
-            "release_date": "2016-11-10",
+            "release_date": "2016",
             "watchDate": "2017-02-08",
             "imdb_id": "tt2513074",
             "director": "Ang Lee",
@@ -4977,7 +4977,7 @@
         {
             "poster_path": "/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
             "original_title": "Doctor Strange",
-            "release_date": "2016-10-25",
+            "release_date": "2016",
             "watchDate": "2017-02-15",
             "imdb_id": "tt1211837",
             "director": "Scott Derrickson",
@@ -4988,7 +4988,7 @@
         {
             "poster_path": "/i6HpXEGPwsMGUetM4l0OgT0SjlD.jpg",
             "original_title": "White Dog",
-            "release_date": "1982-07-07",
+            "release_date": "1982",
             "watchDate": "2017-02-16",
             "imdb_id": "tt0084899",
             "director": "Samuel Fuller",
@@ -4999,7 +4999,7 @@
         {
             "poster_path": "/6YOrNBdoXvT8aC5VPLkkN6t5z0V.jpg",
             "original_title": "Hell or High Water",
-            "release_date": "2016-08-12",
+            "release_date": "2016",
             "watchDate": "2017-02-20",
             "imdb_id": "tt2582782",
             "director": "David Mackenzie",
@@ -5010,7 +5010,7 @@
         {
             "poster_path": "/wmI5LfAhIdRnVWlWJTXiFdXiJLz.jpg",
             "original_title": "Une femme mari\u00e9e: Suite de fragments d'un film tourn\u00e9 en 1964",
-            "release_date": "1964-12-04",
+            "release_date": "1964",
             "watchDate": "2017-02-22",
             "imdb_id": "tt0058701",
             "director": "Jean-Luc Godard",
@@ -5021,7 +5021,7 @@
         {
             "poster_path": "/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg",
             "original_title": "Profondo Rosso",
-            "release_date": "1975-03-07",
+            "release_date": "1975",
             "watchDate": "2017-02-23",
             "imdb_id": "tt0073582",
             "director": "Dario Argento",
@@ -5032,7 +5032,7 @@
         {
             "poster_path": "/iMkl2Akc1f4CSJCieVwczM4KjZR.jpg",
             "original_title": "Jackie",
-            "release_date": "2016-12-02",
+            "release_date": "2016",
             "watchDate": "2017-02-24",
             "imdb_id": "tt1619029",
             "director": "Pablo Larra\u00edn",
@@ -5043,7 +5043,7 @@
         {
             "poster_path": "/eG0WtPOqYTYGo6nRynqN2CQRoel.jpg",
             "original_title": "O.J.: Made in America",
-            "release_date": "2016-05-20",
+            "release_date": "2016",
             "watchDate": "2017-02-25",
             "imdb_id": "tt5275892",
             "director": "Ezra Edelman",
@@ -5054,7 +5054,7 @@
         {
             "poster_path": "/zyv3omPVI9u5Kmem7l1xycnLCYP.jpg",
             "original_title": "13th",
-            "release_date": "2016-10-07",
+            "release_date": "2016",
             "watchDate": "2017-02-26",
             "imdb_id": "tt5895028",
             "director": "Ava DuVernay",
@@ -5065,7 +5065,7 @@
         {
             "poster_path": "/usunF9TM1LQJ47eRBcitBsGRBFx.jpg",
             "original_title": "Life Itself",
-            "release_date": "2014-07-04",
+            "release_date": "2014",
             "watchDate": "2017-03-03",
             "imdb_id": "tt2382298",
             "director": "Steve James",
@@ -5076,7 +5076,7 @@
         {
             "poster_path": "/p5O8cBP8F8Zg5DM1Nx3Gfc3FBfX.jpg",
             "original_title": "Cheatin'",
-            "release_date": "2013-10-18",
+            "release_date": "2013",
             "watchDate": "2017-03-04",
             "imdb_id": "tt2361846",
             "director": "Bill Plympton",
@@ -5087,7 +5087,7 @@
         {
             "poster_path": "/jZDRazOQhKFGoK322rYiBk1fpsY.jpg",
             "original_title": "Mr. Smith Goes to Washington",
-            "release_date": "1939-10-19",
+            "release_date": "1939",
             "watchDate": "2017-03-05",
             "imdb_id": "tt0031679",
             "director": "Frank Capra",
@@ -5098,7 +5098,7 @@
         {
             "poster_path": "/xOLY69rXKwuH9JUnOE4G2HHKiW5.jpg",
             "original_title": "Trois couleurs : Blanc",
-            "release_date": "1994-01-26",
+            "release_date": "1994",
             "watchDate": "2017-03-08",
             "imdb_id": "tt0111507",
             "director": "Krzysztof Kie\u015blowski",
@@ -5109,7 +5109,7 @@
         {
             "poster_path": "/hGRfWcy1HRGbsjK6jF7NILmqmFT.jpg",
             "original_title": "Big Hero 6",
-            "release_date": "2014-10-24",
+            "release_date": "2014",
             "watchDate": "2017-03-14",
             "imdb_id": "tt2245084",
             "director": "Don Hall, Chris Williams",
@@ -5120,7 +5120,7 @@
         {
             "poster_path": "/gN6X3fwPya8pLffk9OEWV3DqBnE.jpg",
             "original_title": "Babe",
-            "release_date": "1995-07-18",
+            "release_date": "1995",
             "watchDate": "2017-03-18",
             "imdb_id": "tt0112431",
             "director": "Chris Noonan",
@@ -5131,7 +5131,7 @@
         {
             "poster_path": "/xQKF94NvqsHCuGUjgvJ5Etgnryu.jpg",
             "original_title": "Inland Empire",
-            "release_date": "2006-09-06",
+            "release_date": "2006",
             "watchDate": "2017-03-18",
             "imdb_id": "tt0460829",
             "director": "David Lynch",
@@ -5142,13 +5142,24 @@
         {
             "poster_path": "/8m0lCMGVLuDod7lL20deiXInMq0.jpg",
             "original_title": "Moana",
-            "release_date": "2016-11-23",
+            "release_date": "2016",
             "watchDate": "2017-03-21",
             "imdb_id": "tt3521164",
             "director": "Ron Clements, John Musker",
             "personalRating": "3",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 107
+        },
+        {
+            "poster_path": "/77CFEssoKesi4zvtADEpIrSKhA3.jpg",
+            "original_title": "Trois couleurs : Rouge",
+            "release_date": "1994",
+            "watchDate": "2017-03-22",
+            "imdb_id": "tt0111495",
+            "director": "Krzysztof Kie\u015blowski",
+            "personalRating": "5",
+            "vote_average": 7.8,
+            "runtime": 99
         }
     ],
     "cinematographers": [
@@ -5303,7 +5314,7 @@
         "1960s": 33,
         "1970s": 52,
         "1980s": 35,
-        "1990s": 28,
+        "1990s": 29,
         "2000s": 18,
         "2010s": 98
     }

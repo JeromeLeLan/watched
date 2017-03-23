@@ -85,10 +85,12 @@ $(document).ready(function() {
         value.director,
         value.release_date,
         value.runtime,
-        value.personalRating
+        value.personalRating,
+        value.poster_path
       ]);
     });
-    $('#movieList').DataTable({
+    var table = $('#movieList').DataTable({
+      stateSave: true,
       data: dataSet,
       order: [[ 0, "desc" ]],
       columns: [
@@ -99,6 +101,9 @@ $(document).ready(function() {
         { title: "Runtime" },
         { title: "Rating" }
       ]
+    });
+    $('#movieList tbody').on('mouseenter', 'td', function () {
+      document.getElementById("poster").src = 'https://image.tmdb.org/t/p/w300'+table.row(this).data()[6];
     });
   });
 });

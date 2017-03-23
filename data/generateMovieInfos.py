@@ -86,13 +86,13 @@ def generateMovieInfos():
 				movieInfoLight = dict()
 				movieInfoLight["imdb_id"] = movieInfo["imdb_id"]
 				movieInfoLight["original_title"] = movieInfo["original_title"]
-				movieInfoLight["release_date"] = movieInfo["release_date"]
+				movieInfoLight["release_date"] = movieInfo["release_date"][0:4]
 				movieInfoLight["vote_average"] = movieInfo["vote_average"]
 				movieInfoLight["watchDate"] = watchDate
 				movieInfoLight["personalRating"] = rating
 				movieInfoLight["runtime"] = movieInfo["runtime"]
 				movieInfoLight["poster_path"] = movieInfo["poster_path"]
-				movieInfoLight["director"] = director
+				movieInfoLight["director"] = director.strip()
 				movieInfos.append(movieInfoLight)
 				sys.stdout.flush()
 
