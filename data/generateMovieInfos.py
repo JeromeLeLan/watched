@@ -76,7 +76,7 @@ def getGenre(movieInfo):
 def generateMovieInfos():
 	with open(watchedFile, "rU") as f:
 		for movie in f:
-			watchDate, imdbId, rating = movie.strip().split(" ")
+			watchDate, imdbId, rating, useEnglishTitle = movie.strip().split(" ")
 			if movie:
 				movieInfo = getMovieInfo(imdbId)
 				getDecade(movieInfo)
@@ -85,7 +85,10 @@ def generateMovieInfos():
 				director = getCreditsInfo(imdbId)
 				movieInfoLight = dict()
 				movieInfoLight["imdb_id"] = movieInfo["imdb_id"]
-				movieInfoLight["original_title"] = movieInfo["original_title"]
+				if useEnglishTitle == "1":
+					movieInfoLight["original_title"] = movieInfo["title"]
+				else:
+					movieInfoLight["original_title"] = movieInfo["original_title"]					
 				movieInfoLight["release_date"] = movieInfo["release_date"][0:4]
 				movieInfoLight["vote_average"] = movieInfo["vote_average"]
 				movieInfoLight["watchDate"] = watchDate

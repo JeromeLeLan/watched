@@ -90,18 +90,21 @@ $(document).ready(function() {
       ]);
     });
     var table = $('#movieList').DataTable({
-      stateSave: true,
+      autoWidth: true,
       data: dataSet,
+      pageLength: 8,
+      lengthChange: false,
       order: [[ 0, "desc" ]],
       columns: [
-        { title: "Watched on" },
-        { title: "Title" },
-        { title: "Director" },
-        { title: "Year" },
-        { title: "Runtime" },
-        { title: "Rating" }
+        { width: "15%", title: "Vu le" },
+        { width: "30%", title: "Titre" },
+        { width: "30%", title: "Réalisateur" },
+        { width: "8%", title: "Année" },
+        { width: "7%", title: "Durée" },
+        { width: "10%", title: "Note" }
       ]
     });
+    document.getElementById("poster").src = 'https://image.tmdb.org/t/p/w300'+table.row(this).data()[6];
     $('#movieList tbody').on('mouseenter', 'td', function () {
       document.getElementById("poster").src = 'https://image.tmdb.org/t/p/w300'+table.row(this).data()[6];
     });
