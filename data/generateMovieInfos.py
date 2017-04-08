@@ -33,12 +33,10 @@ def addItemToDict(vDict, key, value, valueType):
 	vDict[key]["count"] = vDict[key]["count"] + 1
 
 def getMovieInfo(imdbId):
-	print imdbId,
 	url = "https://api.themoviedb.org/3/movie/tt" + imdbId + \
 		"?api_key=" + apiKey + "&language=en-US"
 	movieInfo = json.load(urllib2.urlopen(url))
 	time.sleep(0.25)
-	print "-> " + movieInfo["original_title"].encode('utf-8'),
 	return movieInfo
 
 def getCreditsInfo(imdbId):
@@ -78,17 +76,19 @@ def generateMovieInfos():
 		for movie in f:
 			watchDate, imdbId, rating, useEnglishTitle = movie.strip().split(" ")
 			if movie:
+				print imdbId,
 				movieInfo = getMovieInfo(imdbId)
+				movieInfoLight = dict()			
+				if useEnglishTitle == "1":
+					movieInfoLight["original_title"] = movieInfo["title"]
+				else:
+					movieInfoLight["original_title"] = movieInfo["original_title"]	
+				print "-> " + movieInfoLight["original_title"].encode('utf-8'),
 				getDecade(movieInfo)
 				getCountry(movieInfo)
 				getGenre(movieInfo)
 				director = getCreditsInfo(imdbId)
-				movieInfoLight = dict()
-				movieInfoLight["imdb_id"] = movieInfo["imdb_id"]
-				if useEnglishTitle == "1":
-					movieInfoLight["original_title"] = movieInfo["title"]
-				else:
-					movieInfoLight["original_title"] = movieInfo["original_title"]					
+				movieInfoLight["imdb_id"] = movieInfo["imdb_id"]					
 				movieInfoLight["release_date"] = movieInfo["release_date"][0:4]
 				movieInfoLight["vote_average"] = movieInfo["vote_average"]
 				movieInfoLight["watchDate"] = watchDate
