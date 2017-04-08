@@ -73,7 +73,8 @@ google.charts.setOnLoadCallback(drawYearChart);
 google.charts.setOnLoadCallback(drawGenreChart);
 
 var currentPoster;
-var posterIdx;
+var prevPosterId = "poster1";
+var nextPosterId = "poster2";
 $(document).ready(function() {
   var jsonData = $.ajax({
     url: 'js/watched.json',
@@ -106,35 +107,36 @@ $(document).ready(function() {
         {
           width: "10%", title: "Note",
           render: function(data, type, row) {
-            if (data == 6) return '<img src="img/palme.gif" style="height: 30px;"/>'
-            starDiv = '<div class="rating">'
-            for (i = 0; i< data; ++i) {
-              starDiv += '<span>☆</span>'
+            if (type == 'display') {
+              if (data == 6) return '<img src="img/palme.gif" style="height: 30px;"/>'
+              starDiv = '<div class="rating">'
+              for (i = 0; i< data; ++i) {
+                starDiv += '<span>☆</span>'
+              }
+              starDiv += '</div>'
+              return starDiv;
             }
-            starDiv += '</div>'
-            return starDiv;
+            return data;
           }
         },
       ]
     });
     currentPoster = table.row(this).data()[6];
-    posterIdx = 1;
-    document.getElementById("poster1").src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
-    document.getElementById("poster2").src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
+    document.getElementById(prevPosterId).src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
+    document.getElementById(nextPosterId).src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
     $('#movieList tbody').on('mouseenter', 'td', function () {
       var newPoster = table.row(this).data()[6];
       if (currentPoster == newPoster) return;
-      if (posterIdx == 1) {
-        document.getElementById("poster2").src = 'https://image.tmdb.org/t/p/w300'+newPoster;
-        document.getElementById("poster1").style.opacity = 0;
-        document.getElementById("poster2").style.opacity = 100;
-        posterIdx = 2;
+      document.getElementById(nextPosterId).src = 'https://image.tmdb.org/t/p/w300'+newPoster;
+      document.getElementById(prevPosterId).style.opacity = 0;
+      document.getElementById(nextPosterId).style.opacity = 100;
+      if (prevPosterId == "poster1") {
+        prevPosterId = "poster2";
+        nextPosterId = "poster1";
       }
       else {
-        document.getElementById("poster1").src = 'https://image.tmdb.org/t/p/w300'+newPoster;
-        document.getElementById("poster1").style.opacity = 100;
-        document.getElementById("poster2").style.opacity = 0;
-        posterIdx = 1;
+        prevPosterId = "poster1";
+        nextPosterId = "poster2";
       }
       currentPoster = newPoster;
     });
