@@ -72,6 +72,8 @@ google.charts.setOnLoadCallback(drawRegionsMap);
 google.charts.setOnLoadCallback(drawYearChart);
 google.charts.setOnLoadCallback(drawGenreChart);
 
+var currentPoster;
+var posterIdx;
 $(document).ready(function() {
   var jsonData = $.ajax({
     url: 'js/watched.json',
@@ -101,12 +103,40 @@ $(document).ready(function() {
         { width: "30%", title: "Réalisateur" },
         { width: "8%", title: "Année" },
         { width: "7%", title: "Durée" },
-        { width: "10%", title: "Note" }
+        {
+          width: "10%", title: "Note",
+          render: function(data, type, row) {
+            if (data == 6) return '<img src="img/palme.gif" style="height: 30px;"/>'
+            starDiv = '<div class="rating">'
+            for (i = 0; i< data; ++i) {
+              starDiv += '<span>☆</span>'
+            }
+            starDiv += '</div>'
+            return starDiv;
+          }
+        },
       ]
     });
-    document.getElementById("poster").src = 'https://image.tmdb.org/t/p/w300'+table.row(this).data()[6];
+    currentPoster = table.row(this).data()[6];
+    posterIdx = 1;
+    document.getElementById("poster1").src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
+    document.getElementById("poster2").src = 'https://image.tmdb.org/t/p/w300'+currentPoster;
     $('#movieList tbody').on('mouseenter', 'td', function () {
-      document.getElementById("poster").src = 'https://image.tmdb.org/t/p/w300'+table.row(this).data()[6];
+      var newPoster = table.row(this).data()[6];
+      if (currentPoster == newPoster) return;
+      if (posterIdx == 1) {
+        document.getElementById("poster2").src = 'https://image.tmdb.org/t/p/w300'+newPoster;
+        document.getElementById("poster1").style.opacity = 0;
+        document.getElementById("poster2").style.opacity = 100;
+        posterIdx = 2;
+      }
+      else {
+        document.getElementById("poster1").src = 'https://image.tmdb.org/t/p/w300'+newPoster;
+        document.getElementById("poster1").style.opacity = 100;
+        document.getElementById("poster2").style.opacity = 0;
+        posterIdx = 1;
+      }
+      currentPoster = newPoster;
     });
   });
 });

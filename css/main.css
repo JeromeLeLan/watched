@@ -81,6 +81,19 @@ body {
 
 .pad { padding: 20px; }
 
+#cf2 {
+	position:relative;
+	margin:0 auto;
+}
+#cf2 img {
+	position:absolute;
+	left:0;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-o-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+}
+
 .flex-2-col {
 	display: -webkit-box;
 	display: -webkit-flex;

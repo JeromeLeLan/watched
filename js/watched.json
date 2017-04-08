@@ -4,12 +4,12 @@
         "Comedy": 72,
         "Thriller": 64,
         "Romance": 50,
-        "Science Fiction": 47,
+        "Science Fiction": 46,
         "Horror": 42,
         "Adventure": 40,
-        "Action": 40,
+        "Action": 39,
         "Crime": 38,
-        "Mystery": 33,
+        "Mystery": 34,
         "Documentary": 26,
         "Fantasy": 22,
         "Family": 18,
@@ -1755,7 +1755,7 @@
             "runtime": 95
         },
         {
-            "poster_path": "/mSrfyFGeSZ58sfDvtVz8TvTQyfX.jpg",
+            "poster_path": "/xopaNXZrNjvpVgYrUWTtGhb3Ylu.jpg",
             "original_title": "Nostalghia",
             "release_date": "1983",
             "watchDate": "2015-01-04",
@@ -1783,7 +1783,7 @@
             "watchDate": "2015-01-11",
             "imdb_id": "tt0091670",
             "director": "Andrei Tarkovsky",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.2,
             "runtime": 149
         },
@@ -1904,7 +1904,7 @@
             "watchDate": "2015-02-08",
             "imdb_id": "tt0060827",
             "director": "Ingmar Bergman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.8,
             "runtime": 85
         },
@@ -1992,7 +1992,7 @@
             "watchDate": "2015-03-04",
             "imdb_id": "tt0083922",
             "director": "Ingmar Bergman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.2,
             "runtime": 188
         },
@@ -2168,7 +2168,7 @@
             "watchDate": "2015-04-30",
             "imdb_id": "tt0085809",
             "director": "Godfrey Reggio",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.5,
             "runtime": 87
         },
@@ -2179,7 +2179,7 @@
             "watchDate": "2015-05-02",
             "imdb_id": "tt0057611",
             "director": "Ingmar Bergman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.4,
             "runtime": 91
         },
@@ -2223,7 +2223,7 @@
             "watchDate": "2015-05-11",
             "imdb_id": "tt0048424",
             "director": "Charles Laughton",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.7,
             "runtime": 93
         },
@@ -2256,7 +2256,7 @@
             "watchDate": "2015-05-17",
             "imdb_id": "tt0069467",
             "director": "Ingmar Bergman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.7,
             "runtime": 91
         },
@@ -2410,7 +2410,7 @@
             "watchDate": "2015-06-16",
             "imdb_id": "tt0074991",
             "director": "Brian De Palma",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 6.4,
             "runtime": 98
         },
@@ -2487,7 +2487,7 @@
             "watchDate": "2015-06-30",
             "imdb_id": "tt2096673",
             "director": "Pete Docter",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 8.0,
             "runtime": 94
         },
@@ -2641,7 +2641,7 @@
             "watchDate": "2015-08-28",
             "imdb_id": "tt0910970",
             "director": "Andrew Stanton",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.7,
             "runtime": 98
         },
@@ -2697,7 +2697,7 @@
             "imdb_id": "tt0129167",
             "director": "Brad Bird",
             "personalRating": "2",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 86
         },
         {
@@ -2817,7 +2817,7 @@
             "watchDate": "2015-10-25",
             "imdb_id": "tt0086984",
             "director": "Brian De Palma",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 6.3,
             "runtime": 114
         },
@@ -2916,7 +2916,7 @@
             "watchDate": "2015-11-17",
             "imdb_id": "tt0280665",
             "director": "Brian De Palma",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 6.3,
             "runtime": 114
         },
@@ -3081,7 +3081,7 @@
             "watchDate": "2015-12-15",
             "imdb_id": "tt0073198",
             "director": "Chantal Akerman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.4,
             "runtime": 201
         },
@@ -3224,7 +3224,7 @@
             "watchDate": "2016-01-12",
             "imdb_id": "tt0048473",
             "director": "Satyajit Ray",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.8,
             "runtime": 125
         },
@@ -3301,7 +3301,7 @@
             "watchDate": "2016-01-24",
             "imdb_id": "tt0062480",
             "director": "Jean-Luc Godard",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.0,
             "runtime": 105
         },
@@ -3356,7 +3356,7 @@
             "watchDate": "2016-02-03",
             "imdb_id": "tt0049730",
             "director": "John Ford",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.7,
             "runtime": 119
         },
@@ -3433,7 +3433,7 @@
             "watchDate": "2016-03-09",
             "imdb_id": "tt1798709",
             "director": "Spike Jonze",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.8,
             "runtime": 126
         },
@@ -3477,7 +3477,7 @@
             "watchDate": "2016-03-19",
             "imdb_id": "tt0071381",
             "director": "Jacques Rivette",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.9,
             "runtime": 193
         },
@@ -3510,7 +3510,7 @@
             "watchDate": "2016-03-23",
             "imdb_id": "tt0087644",
             "director": "John Cassavetes",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.2,
             "runtime": 141
         },
@@ -3521,7 +3521,7 @@
             "watchDate": "2016-03-26",
             "imdb_id": "tt0166924",
             "director": "David Lynch",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.5,
             "runtime": 147
         },
@@ -3533,7 +3533,7 @@
             "imdb_id": "tt0113568",
             "director": "Mamoru Oshii",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 83
         },
         {
@@ -3730,7 +3730,7 @@
             "watchDate": "2016-05-15",
             "imdb_id": "tt0101985",
             "director": "Edward Yang",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 8.4,
             "runtime": 237
         },
@@ -3796,7 +3796,7 @@
             "watchDate": "2016-05-25",
             "imdb_id": "tt0077405",
             "director": "Terrence Malick",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.6,
             "runtime": 94
         },
@@ -3840,7 +3840,7 @@
             "watchDate": "2016-06-02",
             "imdb_id": "tt0246135",
             "director": "Jacques Rivette, Suzanne Schiffman",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.3,
             "runtime": 743
         },
@@ -4236,7 +4236,7 @@
             "watchDate": "2016-07-30",
             "imdb_id": "tt0402399",
             "director": "Terrence Malick",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 6.4,
             "runtime": 135
         },
@@ -4511,7 +4511,7 @@
             "watchDate": "2016-10-15",
             "imdb_id": "tt1128075",
             "director": "Sion Sono",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 8.0,
             "runtime": 237
         },
@@ -4907,7 +4907,7 @@
             "watchDate": "2017-01-18",
             "imdb_id": "tt0079672",
             "director": "John Cassavetes",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 7.4,
             "runtime": 144
         },
@@ -4918,7 +4918,7 @@
             "watchDate": "2017-01-19",
             "imdb_id": "tt2396224",
             "director": "Don Hertzfeldt",
-            "personalRating": "5",
+            "personalRating": "6",
             "vote_average": 8.0,
             "runtime": 62
         },
@@ -5051,7 +5051,7 @@
             "imdb_id": "tt1619029",
             "director": "Pablo Larra\u00edn",
             "personalRating": "5",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 100
         },
         {
@@ -5061,8 +5061,8 @@
             "watchDate": "2017-02-25",
             "imdb_id": "tt5275892",
             "director": "Ezra Edelman",
-            "personalRating": "5",
-            "vote_average": 8.7,
+            "personalRating": "6",
+            "vote_average": 8.6,
             "runtime": 463
         },
         {
