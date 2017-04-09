@@ -10,7 +10,7 @@
         "Action": 39,
         "Crime": 38,
         "Mystery": 34,
-        "Documentary": 26,
+        "Documentary": 27,
         "Fantasy": 22,
         "Family": 18,
         "Animation": 15,
@@ -110,7 +110,7 @@
             "name": "Chile"
         },
         "CA": {
-            "count": 21,
+            "count": 22,
             "name": "Canada"
         },
         "IR": {
@@ -1413,6 +1413,13 @@
             }
         ],
         [
+            38516,
+            {
+                "count": 1,
+                "name": "Denys Arcand"
+            }
+        ],
+        [
             1111725,
             {
                 "count": 1,
@@ -2191,7 +2198,7 @@
             "imdb_id": "tt1791528",
             "director": "Paul Thomas Anderson",
             "personalRating": "5",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 148
         },
         {
@@ -4237,7 +4244,7 @@
             "imdb_id": "tt0402399",
             "director": "Terrence Malick",
             "personalRating": "6",
-            "vote_average": 6.4,
+            "vote_average": 6.3,
             "runtime": 135
         },
         {
@@ -5051,7 +5058,7 @@
             "imdb_id": "tt1619029",
             "director": "Pablo Larra\u00edn",
             "personalRating": "5",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 100
         },
         {
@@ -5207,6 +5214,17 @@
             "personalRating": "4",
             "vote_average": 7.9,
             "runtime": 145
+        },
+        {
+            "poster_path": "/jToBWwOKTw7CyW7DXaVp1oDr5zM.jpg",
+            "original_title": "Le confort et l'indiff\u00e9rence",
+            "release_date": "1982",
+            "watchDate": "2017-04-08",
+            "imdb_id": "tt0123730",
+            "director": "Denys Arcand",
+            "personalRating": "3",
+            "vote_average": 6.5,
+            "runtime": 109
         }
     ],
     "cinematographers": [
@@ -5360,7 +5378,7 @@
         "1950s": 27,
         "1960s": 33,
         "1970s": 52,
-        "1980s": 35,
+        "1980s": 36,
         "1990s": 29,
         "2000s": 18,
         "2010s": 101
