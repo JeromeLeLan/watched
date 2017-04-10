@@ -1,15 +1,15 @@
 {
     "genres": {
-        "Drama": 192,
-        "Comedy": 72,
-        "Thriller": 64,
+        "Drama": 193,
+        "Comedy": 73,
+        "Thriller": 66,
         "Romance": 50,
         "Science Fiction": 46,
         "Horror": 42,
-        "Adventure": 40,
+        "Adventure": 41,
         "Action": 39,
         "Crime": 38,
-        "Mystery": 34,
+        "Mystery": 35,
         "Documentary": 27,
         "Fantasy": 22,
         "Family": 18,
@@ -138,7 +138,7 @@
             "name": "Australia"
         },
         "GB": {
-            "count": 29,
+            "count": 30,
             "name": "United Kingdom"
         },
         "IN": {
@@ -293,6 +293,13 @@
             }
         ],
         [
+            3556,
+            {
+                "count": 3,
+                "name": "Roman Polanski"
+            }
+        ],
+        [
             24,
             {
                 "count": 3,
@@ -346,13 +353,6 @@
             {
                 "count": 2,
                 "name": "Sam Mendes"
-            }
-        ],
-        [
-            3556,
-            {
-                "count": 2,
-                "name": "Roman Polanski"
             }
         ],
         [
@@ -1934,7 +1934,7 @@
             "imdb_id": "tt0062873",
             "director": "Jacques Demy",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 124
         },
         {
@@ -2044,7 +2044,7 @@
             "imdb_id": "tt3011894",
             "director": "Dami\u00e1n Szifr\u00f3n",
             "personalRating": "4",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 125
         },
         {
@@ -2154,7 +2154,7 @@
             "imdb_id": "tt0021749",
             "director": "Charlie Chaplin",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.0,
             "runtime": 87
         },
         {
@@ -2209,7 +2209,7 @@
             "imdb_id": "tt0066207",
             "director": "Jacques Demy",
             "personalRating": "3",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 90
         },
         {
@@ -2297,7 +2297,7 @@
             "imdb_id": "tt0074626",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 7.1,
+            "vote_average": 6.8,
             "runtime": 94
         },
         {
@@ -2440,7 +2440,7 @@
             "imdb_id": "tt0039192",
             "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 100
         },
         {
@@ -2604,7 +2604,7 @@
             "watchDate": "2015-08-16",
             "imdb_id": "tt0110057",
             "director": "Steve James",
-            "personalRating": "4",
+            "personalRating": "5",
             "vote_average": 7.5,
             "runtime": 171
         },
@@ -3078,7 +3078,7 @@
             "imdb_id": "tt0075276",
             "director": "Werner Herzog",
             "personalRating": "4",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 107
         },
         {
@@ -3189,7 +3189,7 @@
             "director": "Peyton Reed",
             "personalRating": "2",
             "vote_average": 7.0,
-            "runtime": 115
+            "runtime": 117
         },
         {
             "poster_path": "/bxDby1r6WW3HyWzA9vd8uCMG9E6.jpg",
@@ -3485,7 +3485,7 @@
             "imdb_id": "tt0071381",
             "director": "Jacques Rivette",
             "personalRating": "6",
-            "vote_average": 7.9,
+            "vote_average": 7.6,
             "runtime": 193
         },
         {
@@ -3540,7 +3540,7 @@
             "imdb_id": "tt0113568",
             "director": "Mamoru Oshii",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 83
         },
         {
@@ -4047,7 +4047,7 @@
             "director": "Eric Judor",
             "personalRating": "2",
             "vote_average": 3.7,
-            "runtime": 0
+            "runtime": 88
         },
         {
             "poster_path": "/4hVyXAVAjyuXUcKbD4rRkYVPQx1.jpg",
@@ -4355,7 +4355,7 @@
             "director": "Anthony Russo, Joe Russo",
             "personalRating": "2",
             "vote_average": 6.9,
-            "runtime": 146
+            "runtime": 147
         },
         {
             "poster_path": "/CslqVcf2ViLo1GCSFYPpnhrJfc.jpg",
@@ -4402,7 +4402,7 @@
             "runtime": 215
         },
         {
-            "poster_path": "/ag6NsqD8tpDGgAcs4CnfdI3miSD.jpg",
+            "poster_path": "/xTqy97V5EYtnMWWo2wVpScanpDS.jpg",
             "original_title": "Juste la fin du monde",
             "release_date": "2016",
             "watchDate": "2016-10-03",
@@ -4442,7 +4442,7 @@
             "imdb_id": "tt0803096",
             "director": "Duncan Jones",
             "personalRating": "1",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 123
         },
         {
@@ -4487,7 +4487,7 @@
             "director": "Fran\u00e7ois Ruffin",
             "personalRating": "5",
             "vote_average": 7.2,
-            "runtime": 0
+            "runtime": 84
         },
         {
             "poster_path": "/3rKD5cJpXgzNosKVDpZYJSHm7P5.jpg",
@@ -4750,7 +4750,7 @@
             "imdb_id": "tt0057176",
             "director": "Alain Robbe-Grillet",
             "personalRating": "4",
-            "vote_average": 5.4,
+            "vote_average": 5.9,
             "runtime": 101
         },
         {
@@ -4783,7 +4783,7 @@
             "imdb_id": "tt0061113",
             "director": "Alain Robbe-Grillet",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 105
         },
         {
@@ -4816,7 +4816,7 @@
             "imdb_id": "tt4701660",
             "director": "Stephen Chow",
             "personalRating": "3",
-            "vote_average": 6.0,
+            "vote_average": 6.1,
             "runtime": 93
         },
         {
@@ -5225,6 +5225,17 @@
             "personalRating": "3",
             "vote_average": 6.5,
             "runtime": 109
+        },
+        {
+            "poster_path": "/yWvGHvN0LzpYrP5QiVnhGpg1UA5.jpg",
+            "original_title": "Cul-de-sac",
+            "release_date": "1966",
+            "watchDate": "2017-04-09",
+            "imdb_id": "tt0060268",
+            "director": "Roman Polanski",
+            "personalRating": "4",
+            "vote_average": 7.0,
+            "runtime": 113
         }
     ],
     "cinematographers": [
@@ -5376,7 +5387,7 @@
         "1930s": 9,
         "1940s": 10,
         "1950s": 27,
-        "1960s": 33,
+        "1960s": 34,
         "1970s": 52,
         "1980s": 36,
         "1990s": 29,
