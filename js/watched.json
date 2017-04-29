@@ -1,18 +1,18 @@
 {
     "genres": {
-        "Drama": 196,
-        "Comedy": 73,
-        "Thriller": 68,
-        "Romance": 50,
+        "Drama": 197,
+        "Comedy": 74,
+        "Thriller": 70,
+        "Romance": 51,
         "Science Fiction": 46,
         "Horror": 43,
-        "Adventure": 41,
+        "Adventure": 43,
         "Crime": 39,
         "Action": 39,
-        "Mystery": 36,
-        "Documentary": 27,
-        "Fantasy": 22,
-        "Family": 18,
+        "Mystery": 38,
+        "Documentary": 28,
+        "Fantasy": 23,
+        "Family": 19,
         "Animation": 15,
         "Music": 13,
         "War": 7,
@@ -34,7 +34,7 @@
             "name": "Denmark"
         },
         "DE": {
-            "count": 29,
+            "count": 30,
             "name": "Germany"
         },
         "JP": {
@@ -118,7 +118,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 17,
+            "count": 18,
             "name": "Italy"
         },
         "ZA": {
@@ -134,11 +134,11 @@
             "name": "Argentina"
         },
         "AU": {
-            "count": 5,
+            "count": 6,
             "name": "Australia"
         },
         "GB": {
-            "count": 30,
+            "count": 31,
             "name": "United Kingdom"
         },
         "IN": {
@@ -158,7 +158,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 151,
+            "count": 152,
             "name": "United States of America"
         },
         "KR": {
@@ -402,6 +402,13 @@
             {
                 "count": 2,
                 "name": "Howard Hawks"
+            }
+        ],
+        [
+            20629,
+            {
+                "count": 2,
+                "name": "George Miller"
             }
         ],
         [
@@ -706,6 +713,13 @@
             }
         ],
         [
+            68994,
+            {
+                "count": 1,
+                "name": "Ron Fricke"
+            }
+        ],
+        [
             15810,
             {
                 "count": 1,
@@ -927,6 +941,13 @@
             {
                 "count": 1,
                 "name": "Matthew Vaughn"
+            }
+        ],
+        [
+            14268,
+            {
+                "count": 1,
+                "name": "Massimo Dallamano"
             }
         ],
         [
@@ -1273,13 +1294,6 @@
             }
         ],
         [
-            20629,
-            {
-                "count": 1,
-                "name": "George Miller"
-            }
-        ],
-        [
             1,
             {
                 "count": 1,
@@ -1581,6 +1595,13 @@
             }
         ],
         [
+            15378,
+            {
+                "count": 1,
+                "name": "Carol Reed"
+            }
+        ],
+        [
             96369,
             {
                 "count": 1,
@@ -1776,7 +1797,7 @@
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 120
         },
         {
@@ -1798,7 +1819,7 @@
             "imdb_id": "tt0091670",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 149
         },
         {
@@ -1842,7 +1863,7 @@
             "imdb_id": "tt2400275",
             "director": "Jean-Luc Godard",
             "personalRating": "2",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 70
         },
         {
@@ -1996,7 +2017,7 @@
             "imdb_id": "tt0057358",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 81
         },
         {
@@ -2117,7 +2138,7 @@
             "imdb_id": "tt0053198",
             "director": "Fran\u00e7ois Truffaut",
             "personalRating": "4",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 99
         },
         {
@@ -2205,7 +2226,7 @@
             "imdb_id": "tt1791528",
             "director": "Paul Thomas Anderson",
             "personalRating": "5",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 148
         },
         {
@@ -2271,7 +2292,7 @@
             "imdb_id": "tt0069467",
             "director": "Ingmar Bergman",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 91
         },
         {
@@ -2491,7 +2512,7 @@
             "imdb_id": "tt0077711",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 90
         },
         {
@@ -2528,7 +2549,7 @@
             "runtime": 102
         },
         {
-            "poster_path": "/vpQmIOyxAw3wbXt2FeEvnVCiI2C.jpg",
+            "poster_path": "/xfLBaE7zQ4WAk4Z2iGxkgVUuQPz.jpg",
             "original_title": "Trafic",
             "release_date": "1971",
             "watchDate": "2015-07-23",
@@ -2623,7 +2644,7 @@
             "imdb_id": "tt0245574",
             "director": "Alfonso Cuar\u00f3n",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 106
         },
         {
@@ -2766,7 +2787,7 @@
             "imdb_id": "tt3774694",
             "director": "Gaspar No\u00e9",
             "personalRating": "5",
-            "vote_average": 4.8,
+            "vote_average": 4.9,
             "runtime": 134
         },
         {
@@ -2799,7 +2820,7 @@
             "imdb_id": "tt2818654",
             "director": "Apichatpong Weerasethakul",
             "personalRating": "3",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 122
         },
         {
@@ -2858,7 +2879,7 @@
             "runtime": 92
         },
         {
-            "poster_path": "/kIW7N2bKV42OWk1kkMeq5ewZQVh.jpg",
+            "poster_path": "/bgLyOROfFQI3FqYL7jQbiaV8lkN.jpg",
             "original_title": "Zodiac",
             "release_date": "2007",
             "watchDate": "2015-11-07",
@@ -2902,14 +2923,14 @@
             "runtime": 98
         },
         {
-            "poster_path": "/oyOtIdNJJO8zVwPyCtxVRxPLuHO.jpg",
+            "poster_path": "/7kUiA3FlSnZcsULjz1PhPZbo2gp.jpg",
             "original_title": "The Red Shoes",
             "release_date": "1948",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0040725",
             "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "5",
-            "vote_average": 8.2,
+            "vote_average": 8.1,
             "runtime": 133
         },
         {
@@ -2920,7 +2941,7 @@
             "imdb_id": "tt0070904",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "5",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 213
         },
         {
@@ -2975,7 +2996,7 @@
             "imdb_id": "tt2379713",
             "director": "Sam Mendes",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 148
         },
         {
@@ -3068,7 +3089,7 @@
         },
         {
             "poster_path": "/9KG8BHXfj0hyQm005vSMr5Co1iW.jpg",
-            "original_title": "Zat\u00f4ichi monogatari",
+            "original_title": "Zat\u014dichi monogatari",
             "release_date": "1962",
             "watchDate": "2015-12-11",
             "imdb_id": "tt0056714",
@@ -3232,7 +3253,7 @@
             "runtime": 105
         },
         {
-            "poster_path": "/5osX2Q40qcjNy8KQJ0Q4fI2XhMM.jpg",
+            "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
             "original_title": "Pather Panchali",
             "release_date": "1955",
             "watchDate": "2016-01-12",
@@ -3250,7 +3271,7 @@
             "imdb_id": "tt0105643",
             "director": "Claudio Fragasso",
             "personalRating": "3",
-            "vote_average": 3.7,
+            "vote_average": 3.6,
             "runtime": 95
         },
         {
@@ -3283,7 +3304,7 @@
             "imdb_id": "tt1663202",
             "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
             "personalRating": "3",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 156
         },
         {
@@ -3514,7 +3535,7 @@
             "imdb_id": "tt0076085",
             "director": "Ettore Scola",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 110
         },
         {
@@ -3617,7 +3638,7 @@
             "runtime": 121
         },
         {
-            "poster_path": "/9fXNiDKtomQPbZnRXxahbpNfxE9.jpg",
+            "poster_path": "/9sMmihRqqeM6abnINWuxkX4Olpo.jpg",
             "original_title": "Aparajito",
             "release_date": "1956",
             "watchDate": "2016-04-20",
@@ -3822,7 +3843,7 @@
             "imdb_id": "tt0244316",
             "director": "Edward Yang",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 173
         },
         {
@@ -3872,7 +3893,7 @@
         {
             "poster_path": "/zazIldLqJ1YNZoEsNRitO6KF6Ty.jpg",
             "original_title": "To the Wonder",
-            "release_date": "2012",
+            "release_date": "2013",
             "watchDate": "2016-06-07",
             "imdb_id": "tt1595656",
             "director": "Terrence Malick",
@@ -3954,7 +3975,7 @@
             "imdb_id": "tt2101383",
             "director": "Terrence Malick",
             "personalRating": "4",
-            "vote_average": 5.9,
+            "vote_average": 5.8,
             "runtime": 118
         },
         {
@@ -3981,7 +4002,7 @@
         },
         {
             "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
-            "original_title": "La Plan\u00e8te Sauvage",
+            "original_title": "La plan\u00e8te sauvage",
             "release_date": "1973",
             "watchDate": "2016-06-29",
             "imdb_id": "tt0070544",
@@ -4064,7 +4085,7 @@
             "imdb_id": "tt1093824",
             "director": "Werner Herzog",
             "personalRating": "5",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 99
         },
         {
@@ -4251,7 +4272,7 @@
             "imdb_id": "tt0402399",
             "director": "Terrence Malick",
             "personalRating": "6",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 135
         },
         {
@@ -4295,7 +4316,7 @@
             "imdb_id": "tt3296658",
             "director": "Gr\u00edmur H\u00e1konarson",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 93
         },
         {
@@ -4317,7 +4338,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.8,
             "runtime": 200
         },
         {
@@ -4570,7 +4591,7 @@
             "imdb_id": "tt4726636",
             "director": "Bruno Dumont",
             "personalRating": "4",
-            "vote_average": 5.8,
+            "vote_average": 5.7,
             "runtime": 122
         },
         {
@@ -4636,7 +4657,7 @@
             "imdb_id": "tt5215952",
             "director": "Na Hong-jin",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 156
         },
         {
@@ -4724,7 +4745,7 @@
             "imdb_id": "tt0043014",
             "director": "Billy Wilder",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.2,
             "runtime": 110
         },
         {
@@ -4772,7 +4793,7 @@
             "runtime": 170
         },
         {
-            "poster_path": "/erCPvts7KedbFCmpNOV21QNLrRs.jpg",
+            "poster_path": "/yuCEEI3oj1liLoH36fbbO1NDo5B.jpg",
             "original_title": "Ace in the Hole",
             "release_date": "1951",
             "watchDate": "2016-12-20",
@@ -4999,7 +5020,7 @@
             "imdb_id": "tt2513074",
             "director": "Ang Lee",
             "personalRating": "5",
-            "vote_average": 5.9,
+            "vote_average": 5.8,
             "runtime": 113
         },
         {
@@ -5065,7 +5086,7 @@
             "imdb_id": "tt1619029",
             "director": "Pablo Larra\u00edn",
             "personalRating": "5",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 100
         },
         {
@@ -5087,7 +5108,7 @@
             "imdb_id": "tt5895028",
             "director": "Ava DuVernay",
             "personalRating": "4",
-            "vote_average": 7.9,
+            "vote_average": 8.0,
             "runtime": 100
         },
         {
@@ -5164,7 +5185,7 @@
             "imdb_id": "tt0460829",
             "director": "David Lynch",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 172
         },
         {
@@ -5276,6 +5297,50 @@
             "personalRating": "5",
             "vote_average": 7.1,
             "runtime": 129
+        },
+        {
+            "poster_path": "/yjZ3d2mKC94Lz0XGJYGRbAOrA4Q.jpg",
+            "original_title": "Babe: Pig in the City",
+            "release_date": "1998",
+            "watchDate": "2017-04-22",
+            "imdb_id": "tt0120595",
+            "director": "George Miller",
+            "personalRating": "5",
+            "vote_average": 5.2,
+            "runtime": 92
+        },
+        {
+            "poster_path": "/5ZNf6N5rtLYotZKi03QXqJ3FuvD.jpg",
+            "original_title": "Baraka",
+            "release_date": "1992",
+            "watchDate": "2017-04-24",
+            "imdb_id": "tt0103767",
+            "director": "Ron Fricke",
+            "personalRating": "5",
+            "vote_average": 8.0,
+            "runtime": 96
+        },
+        {
+            "poster_path": "/xsVmiQG7s2T0UIctSpDvpNv9CX5.jpg",
+            "original_title": "The Third Man",
+            "release_date": "1949",
+            "watchDate": "2017-04-28",
+            "imdb_id": "tt0041959",
+            "director": "Carol Reed",
+            "personalRating": "5",
+            "vote_average": 7.9,
+            "runtime": 104
+        },
+        {
+            "poster_path": "/qjwA6QM0xNi3ST7OZn93Lc2siyN.jpg",
+            "original_title": "Cosa avete fatto a Solange?",
+            "release_date": "1972",
+            "watchDate": "2017-04-28",
+            "imdb_id": "tt0068416",
+            "director": "Massimo Dallamano",
+            "personalRating": "4",
+            "vote_average": 7.3,
+            "runtime": 103
         }
     ],
     "cinematographers": [
@@ -5425,12 +5490,12 @@
     "decades": {
         "1920s": 1,
         "1930s": 9,
-        "1940s": 10,
+        "1940s": 11,
         "1950s": 27,
         "1960s": 34,
-        "1970s": 53,
+        "1970s": 54,
         "1980s": 36,
-        "1990s": 29,
+        "1990s": 31,
         "2000s": 18,
         "2010s": 103
     }
