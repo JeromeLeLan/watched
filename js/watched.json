@@ -1,22 +1,22 @@
 {
     "genres": {
-        "Drama": 197,
+        "Drama": 200,
         "Comedy": 74,
-        "Thriller": 70,
+        "Thriller": 71,
         "Romance": 51,
         "Science Fiction": 46,
+        "Adventure": 44,
         "Horror": 43,
-        "Adventure": 43,
         "Crime": 39,
         "Action": 39,
         "Mystery": 38,
         "Documentary": 28,
         "Fantasy": 23,
         "Family": 19,
-        "Animation": 15,
+        "Animation": 16,
         "Music": 13,
-        "War": 7,
         "Western": 6,
+        "War": 6,
         "History": 6,
         "Foreign": 2
     },
@@ -38,7 +38,7 @@
             "name": "Germany"
         },
         "JP": {
-            "count": 14,
+            "count": 15,
             "name": "Japan"
         },
         "HK": {
@@ -138,7 +138,7 @@
             "name": "Australia"
         },
         "GB": {
-            "count": 31,
+            "count": 32,
             "name": "United Kingdom"
         },
         "IN": {
@@ -158,12 +158,16 @@
             "name": "Spain"
         },
         "US": {
-            "count": 152,
+            "count": 153,
             "name": "United States of America"
         },
         "KR": {
             "count": 5,
             "name": "South Korea"
+        },
+        "SN": {
+            "count": 1,
+            "name": "Senegal"
         },
         "TW": {
             "count": 4,
@@ -492,7 +496,7 @@
             8452,
             {
                 "count": 2,
-                "name": "Andrei Tarkovsky"
+                "name": "Andrej Tarkovszkij"
             }
         ],
         [
@@ -951,6 +955,13 @@
             }
         ],
         [
+            70663,
+            {
+                "count": 1,
+                "name": "Martin Rosen"
+            }
+        ],
+        [
             40476,
             {
                 "count": 1,
@@ -1060,6 +1071,13 @@
             {
                 "count": 1,
                 "name": "Kenneth Anger"
+            }
+        ],
+        [
+            97202,
+            {
+                "count": 1,
+                "name": "Kenji Mizoguchi"
             }
         ],
         [
@@ -1434,6 +1452,13 @@
             }
         ],
         [
+            1079380,
+            {
+                "count": 1,
+                "name": "Djibril Diop Mamb\u00e9ty"
+            }
+        ],
+        [
             38516,
             {
                 "count": 1,
@@ -1665,6 +1690,13 @@
             }
         ],
         [
+            92784,
+            {
+                "count": 1,
+                "name": "Barry Jenkins"
+            }
+        ],
+        [
             929825,
             {
                 "count": 1,
@@ -1795,7 +1827,7 @@
             "release_date": "1983",
             "watchDate": "2015-01-04",
             "imdb_id": "tt0086022",
-            "director": "Andrei Tarkovsky",
+            "director": "Andrej Tarkovszkij",
             "personalRating": "5",
             "vote_average": 7.4,
             "runtime": 120
@@ -1817,9 +1849,9 @@
             "release_date": "1986",
             "watchDate": "2015-01-11",
             "imdb_id": "tt0091670",
-            "director": "Andrei Tarkovsky",
+            "director": "Andrej Tarkovszkij",
             "personalRating": "6",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 149
         },
         {
@@ -1852,7 +1884,7 @@
             "imdb_id": "tt0053279",
             "director": "\u00c9ric Rohmer",
             "personalRating": "3",
-            "vote_average": 7.5,
+            "vote_average": 6.6,
             "runtime": 103
         },
         {
@@ -1863,7 +1895,7 @@
             "imdb_id": "tt2400275",
             "director": "Jean-Luc Godard",
             "personalRating": "2",
-            "vote_average": 6.6,
+            "vote_average": 6.5,
             "runtime": 70
         },
         {
@@ -1973,7 +2005,7 @@
             "imdb_id": "tt0065772",
             "director": "\u00c9ric Rohmer",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 105
         },
         {
@@ -1995,7 +2027,7 @@
             "imdb_id": "tt0068205",
             "director": "\u00c9ric Rohmer",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 97
         },
         {
@@ -2032,7 +2064,7 @@
             "runtime": 188
         },
         {
-            "poster_path": "/je9lvVfSihc4L4yMNmw0rg6oks0.jpg",
+            "poster_path": "/rFZf2vOWOb9eRtyfHeUI5gLylmL.jpg",
             "original_title": "Wild Strawberries",
             "release_date": "1957",
             "watchDate": "2015-03-22",
@@ -2043,7 +2075,7 @@
             "runtime": 91
         },
         {
-            "poster_path": "/aocUVKlBV0JHbg0IZuEN1uTTXjs.jpg",
+            "poster_path": "/yjAayG6nY9VO8IJoTLrSLUyu5kD.jpg",
             "original_title": "La Marche de l'empereur",
             "release_date": "2005",
             "watchDate": "2015-03-23",
@@ -2098,18 +2130,18 @@
             "runtime": 95
         },
         {
-            "poster_path": "/jWzs3akV1857qNFXisadh52QFl6.jpg",
+            "poster_path": "/xymhcCf0gZOAaghjGvAlOLCyibr.jpg",
             "original_title": "Pickpocket",
             "release_date": "1959",
             "watchDate": "2015-04-05",
             "imdb_id": "tt0053168",
             "director": "Robert Bresson",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 75
         },
         {
-            "poster_path": "/gSlrUu8ij9MfRsXF0UJEJFCk1Pa.jpg",
+            "poster_path": "/riZ2SXhTgllN6NWrPOJCtN4NrhG.jpg",
             "original_title": "Du rififi chez les hommes",
             "release_date": "1955",
             "watchDate": "2015-04-06",
@@ -2149,7 +2181,7 @@
             "imdb_id": "tt0027977",
             "director": "Charlie Chaplin",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 8.1,
             "runtime": 87
         },
         {
@@ -2303,7 +2335,7 @@
             "imdb_id": "tt3316960",
             "director": "Richard Glatzer, Wash Westmoreland",
             "personalRating": "2",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 99
         },
         {
@@ -2347,7 +2379,7 @@
             "imdb_id": "tt0056119",
             "director": "Chris Marker",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 28
         },
         {
@@ -2402,7 +2434,7 @@
             "imdb_id": "tt0070460",
             "director": "Fran\u00e7ois Truffaut",
             "personalRating": "4",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 115
         },
         {
@@ -2446,7 +2478,7 @@
             "imdb_id": "tt0074991",
             "director": "Brian De Palma",
             "personalRating": "6",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 98
         },
         {
@@ -2468,11 +2500,11 @@
             "imdb_id": "tt0039192",
             "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 100
         },
         {
-            "poster_path": "/61G1lOkaFwt2XTYXgs9wFGDvyBV.jpg",
+            "poster_path": "/r4F4tsU0Ajeh9ZYUkWOJSYmioj7.jpg",
             "original_title": "Les Vacances de Monsieur Hulot",
             "release_date": "1953",
             "watchDate": "2015-06-20",
@@ -2495,7 +2527,7 @@
         },
         {
             "poster_path": "/aiTN7DL3vJYr3X26sXM0wNxYIQ7.jpg",
-            "original_title": "Jalsaghar",
+            "original_title": "The Music Room",
             "release_date": "1958",
             "watchDate": "2015-06-28",
             "imdb_id": "tt0051792",
@@ -2512,7 +2544,7 @@
             "imdb_id": "tt0077711",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 90
         },
         {
@@ -2578,7 +2610,7 @@
             "imdb_id": "tt0081455",
             "director": "David Cronenberg",
             "personalRating": "4",
-            "vote_average": 6.5,
+            "vote_average": 6.4,
             "runtime": 103
         },
         {
@@ -2622,7 +2654,7 @@
             "imdb_id": "tt0085933",
             "director": "Nagisa \u014cshima",
             "personalRating": "3",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 118
         },
         {
@@ -2688,7 +2720,7 @@
             "imdb_id": "tt0077588",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 6.2,
+            "vote_average": 6.1,
             "runtime": 118
         },
         {
@@ -2743,7 +2775,7 @@
             "imdb_id": "tt0082085",
             "director": "Brian De Palma",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 108
         },
         {
@@ -2798,7 +2830,7 @@
             "imdb_id": "tt0369610",
             "director": "Colin Trevorrow",
             "personalRating": "1",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 124
         },
         {
@@ -2820,7 +2852,7 @@
             "imdb_id": "tt2818654",
             "director": "Apichatpong Weerasethakul",
             "personalRating": "3",
-            "vote_average": 4.2,
+            "vote_average": 4.3,
             "runtime": 122
         },
         {
@@ -2868,7 +2900,7 @@
             "runtime": 121
         },
         {
-            "poster_path": "/t8pFmS8tvLT6khNpp7gGC7li7Jt.jpg",
+            "poster_path": "/dptqBZfp0xnBS9qGFwlYhpCb06S.jpg",
             "original_title": "The Brood",
             "release_date": "1979",
             "watchDate": "2015-11-01",
@@ -2952,7 +2984,7 @@
             "imdb_id": "tt0280665",
             "director": "Brian De Palma",
             "personalRating": "6",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 114
         },
         {
@@ -3205,7 +3237,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 98
         },
         {
@@ -3264,7 +3296,7 @@
             "runtime": 125
         },
         {
-            "poster_path": "/ld2CYJ27fguCqYQNjXG69kjihKV.jpg",
+            "poster_path": "/yoEvbftO3dnpiiJqs3uwg3dMQxq.jpg",
             "original_title": "Troll 2",
             "release_date": "1990",
             "watchDate": "2016-01-13",
@@ -3370,13 +3402,13 @@
             "imdb_id": "tt2494362",
             "director": "S. Craig Zahler",
             "personalRating": "3",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 132
         },
         {
             "poster_path": "/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg",
             "original_title": "It Follows",
-            "release_date": "2014",
+            "release_date": "2015",
             "watchDate": "2016-01-31",
             "imdb_id": "tt3235888",
             "director": "David Robert Mitchell",
@@ -3535,7 +3567,7 @@
             "imdb_id": "tt0076085",
             "director": "Ettore Scola",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 110
         },
         {
@@ -3546,7 +3578,7 @@
             "imdb_id": "tt0087644",
             "director": "John Cassavetes",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 141
         },
         {
@@ -3561,7 +3593,7 @@
             "runtime": 147
         },
         {
-            "poster_path": "/3o4zz9I9BT2oHSFXl7bmD3Sl5vy.jpg",
+            "poster_path": "/hnkvMdSlavMNGadokPD5tImTgrs.jpg",
             "original_title": "GHOST IN THE SHELL",
             "release_date": "1995",
             "watchDate": "2016-03-28",
@@ -3594,7 +3626,7 @@
             "runtime": 167
         },
         {
-            "poster_path": "/qGTJmSFytUDBtbJ7jFSYdQF1lNM.jpg",
+            "poster_path": "/1MJcpTpeSh2RtRHI7EMHStvWDEt.jpg",
             "original_title": "Godzilla",
             "release_date": "1954",
             "watchDate": "2016-04-09",
@@ -3717,7 +3749,7 @@
         {
             "poster_path": "/jfGsfzq5JrMAKbAOV2TmhsOs3tf.jpg",
             "original_title": "The Witch",
-            "release_date": "2015",
+            "release_date": "2016",
             "watchDate": "2016-05-04",
             "imdb_id": "tt4263482",
             "director": "Robert Eggers",
@@ -3998,7 +4030,7 @@
             "director": "Zack Snyder",
             "personalRating": "2",
             "vote_average": 5.6,
-            "runtime": 183
+            "runtime": 151
         },
         {
             "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
@@ -4096,7 +4128,7 @@
             "imdb_id": "tt0055018",
             "director": "Jack Clayton",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 100
         },
         {
@@ -4122,7 +4154,7 @@
             "runtime": 97
         },
         {
-            "poster_path": "/t3mZwAXfyhzVQs7EgF4FfE1TWUE.jpg",
+            "poster_path": "/2dtCU4kobdzTN3XfPqs6XcxR5Ht.jpg",
             "original_title": "All That Heaven Allows",
             "release_date": "1955",
             "watchDate": "2016-07-10",
@@ -4206,7 +4238,7 @@
             "imdb_id": "tt0073440",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 159
         },
         {
@@ -4228,7 +4260,7 @@
             "imdb_id": "tt0079336",
             "director": "Arthur Hiller",
             "personalRating": "3",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 103
         },
         {
@@ -4360,7 +4392,7 @@
             "imdb_id": "tt1216496",
             "director": "Bong Joon-ho",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 128
         },
         {
@@ -4371,7 +4403,7 @@
             "imdb_id": "tt0053134",
             "director": "Yasujir\u014d Ozu",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 94
         },
         {
@@ -4393,7 +4425,7 @@
             "imdb_id": "tt1683048",
             "director": "Noah Baumbach, Jake Paltrow",
             "personalRating": "3",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 108
         },
         {
@@ -4448,7 +4480,7 @@
             "imdb_id": "tt0034587",
             "director": "Jacques Tourneur",
             "personalRating": "3",
-            "vote_average": 6.9,
+            "vote_average": 6.8,
             "runtime": 73
         },
         {
@@ -4481,7 +4513,7 @@
             "imdb_id": "tt3040964",
             "director": "Jon Favreau",
             "personalRating": "3",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 106
         },
         {
@@ -4547,7 +4579,7 @@
             "imdb_id": "tt1128075",
             "director": "Sion Sono",
             "personalRating": "6",
-            "vote_average": 8.0,
+            "vote_average": 8.1,
             "runtime": 237
         },
         {
@@ -4591,7 +4623,7 @@
             "imdb_id": "tt4726636",
             "director": "Bruno Dumont",
             "personalRating": "4",
-            "vote_average": 5.7,
+            "vote_average": 5.6,
             "runtime": 122
         },
         {
@@ -4628,7 +4660,7 @@
             "runtime": 97
         },
         {
-            "poster_path": "/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg",
+            "poster_path": "/mJut6zysg2tQftY3Qoj21bk2Eqo.jpg",
             "original_title": "Elle",
             "release_date": "2016",
             "watchDate": "2016-11-07",
@@ -4657,7 +4689,7 @@
             "imdb_id": "tt5215952",
             "director": "Na Hong-jin",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 156
         },
         {
@@ -4668,7 +4700,7 @@
             "imdb_id": "tt5278506",
             "director": "David Farrier, Dylan Reeve",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 92
         },
         {
@@ -4679,7 +4711,7 @@
             "imdb_id": "tt2543164",
             "director": "Denis Villeneuve",
             "personalRating": "5",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 113
         },
         {
@@ -4690,7 +4722,7 @@
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
             "personalRating": "5",
-            "vote_average": 5.9,
+            "vote_average": 5.8,
             "runtime": 99
         },
         {
@@ -4793,7 +4825,7 @@
             "runtime": 170
         },
         {
-            "poster_path": "/yuCEEI3oj1liLoH36fbbO1NDo5B.jpg",
+            "poster_path": "/pkotGgcrakpnUj3fo4841VYLTf9.jpg",
             "original_title": "Ace in the Hole",
             "release_date": "1951",
             "watchDate": "2016-12-20",
@@ -4921,7 +4953,7 @@
             "imdb_id": "tt3783958",
             "director": "Damien Chazelle",
             "personalRating": "5",
-            "vote_average": 7.9,
+            "vote_average": 7.8,
             "runtime": 128
         },
         {
@@ -4932,7 +4964,7 @@
             "imdb_id": "tt0048393",
             "director": "Orson Welles",
             "personalRating": "4",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 93
         },
         {
@@ -5020,7 +5052,7 @@
             "imdb_id": "tt2513074",
             "director": "Ang Lee",
             "personalRating": "5",
-            "vote_average": 5.8,
+            "vote_average": 5.7,
             "runtime": 113
         },
         {
@@ -5042,7 +5074,7 @@
             "imdb_id": "tt0084899",
             "director": "Samuel Fuller",
             "personalRating": "2",
-            "vote_average": 6.6,
+            "vote_average": 6.5,
             "runtime": 90
         },
         {
@@ -5075,7 +5107,7 @@
             "imdb_id": "tt0073582",
             "director": "Dario Argento",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 126
         },
         {
@@ -5097,7 +5129,7 @@
             "imdb_id": "tt5275892",
             "director": "Ezra Edelman",
             "personalRating": "6",
-            "vote_average": 8.6,
+            "vote_average": 8.5,
             "runtime": 463
         },
         {
@@ -5185,7 +5217,7 @@
             "imdb_id": "tt0460829",
             "director": "David Lynch",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 172
         },
         {
@@ -5240,7 +5272,7 @@
             "imdb_id": "tt4016934",
             "director": "Chan-wook Park",
             "personalRating": "4",
-            "vote_average": 7.9,
+            "vote_average": 8.0,
             "runtime": 145
         },
         {
@@ -5341,6 +5373,50 @@
             "personalRating": "4",
             "vote_average": 7.3,
             "runtime": 103
+        },
+        {
+            "poster_path": "/879iEKkJMSXSbgqjs3tVOQceNUK.jpg",
+            "original_title": "Watership Down",
+            "release_date": "1978",
+            "watchDate": "2017-05-01",
+            "imdb_id": "tt0078480",
+            "director": "Martin Rosen",
+            "personalRating": "4",
+            "vote_average": 7.3,
+            "runtime": 88
+        },
+        {
+            "poster_path": "/che94e6wSm9TWLunhsHgHfNiqTu.jpg",
+            "original_title": "Touki-Bouki",
+            "release_date": "1973",
+            "watchDate": "2017-05-02",
+            "imdb_id": "tt0070820",
+            "director": "Djibril Diop Mamb\u00e9ty",
+            "personalRating": "4",
+            "vote_average": 7.3,
+            "runtime": 85
+        },
+        {
+            "poster_path": "/qAwFbszz0kRyTuXmMeKQZCX3Q2O.jpg",
+            "original_title": "Moonlight",
+            "release_date": "2016",
+            "watchDate": "2017-05-06",
+            "imdb_id": "tt4975722",
+            "director": "Barry Jenkins",
+            "personalRating": "3",
+            "vote_average": 7.3,
+            "runtime": 111
+        },
+        {
+            "poster_path": "/deBjt3LT3UQHRXiNX1fu28lAtK6.jpg",
+            "original_title": "Sansho the Bailiff",
+            "release_date": "1954",
+            "watchDate": "2017-05-07",
+            "imdb_id": "tt0047445",
+            "director": "Kenji Mizoguchi",
+            "personalRating": "4",
+            "vote_average": 8.8,
+            "runtime": 124
         }
     ],
     "cinematographers": [
@@ -5491,12 +5567,12 @@
         "1920s": 1,
         "1930s": 9,
         "1940s": 11,
-        "1950s": 27,
+        "1950s": 28,
         "1960s": 34,
-        "1970s": 54,
+        "1970s": 56,
         "1980s": 36,
         "1990s": 31,
         "2000s": 18,
-        "2010s": 103
+        "2010s": 104
     }
 }
