@@ -1,10 +1,10 @@
 {
     "genres": {
-        "Drama": 203,
+        "Drama": 204,
         "Comedy": 75,
-        "Thriller": 73,
+        "Thriller": 74,
         "Romance": 52,
-        "Science Fiction": 47,
+        "Science Fiction": 48,
         "Horror": 45,
         "Adventure": 45,
         "Mystery": 40,
@@ -54,7 +54,7 @@
             "name": "Finland"
         },
         "RU": {
-            "count": 1,
+            "count": 2,
             "name": "Russia"
         },
         "NL": {
@@ -332,6 +332,13 @@
             }
         ],
         [
+            8452,
+            {
+                "count": 3,
+                "name": "Andrei Tarkovsky"
+            }
+        ],
+        [
             2636,
             {
                 "count": 3,
@@ -490,13 +497,6 @@
             {
                 "count": 2,
                 "name": "Andrew Stanton"
-            }
-        ],
-        [
-            8452,
-            {
-                "count": 2,
-                "name": "Andrei Tarkovsky"
             }
         ],
         [
@@ -1864,7 +1864,7 @@
             "runtime": 95
         },
         {
-            "poster_path": "/uTEMY0KVrmLvdOVNaHqaTTLbZ2j.jpg",
+            "poster_path": "/mSrfyFGeSZ58sfDvtVz8TvTQyfX.jpg",
             "original_title": "Nostalghia",
             "release_date": "1983",
             "watchDate": "2015-01-04",
@@ -1970,7 +1970,7 @@
             "imdb_id": "tt2758880",
             "director": "Nuri Bilge Ceylan",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 196
         },
         {
@@ -2025,7 +2025,7 @@
             "imdb_id": "tt0064612",
             "director": "\u00c9ric Rohmer",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 110
         },
         {
@@ -2091,7 +2091,7 @@
             "imdb_id": "tt0057358",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 81
         },
         {
@@ -2135,7 +2135,7 @@
             "imdb_id": "tt0073822",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.2,
             "runtime": 135
         },
         {
@@ -2289,7 +2289,7 @@
             "imdb_id": "tt0057611",
             "director": "Ingmar Bergman",
             "personalRating": "6",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 91
         },
         {
@@ -2762,7 +2762,7 @@
             "imdb_id": "tt0077588",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 6.1,
+            "vote_average": 6.2,
             "runtime": 118
         },
         {
@@ -2993,11 +2993,11 @@
             "imdb_id": "tt0120832",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 5.8,
+            "vote_average": 5.7,
             "runtime": 98
         },
         {
-            "poster_path": "/7kUiA3FlSnZcsULjz1PhPZbo2gp.jpg",
+            "poster_path": "/oyOtIdNJJO8zVwPyCtxVRxPLuHO.jpg",
             "original_title": "The Red Shoes",
             "release_date": "1948",
             "watchDate": "2015-11-15",
@@ -3019,7 +3019,7 @@
             "runtime": 213
         },
         {
-            "poster_path": "/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg",
+            "poster_path": "/rW2L97Dn5XLCY3hraTVlFYAF1HD.jpg",
             "original_title": "Femme Fatale",
             "release_date": "2002",
             "watchDate": "2015-11-17",
@@ -3444,7 +3444,7 @@
             "imdb_id": "tt2494362",
             "director": "S. Craig Zahler",
             "personalRating": "3",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 132
         },
         {
@@ -3477,7 +3477,7 @@
             "imdb_id": "tt4428814",
             "director": "St\u00e9phane Briz\u00e9",
             "personalRating": "1",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 93
         },
         {
@@ -3609,7 +3609,7 @@
             "imdb_id": "tt0076085",
             "director": "Ettore Scola",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 110
         },
         {
@@ -3675,7 +3675,7 @@
             "imdb_id": "tt0047034",
             "director": "Ishir\u00f4 Honda",
             "personalRating": "4",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 96
         },
         {
@@ -4038,7 +4038,7 @@
             "imdb_id": "tt0035279",
             "director": "Alfred Hitchcock",
             "personalRating": "3",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 108
         },
         {
@@ -4086,7 +4086,7 @@
             "runtime": 72
         },
         {
-            "poster_path": "/8ipMMbjgAA9M4wpoPc9yxFEiIeA.jpg",
+            "poster_path": "/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
             "original_title": "Ladri di biciclette",
             "release_date": "1948",
             "watchDate": "2016-06-30",
@@ -4137,7 +4137,7 @@
             "imdb_id": "tt0071994",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 92
         },
         {
@@ -4478,7 +4478,7 @@
             "imdb_id": "tt5700672",
             "director": "Yeon Sang-Ho",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 118
         },
         {
@@ -5380,7 +5380,7 @@
             "imdb_id": "tt0120595",
             "director": "George Miller",
             "personalRating": "5",
-            "vote_average": 5.2,
+            "vote_average": 5.1,
             "runtime": 92
         },
         {
@@ -5514,6 +5514,17 @@
             "personalRating": "3",
             "vote_average": 5.0,
             "runtime": 65
+        },
+        {
+            "poster_path": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+            "original_title": "Stalker",
+            "release_date": "1979",
+            "watchDate": "2017-06-06",
+            "imdb_id": "tt0079944",
+            "director": "Andrei Tarkovsky",
+            "personalRating": "6",
+            "vote_average": 7.8,
+            "runtime": 163
         }
     ],
     "cinematographers": [
@@ -5666,7 +5677,7 @@
         "1940s": 11,
         "1950s": 28,
         "1960s": 34,
-        "1970s": 56,
+        "1970s": 57,
         "1980s": 36,
         "1990s": 31,
         "2000s": 18,
