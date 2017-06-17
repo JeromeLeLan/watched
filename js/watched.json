@@ -1,16 +1,16 @@
 {
     "genres": {
-        "Drama": 204,
-        "Comedy": 75,
-        "Thriller": 74,
+        "Drama": 205,
+        "Comedy": 76,
+        "Thriller": 75,
         "Romance": 52,
         "Science Fiction": 48,
-        "Horror": 45,
+        "Horror": 46,
         "Adventure": 45,
-        "Mystery": 40,
-        "Crime": 39,
+        "Mystery": 42,
+        "Crime": 40,
         "Action": 38,
-        "Documentary": 28,
+        "Documentary": 29,
         "Fantasy": 24,
         "Family": 18,
         "Animation": 16,
@@ -22,11 +22,11 @@
     },
     "countries": {
         "BE": {
-            "count": 6,
+            "count": 7,
             "name": "Belgium"
         },
         "FR": {
-            "count": 90,
+            "count": 91,
             "name": "France"
         },
         "DK": {
@@ -158,7 +158,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 156,
+            "count": 160,
             "name": "United States of America"
         },
         "KR": {
@@ -245,6 +245,13 @@
             {
                 "count": 5,
                 "name": "Robert Altman"
+            }
+        ],
+        [
+            2636,
+            {
+                "count": 5,
+                "name": "Alfred Hitchcock"
             }
         ],
         [
@@ -336,13 +343,6 @@
             {
                 "count": 3,
                 "name": "Andrei Tarkovsky"
-            }
-        ],
-        [
-            2636,
-            {
-                "count": 3,
-                "name": "Alfred Hitchcock"
             }
         ],
         [
@@ -605,6 +605,13 @@
             }
         ],
         [
+            10051,
+            {
+                "count": 1,
+                "name": "Tobe Hooper"
+            }
+        ],
+        [
             55252,
             {
                 "count": 1,
@@ -791,6 +798,13 @@
             {
                 "count": 1,
                 "name": "Ren\u00e9 Laloux"
+            }
+        ],
+        [
+            40312,
+            {
+                "count": 1,
+                "name": "Raoul Peck"
             }
         ],
         [
@@ -1871,7 +1885,7 @@
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 120
         },
         {
@@ -2036,7 +2050,7 @@
             "imdb_id": "tt0062873",
             "director": "Jacques Demy",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 124
         },
         {
@@ -2058,7 +2072,7 @@
             "imdb_id": "tt0053976",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 89
         },
         {
@@ -2102,7 +2116,7 @@
             "imdb_id": "tt0083922",
             "director": "Ingmar Bergman",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 188
         },
         {
@@ -2355,7 +2369,7 @@
             "imdb_id": "tt0032553",
             "director": "Charlie Chaplin",
             "personalRating": "4",
-            "vote_average": 8.1,
+            "vote_average": 8.0,
             "runtime": 125
         },
         {
@@ -2564,7 +2578,7 @@
             "imdb_id": "tt0096257",
             "director": "Errol Morris",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 103
         },
         {
@@ -2876,7 +2890,7 @@
             "runtime": 124
         },
         {
-            "poster_path": "/pgW8m63jB7ZgDiBbLQSMJEOQB6Z.jpg",
+            "poster_path": "/fKFkl1G6XldPz4jD82DpFdYduI6.jpg",
             "original_title": "Nosferatu: Phantom der Nacht",
             "release_date": "1979",
             "watchDate": "2015-10-18",
@@ -3147,7 +3161,7 @@
             "imdb_id": "tt0080149",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 6.6,
+            "vote_average": 6.5,
             "runtime": 82
         },
         {
@@ -3163,7 +3177,7 @@
         },
         {
             "poster_path": "/9KG8BHXfj0hyQm005vSMr5Co1iW.jpg",
-            "original_title": "Zat\u014dichi monogatari",
+            "original_title": "\u5ea7\u982d\u5e02\u7269\u8a9e",
             "release_date": "1962",
             "watchDate": "2015-12-11",
             "imdb_id": "tt0056714",
@@ -3246,7 +3260,7 @@
             "imdb_id": "tt0086190",
             "director": "Richard Marquand",
             "personalRating": "2",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 135
         },
         {
@@ -3279,7 +3293,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 98
         },
         {
@@ -3312,7 +3326,7 @@
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 123
         },
         {
@@ -3338,7 +3352,7 @@
             "runtime": 125
         },
         {
-            "poster_path": "/yoEvbftO3dnpiiJqs3uwg3dMQxq.jpg",
+            "poster_path": "/h03Huw7ZoyDrgBDc7GteshoJsnx.jpg",
             "original_title": "Troll 2",
             "release_date": "1990",
             "watchDate": "2016-01-13",
@@ -3389,7 +3403,7 @@
             "imdb_id": "tt0074360",
             "director": "Carlos Saura",
             "personalRating": "5",
-            "vote_average": 7.0,
+            "vote_average": 6.9,
             "runtime": 110
         },
         {
@@ -3510,7 +3524,7 @@
             "imdb_id": "tt1664894",
             "director": "Werner Herzog",
             "personalRating": "4",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 90
         },
         {
@@ -3565,7 +3579,7 @@
             "imdb_id": "tt0059592",
             "director": "Jean-Luc Godard",
             "personalRating": "3",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 110
         },
         {
@@ -3624,7 +3638,7 @@
             "runtime": 141
         },
         {
-            "poster_path": "/fMC8JBWx2VjsJ53JopAcFjqmlYv.jpg",
+            "poster_path": "/yeOj6a9ADohj31mhaR2h4MmKpgR.jpg",
             "original_title": "Mulholland Drive",
             "release_date": "2001",
             "watchDate": "2016-03-26",
@@ -3635,7 +3649,7 @@
             "runtime": 147
         },
         {
-            "poster_path": "/hnkvMdSlavMNGadokPD5tImTgrs.jpg",
+            "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
             "original_title": "GHOST IN THE SHELL",
             "release_date": "1995",
             "watchDate": "2016-03-28",
@@ -3697,7 +3711,7 @@
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
             "personalRating": "3",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 112
         },
         {
@@ -3833,7 +3847,7 @@
             "runtime": 100
         },
         {
-            "poster_path": "/bOIFfbbppE0f21p4bNF8FyowhDR.jpg",
+            "poster_path": "/rUmXrzRxzLiHnAQUyxyuhcLEWNy.jpg",
             "original_title": "A Brighter Summer Day",
             "release_date": "1991",
             "watchDate": "2016-05-15",
@@ -4060,7 +4074,7 @@
             "imdb_id": "tt0105151",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 124
         },
         {
@@ -4082,7 +4096,7 @@
             "imdb_id": "tt0070544",
             "director": "Ren\u00e9 Laloux",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 72
         },
         {
@@ -4097,7 +4111,7 @@
             "runtime": 93
         },
         {
-            "poster_path": "/kRmzDnwlsLEtmHU4JHqVFmO6O4D.jpg",
+            "poster_path": "/mmeEuSmCCdtcdol5oYKKMbrNsc4.jpg",
             "original_title": "Shadows",
             "release_date": "1959",
             "watchDate": "2016-06-30",
@@ -4137,7 +4151,7 @@
             "imdb_id": "tt0071994",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 92
         },
         {
@@ -4148,7 +4162,7 @@
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
             "personalRating": "2",
-            "vote_average": 3.9,
+            "vote_average": 4.0,
             "runtime": 88
         },
         {
@@ -4357,7 +4371,7 @@
             "imdb_id": "tt0075612",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 124
         },
         {
@@ -4390,7 +4404,7 @@
             "imdb_id": "tt3296658",
             "director": "Gr\u00edmur H\u00e1konarson",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 93
         },
         {
@@ -4412,7 +4426,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 200
         },
         {
@@ -4423,7 +4437,7 @@
             "imdb_id": "tt0462335",
             "director": "Ben Wheatley",
             "personalRating": "3",
-            "vote_average": 5.4,
+            "vote_average": 5.3,
             "runtime": 119
         },
         {
@@ -4478,7 +4492,7 @@
             "imdb_id": "tt5700672",
             "director": "Yeon Sang-Ho",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 118
         },
         {
@@ -4632,7 +4646,7 @@
             "imdb_id": "tt0108122",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 187
         },
         {
@@ -4742,7 +4756,7 @@
             "imdb_id": "tt5278506",
             "director": "David Farrier, Dylan Reeve",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 92
         },
         {
@@ -4775,7 +4789,7 @@
             "imdb_id": "tt0057345",
             "director": "Jean-Luc Godard",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 103
         },
         {
@@ -4786,7 +4800,7 @@
             "imdb_id": "tt0851578",
             "director": "Satoshi Kon",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 90
         },
         {
@@ -4918,7 +4932,7 @@
             "imdb_id": "tt4701660",
             "director": "Stephen Chow",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.1,
             "runtime": 93
         },
         {
@@ -5230,7 +5244,7 @@
             "runtime": 91
         },
         {
-            "poster_path": "/hGRfWcy1HRGbsjK6jF7NILmqmFT.jpg",
+            "poster_path": "/3zQvuSAUdC3mrx9vnSEpkFX0968.jpg",
             "original_title": "Big Hero 6",
             "release_date": "2014",
             "watchDate": "2017-03-14",
@@ -5303,7 +5317,7 @@
             "imdb_id": "tt4669986",
             "director": "Jeff Nichols",
             "personalRating": "4",
-            "vote_average": 6.6,
+            "vote_average": 6.5,
             "runtime": 123
         },
         {
@@ -5369,7 +5383,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 6.1,
+            "vote_average": 6.2,
             "runtime": 129
         },
         {
@@ -5413,7 +5427,7 @@
             "imdb_id": "tt0068416",
             "director": "Massimo Dallamano",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 103
         },
         {
@@ -5490,7 +5504,7 @@
             "imdb_id": "tt4291590",
             "director": "Lucile Hadzihalilovic",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 81
         },
         {
@@ -5523,8 +5537,52 @@
             "imdb_id": "tt0079944",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 163
+        },
+        {
+            "poster_path": "/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg",
+            "original_title": "I Am Not Your Negro",
+            "release_date": "2017",
+            "watchDate": "2017-06-10",
+            "imdb_id": "tt5804038",
+            "director": "Raoul Peck",
+            "personalRating": "5",
+            "vote_average": 8.1,
+            "runtime": 95
+        },
+        {
+            "poster_path": "/hXF5nuEvUIlMXv4fOCIhA8KWaN2.jpg",
+            "original_title": "The Texas Chain Saw Massacre",
+            "release_date": "1974",
+            "watchDate": "2017-06-17",
+            "imdb_id": "tt0072271",
+            "director": "Tobe Hooper",
+            "personalRating": "5",
+            "vote_average": 7.1,
+            "runtime": 83
+        },
+        {
+            "poster_path": "/csOauugbK0gNbBehPhq2QIYcSEe.jpg",
+            "original_title": "The Trouble with Harry",
+            "release_date": "1955",
+            "watchDate": "2017-06-17",
+            "imdb_id": "tt0048750",
+            "director": "Alfred Hitchcock",
+            "personalRating": "4",
+            "vote_average": 6.9,
+            "runtime": 99
+        },
+        {
+            "poster_path": "/hBYHdsSxOA2zQLiuiJyPsk9IhUw.jpg",
+            "original_title": "Marnie",
+            "release_date": "1964",
+            "watchDate": "2017-06-17",
+            "imdb_id": "tt0058329",
+            "director": "Alfred Hitchcock",
+            "personalRating": "4",
+            "vote_average": 7.2,
+            "runtime": 130
         }
     ],
     "cinematographers": [
@@ -5675,12 +5733,12 @@
         "1920s": 1,
         "1930s": 10,
         "1940s": 11,
-        "1950s": 28,
-        "1960s": 34,
-        "1970s": 57,
+        "1950s": 29,
+        "1960s": 35,
+        "1970s": 58,
         "1980s": 36,
         "1990s": 31,
         "2000s": 18,
-        "2010s": 108
+        "2010s": 109
     }
 }
