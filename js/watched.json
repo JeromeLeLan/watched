@@ -1,20 +1,20 @@
 {
     "genres": {
-        "Drama": 205,
-        "Comedy": 76,
-        "Thriller": 75,
-        "Romance": 52,
-        "Science Fiction": 48,
-        "Horror": 46,
-        "Adventure": 45,
+        "Drama": 207,
+        "Comedy": 78,
+        "Thriller": 76,
+        "Romance": 53,
+        "Science Fiction": 49,
+        "Horror": 47,
+        "Adventure": 46,
         "Mystery": 42,
         "Crime": 40,
-        "Action": 38,
+        "Action": 39,
         "Documentary": 29,
-        "Fantasy": 24,
+        "Fantasy": 25,
         "Family": 18,
         "Animation": 16,
-        "Music": 13,
+        "Music": 14,
         "History": 7,
         "Western": 6,
         "War": 6,
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 91,
+            "count": 93,
             "name": "France"
         },
         "DK": {
@@ -34,7 +34,7 @@
             "name": "Denmark"
         },
         "DE": {
-            "count": 30,
+            "count": 31,
             "name": "Germany"
         },
         "JP": {
@@ -53,12 +53,16 @@
             "count": 1,
             "name": "Finland"
         },
+        "GR": {
+            "count": 1,
+            "name": "Greece"
+        },
         "RU": {
             "count": 2,
             "name": "Russia"
         },
         "NL": {
-            "count": 1,
+            "count": 2,
             "name": "Netherlands"
         },
         "NO": {
@@ -138,7 +142,7 @@
             "name": "Australia"
         },
         "GB": {
-            "count": 32,
+            "count": 33,
             "name": "United Kingdom"
         },
         "IN": {
@@ -146,7 +150,7 @@
             "name": "India"
         },
         "IE": {
-            "count": 1,
+            "count": 2,
             "name": "Ireland"
         },
         "ID": {
@@ -158,7 +162,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 160,
+            "count": 163,
             "name": "United States of America"
         },
         "KR": {
@@ -199,17 +203,17 @@
             }
         ],
         [
+            1150,
+            {
+                "count": 12,
+                "name": "Brian De Palma"
+            }
+        ],
+        [
             6818,
             {
                 "count": 11,
                 "name": "Werner Herzog"
-            }
-        ],
-        [
-            1150,
-            {
-                "count": 11,
-                "name": "Brian De Palma"
             }
         ],
         [
@@ -535,6 +539,13 @@
             }
         ],
         [
+            122423,
+            {
+                "count": 1,
+                "name": "Yorgos Lanthimos"
+            }
+        ],
+        [
             95501,
             {
                 "count": 1,
@@ -707,6 +718,13 @@
             {
                 "count": 1,
                 "name": "Samuel Fuller"
+            }
+        ],
+        [
+            7623,
+            {
+                "count": 1,
+                "name": "Sam Raimi"
             }
         ],
         [
@@ -1962,7 +1980,7 @@
             "imdb_id": "tt0299478",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 120
         },
         {
@@ -2259,7 +2277,7 @@
             "imdb_id": "tt2121382",
             "director": "Ruben \u00d6stlund",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 118
         },
         {
@@ -2281,7 +2299,7 @@
             "imdb_id": "tt0071141",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 93
         },
         {
@@ -2292,7 +2310,7 @@
             "imdb_id": "tt0085809",
             "director": "Godfrey Reggio",
             "personalRating": "6",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 87
         },
         {
@@ -2457,7 +2475,7 @@
             "imdb_id": "tt0816692",
             "director": "Christopher Nolan",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 8.1,
             "runtime": 169
         },
         {
@@ -2545,7 +2563,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "5",
-            "vote_average": 4.4,
+            "vote_average": 4.3,
             "runtime": 99
         },
         {
@@ -2747,7 +2765,7 @@
             "runtime": 150
         },
         {
-            "poster_path": "/p58R3Bbzs2AoGufPBhS56DQZLtl.jpg",
+            "poster_path": "/fViod4QCEDm0Yhlk15LACPdaqZk.jpg",
             "original_title": "Hiroshima mon amour",
             "release_date": "1959",
             "watchDate": "2015-08-23",
@@ -2853,7 +2871,7 @@
             "imdb_id": "tt0051036",
             "director": "Alexander Mackendrick",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 96
         },
         {
@@ -3007,7 +3025,7 @@
             "imdb_id": "tt0120832",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 5.7,
+            "vote_average": 5.8,
             "runtime": 98
         },
         {
@@ -3051,7 +3069,7 @@
             "imdb_id": "tt1829012",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 5.2,
+            "vote_average": 5.1,
             "runtime": 100
         },
         {
@@ -3293,7 +3311,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 98
         },
         {
@@ -3524,7 +3542,7 @@
             "imdb_id": "tt1664894",
             "director": "Werner Herzog",
             "personalRating": "4",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 90
         },
         {
@@ -3557,7 +3575,7 @@
             "imdb_id": "tt1798709",
             "director": "Spike Jonze",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 126
         },
         {
@@ -3638,7 +3656,7 @@
             "runtime": 141
         },
         {
-            "poster_path": "/yeOj6a9ADohj31mhaR2h4MmKpgR.jpg",
+            "poster_path": "/fMC8JBWx2VjsJ53JopAcFjqmlYv.jpg",
             "original_title": "Mulholland Drive",
             "release_date": "2001",
             "watchDate": "2016-03-26",
@@ -3865,7 +3883,7 @@
             "imdb_id": "tt3053694",
             "director": "Bruno Dumont",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 200
         },
         {
@@ -3887,7 +3905,7 @@
             "imdb_id": "tt2452254",
             "director": "Olivier Assayas",
             "personalRating": "4",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 124
         },
         {
@@ -3986,7 +4004,7 @@
             "imdb_id": "tt1595656",
             "director": "Terrence Malick",
             "personalRating": "3",
-            "vote_average": 5.9,
+            "vote_average": 6.0,
             "runtime": 112
         },
         {
@@ -4063,7 +4081,7 @@
             "imdb_id": "tt2101383",
             "director": "Terrence Malick",
             "personalRating": "4",
-            "vote_average": 5.8,
+            "vote_average": 5.7,
             "runtime": 118
         },
         {
@@ -4096,7 +4114,7 @@
             "imdb_id": "tt0070544",
             "director": "Ren\u00e9 Laloux",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 72
         },
         {
@@ -4118,7 +4136,7 @@
             "imdb_id": "tt0053270",
             "director": "John Cassavetes",
             "personalRating": "3",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 87
         },
         {
@@ -4162,7 +4180,7 @@
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
             "personalRating": "2",
-            "vote_average": 4.0,
+            "vote_average": 3.9,
             "runtime": 88
         },
         {
@@ -4371,7 +4389,7 @@
             "imdb_id": "tt0075612",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 124
         },
         {
@@ -4382,7 +4400,7 @@
             "imdb_id": "tt0073705",
             "director": "David Cronenberg",
             "personalRating": "4",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 87
         },
         {
@@ -4420,7 +4438,7 @@
         },
         {
             "poster_path": "/ML08wSWFrt9dLIc08uIOsu4CI.jpg",
-            "original_title": "A Touch of Zen",
+            "original_title": "\u4fe0\u5973",
             "release_date": "1971",
             "watchDate": "2016-08-16",
             "imdb_id": "tt0064451",
@@ -4432,7 +4450,7 @@
         {
             "poster_path": "/hz3GXwcJC5csPZQa4PMbqmiPqDc.jpg",
             "original_title": "High-Rise",
-            "release_date": "2016",
+            "release_date": "2015",
             "watchDate": "2016-08-24",
             "imdb_id": "tt0462335",
             "director": "Ben Wheatley",
@@ -4745,7 +4763,7 @@
             "imdb_id": "tt5215952",
             "director": "Na Hong-jin",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 156
         },
         {
@@ -4756,7 +4774,7 @@
             "imdb_id": "tt5278506",
             "director": "David Farrier, Dylan Reeve",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 92
         },
         {
@@ -4778,7 +4796,7 @@
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
             "personalRating": "5",
-            "vote_average": 5.7,
+            "vote_average": 5.8,
             "runtime": 99
         },
         {
@@ -4833,7 +4851,7 @@
             "imdb_id": "tt0043014",
             "director": "Billy Wilder",
             "personalRating": "5",
-            "vote_average": 8.2,
+            "vote_average": 8.1,
             "runtime": 110
         },
         {
@@ -4910,7 +4928,7 @@
             "imdb_id": "tt0095294",
             "director": "Tony Randel",
             "personalRating": "2",
-            "vote_average": 6.5,
+            "vote_average": 6.4,
             "runtime": 97
         },
         {
@@ -4921,7 +4939,7 @@
             "imdb_id": "tt4139124",
             "director": "Peter Atencio",
             "personalRating": "2",
-            "vote_average": 6.1,
+            "vote_average": 6.0,
             "runtime": 94
         },
         {
@@ -4987,7 +5005,7 @@
             "imdb_id": "tt0059646",
             "director": "Roman Polanski",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 105
         },
         {
@@ -4998,7 +5016,7 @@
             "imdb_id": "tt0032599",
             "director": "Howard Hawks",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 92
         },
         {
@@ -5031,7 +5049,7 @@
             "imdb_id": "tt0079672",
             "director": "John Cassavetes",
             "personalRating": "6",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 144
         },
         {
@@ -5042,7 +5060,7 @@
             "imdb_id": "tt2396224",
             "director": "Don Hertzfeldt",
             "personalRating": "6",
-            "vote_average": 8.0,
+            "vote_average": 7.8,
             "runtime": 62
         },
         {
@@ -5064,7 +5082,7 @@
             "imdb_id": "tt0057869",
             "director": "Jean-Luc Godard",
             "personalRating": "3",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 97
         },
         {
@@ -5075,7 +5093,7 @@
             "imdb_id": "tt0038355",
             "director": "Howard Hawks",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.5,
             "runtime": 116
         },
         {
@@ -5086,7 +5104,7 @@
             "imdb_id": "tt4048272",
             "director": "Maren Ade",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 162
         },
         {
@@ -5383,7 +5401,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 6.2,
+            "vote_average": 5.8,
             "runtime": 129
         },
         {
@@ -5394,7 +5412,7 @@
             "imdb_id": "tt0120595",
             "director": "George Miller",
             "personalRating": "5",
-            "vote_average": 5.1,
+            "vote_average": 5.2,
             "runtime": 92
         },
         {
@@ -5583,6 +5601,39 @@
             "personalRating": "4",
             "vote_average": 7.2,
             "runtime": 130
+        },
+        {
+            "poster_path": "/t56f2c0KaBED6tpyrHPKzZJ9NaX.jpg",
+            "original_title": "The Black Dahlia",
+            "release_date": "2006",
+            "watchDate": "2017-06-18",
+            "imdb_id": "tt0387877",
+            "director": "Brian De Palma",
+            "personalRating": "2",
+            "vote_average": 5.7,
+            "runtime": 121
+        },
+        {
+            "poster_path": "/2eZKDIwLNnySbwqQtAaUz0kYDIL.jpg",
+            "original_title": "Army of Darkness",
+            "release_date": "1992",
+            "watchDate": "2017-06-24",
+            "imdb_id": "tt0106308",
+            "director": "Sam Raimi",
+            "personalRating": "2",
+            "vote_average": 7.3,
+            "runtime": 81
+        },
+        {
+            "poster_path": "/yR60EqMGS9hHq9I5Pkq2hG984TP.jpg",
+            "original_title": "The Lobster",
+            "release_date": "2015",
+            "watchDate": "2017-06-24",
+            "imdb_id": "tt3464902",
+            "director": "Yorgos Lanthimos",
+            "personalRating": "4",
+            "vote_average": 6.7,
+            "runtime": 118
         }
     ],
     "cinematographers": [
@@ -5615,6 +5666,13 @@
             }
         ],
         [
+            12235,
+            {
+                "count": 4,
+                "name": "Vilmos Zsigmond"
+            }
+        ],
+        [
             14020,
             {
                 "count": 4,
@@ -5626,13 +5684,6 @@
             {
                 "count": 4,
                 "name": "Gunnar Fischer"
-            }
-        ],
-        [
-            12235,
-            {
-                "count": 3,
-                "name": "Vilmos Zsigmond"
             }
         ],
         [
@@ -5737,8 +5788,8 @@
         "1960s": 35,
         "1970s": 58,
         "1980s": 36,
-        "1990s": 31,
-        "2000s": 18,
-        "2010s": 109
+        "1990s": 32,
+        "2000s": 19,
+        "2010s": 110
     }
 }
