@@ -1,23 +1,23 @@
 {
     "genres": {
-        "Drama": 209,
-        "Thriller": 79,
+        "Drama": 211,
+        "Thriller": 80,
         "Comedy": 77,
         "Romance": 53,
-        "Science Fiction": 49,
-        "Horror": 49,
+        "Science Fiction": 50,
+        "Horror": 50,
         "Mystery": 45,
-        "Adventure": 44,
+        "Adventure": 45,
         "Crime": 42,
-        "Action": 38,
+        "Action": 39,
         "Documentary": 30,
         "Fantasy": 23,
         "Family": 17,
         "Animation": 16,
         "Music": 14,
-        "History": 7,
+        "History": 8,
+        "War": 7,
         "Western": 6,
-        "War": 6,
         "Foreign": 2
     },
     "countries": {
@@ -38,7 +38,7 @@
             "name": "Germany"
         },
         "JP": {
-            "count": 15,
+            "count": 16,
             "name": "Japan"
         },
         "HK": {
@@ -106,7 +106,7 @@
             "name": "Switzerland"
         },
         "CN": {
-            "count": 5,
+            "count": 6,
             "name": "China"
         },
         "CL": {
@@ -122,7 +122,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 19,
+            "count": 20,
             "name": "Italy"
         },
         "CZ": {
@@ -158,11 +158,11 @@
             "name": "Spain"
         },
         "US": {
-            "count": 165,
+            "count": 166,
             "name": "United States of America"
         },
         "KR": {
-            "count": 5,
+            "count": 6,
             "name": "South Korea"
         },
         "SN": {
@@ -335,6 +335,13 @@
             }
         ],
         [
+            4955,
+            {
+                "count": 3,
+                "name": "Dario Argento"
+            }
+        ],
+        [
             8452,
             {
                 "count": 3,
@@ -454,13 +461,6 @@
             }
         ],
         [
-            4955,
-            {
-                "count": 2,
-                "name": "Dario Argento"
-            }
-        ],
-        [
             136495,
             {
                 "count": 2,
@@ -479,6 +479,13 @@
             {
                 "count": 2,
                 "name": "Bruno Dumont"
+            }
+        ],
+        [
+            21684,
+            {
+                "count": 2,
+                "name": "Bong Joon-ho"
             }
         ],
         [
@@ -990,6 +997,13 @@
             {
                 "count": 1,
                 "name": "Massimo Dallamano"
+            }
+        ],
+        [
+            76978,
+            {
+                "count": 1,
+                "name": "Masaki Kobayashi"
             }
         ],
         [
@@ -1728,13 +1742,6 @@
             }
         ],
         [
-            21684,
-            {
-                "count": 1,
-                "name": "Bong Joon-ho"
-            }
-        ],
-        [
             126125,
             {
                 "count": 1,
@@ -2342,7 +2349,7 @@
             "imdb_id": "tt0066207",
             "director": "Jacques Demy",
             "personalRating": "3",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 90
         },
         {
@@ -3138,7 +3145,7 @@
             "runtime": 55
         },
         {
-            "poster_path": "/nBaqryObPuxmuAndWUjDE5rriTd.jpg",
+            "poster_path": "/6o0UWX2naW7HK45PDNYmoMIk5qs.jpg",
             "original_title": "No Country for Old Men",
             "release_date": "2007",
             "watchDate": "2015-11-29",
@@ -4124,7 +4131,7 @@
             "imdb_id": "tt0040522",
             "director": "Vittorio De Sica",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 8.1,
             "runtime": 93
         },
         {
@@ -4619,7 +4626,7 @@
             "imdb_id": "tt5326448",
             "director": "Fran\u00e7ois Ruffin",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.3,
             "runtime": 84
         },
         {
@@ -5677,6 +5684,39 @@
             "personalRating": "4",
             "vote_average": 7.0,
             "runtime": 98
+        },
+        {
+            "poster_path": "/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+            "original_title": "Okja",
+            "release_date": "2017",
+            "watchDate": "2017-07-02",
+            "imdb_id": "tt3967856",
+            "director": "Bong Joon-ho",
+            "personalRating": "5",
+            "vote_average": 7.9,
+            "runtime": 121
+        },
+        {
+            "poster_path": "/qUwGQT1EtkIm8vtN3VtnBDOoV7q.jpg",
+            "original_title": "Phenomena",
+            "release_date": "1985",
+            "watchDate": "2017-07-03",
+            "imdb_id": "tt0087909",
+            "director": "Dario Argento",
+            "personalRating": "5",
+            "vote_average": 6.8,
+            "runtime": 116
+        },
+        {
+            "poster_path": "/5wF521QDBJplvbQq3lxWY3uYupU.jpg",
+            "original_title": "The Human Condition I: No Greater Love",
+            "release_date": "1959",
+            "watchDate": "2017-07-03",
+            "imdb_id": "tt0053114",
+            "director": "Masaki Kobayashi",
+            "personalRating": "5",
+            "vote_average": 8.6,
+            "runtime": 208
         }
     ],
     "cinematographers": [
@@ -5827,12 +5867,12 @@
         "1920s": 1,
         "1930s": 10,
         "1940s": 11,
-        "1950s": 29,
+        "1950s": 30,
         "1960s": 35,
         "1970s": 60,
-        "1980s": 36,
+        "1980s": 37,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 111
+        "2010s": 112
     }
 }
