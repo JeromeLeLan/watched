@@ -1,16 +1,16 @@
 {
     "genres": {
         "Drama": 212,
-        "Thriller": 81,
+        "Thriller": 82,
         "Comedy": 78,
         "Romance": 53,
-        "Horror": 52,
+        "Horror": 53,
         "Science Fiction": 50,
-        "Mystery": 45,
+        "Mystery": 46,
         "Adventure": 45,
         "Crime": 42,
         "Action": 39,
-        "Documentary": 30,
+        "Documentary": 31,
         "Fantasy": 23,
         "Family": 17,
         "Animation": 16,
@@ -22,7 +22,7 @@
     },
     "countries": {
         "BE": {
-            "count": 7,
+            "count": 8,
             "name": "Belgium"
         },
         "FR": {
@@ -34,7 +34,7 @@
             "name": "Denmark"
         },
         "DE": {
-            "count": 34,
+            "count": 35,
             "name": "Germany"
         },
         "JP": {
@@ -122,7 +122,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 23,
+            "count": 24,
             "name": "Italy"
         },
         "CZ": {
@@ -237,6 +237,13 @@
             }
         ],
         [
+            4955,
+            {
+                "count": 6,
+                "name": "Dario Argento"
+            }
+        ],
+        [
             2636,
             {
                 "count": 6,
@@ -248,13 +255,6 @@
             {
                 "count": 5,
                 "name": "Robert Altman"
-            }
-        ],
-        [
-            4955,
-            {
-                "count": 5,
-                "name": "Dario Argento"
             }
         ],
         [
@@ -839,6 +839,13 @@
             }
         ],
         [
+            60893,
+            {
+                "count": 1,
+                "name": "Pierre Perrault"
+            }
+        ],
+        [
             5970,
             {
                 "count": 1,
@@ -979,6 +986,13 @@
             }
         ],
         [
+            550175,
+            {
+                "count": 1,
+                "name": "Michel Brault"
+            }
+        ],
+        [
             1170861,
             {
                 "count": 1,
@@ -1025,6 +1039,13 @@
             {
                 "count": 1,
                 "name": "Marco Ferreri"
+            }
+        ],
+        [
+            550176,
+            {
+                "count": 1,
+                "name": "Marcel Carri\u00e8re"
             }
         ],
         [
@@ -1916,7 +1937,7 @@
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 120
         },
         {
@@ -1938,7 +1959,7 @@
             "imdb_id": "tt0091670",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 149
         },
         {
@@ -1982,7 +2003,7 @@
             "imdb_id": "tt2400275",
             "director": "Jean-Luc Godard",
             "personalRating": "2",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 70
         },
         {
@@ -2246,7 +2267,7 @@
             "imdb_id": "tt0069995",
             "director": "Nicolas Roeg",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 110
         },
         {
@@ -2675,7 +2696,7 @@
             "imdb_id": "tt0069400",
             "director": "Jacques Tati",
             "personalRating": "3",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 96
         },
         {
@@ -3027,7 +3048,7 @@
             "imdb_id": "tt0118655",
             "director": "Jay Roach",
             "personalRating": "1",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 94
         },
         {
@@ -3324,7 +3345,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 98
         },
         {
@@ -4127,7 +4148,7 @@
             "imdb_id": "tt0070544",
             "director": "Ren\u00e9 Laloux",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 72
         },
         {
@@ -4182,7 +4203,7 @@
             "imdb_id": "tt0071994",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 92
         },
         {
@@ -4281,7 +4302,7 @@
             "imdb_id": "tt0024803",
             "director": "Jean Vigo",
             "personalRating": "3",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 41
         },
         {
@@ -4402,7 +4423,7 @@
             "imdb_id": "tt0075612",
             "director": "Robert Altman",
             "personalRating": "5",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 124
         },
         {
@@ -4732,7 +4753,7 @@
             "imdb_id": "tt0101765",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 97
         },
         {
@@ -5018,7 +5039,7 @@
             "imdb_id": "tt0059646",
             "director": "Roman Polanski",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 105
         },
         {
@@ -5304,7 +5325,7 @@
             "imdb_id": "tt0460829",
             "director": "David Lynch",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 172
         },
         {
@@ -5436,7 +5457,7 @@
             "imdb_id": "tt0103767",
             "director": "Ron Fricke",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.0,
             "runtime": 96
         },
         {
@@ -5612,7 +5633,7 @@
             "imdb_id": "tt0058329",
             "director": "Alfred Hitchcock",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 130
         },
         {
@@ -5757,6 +5778,28 @@
             "personalRating": "4",
             "vote_average": 6.6,
             "runtime": 107
+        },
+        {
+            "poster_path": "/gplaeCyICk2ULEtq04Qq4noaMzk.jpg",
+            "original_title": "Pour la suite du monde",
+            "release_date": "1963",
+            "watchDate": "2017-07-08",
+            "imdb_id": "tt0057423",
+            "director": "Michel Brault, Marcel Carri\u00e8re, Pierre Perrault",
+            "personalRating": "5",
+            "vote_average": 7.7,
+            "runtime": 105
+        },
+        {
+            "poster_path": "/bEsajgqQEgJgRukc3mrA9G5BEhk.jpg",
+            "original_title": "Tenebre",
+            "release_date": "1982",
+            "watchDate": "2017-07-09",
+            "imdb_id": "tt0084777",
+            "director": "Dario Argento",
+            "personalRating": "4",
+            "vote_average": 6.6,
+            "runtime": 110
         }
     ],
     "cinematographers": [
@@ -5889,17 +5932,17 @@
             }
         ],
         [
+            98774,
+            {
+                "count": 6,
+                "name": "Fulvio Mingozzi"
+            }
+        ],
+        [
             2,
             {
                 "count": 5,
                 "name": "Mark Hamill"
-            }
-        ],
-        [
-            11916,
-            {
-                "count": 5,
-                "name": "Liv Ullmann"
             }
         ]
     ],
@@ -5908,9 +5951,9 @@
         "1930s": 10,
         "1940s": 11,
         "1950s": 30,
-        "1960s": 36,
+        "1960s": 37,
         "1970s": 61,
-        "1980s": 38,
+        "1980s": 39,
         "1990s": 32,
         "2000s": 20,
         "2010s": 112
