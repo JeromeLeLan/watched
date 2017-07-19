@@ -1,22 +1,22 @@
 {
     "genres": {
-        "Drama": 212,
+        "Drama": 213,
         "Thriller": 82,
-        "Comedy": 78,
+        "Comedy": 79,
+        "Horror": 54,
         "Romance": 53,
-        "Horror": 53,
         "Science Fiction": 50,
         "Mystery": 46,
         "Adventure": 45,
         "Crime": 42,
         "Action": 39,
-        "Documentary": 31,
-        "Fantasy": 23,
+        "Documentary": 34,
+        "Fantasy": 24,
         "Family": 17,
         "Animation": 16,
         "Music": 14,
+        "War": 8,
         "History": 8,
-        "War": 7,
         "Western": 6,
         "Foreign": 2
     },
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 95,
+            "count": 99,
             "name": "France"
         },
         "DK": {
@@ -158,7 +158,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 166,
+            "count": 170,
             "name": "United States of America"
         },
         "KR": {
@@ -174,7 +174,7 @@
             "name": "Malaysia"
         },
         "MX": {
-            "count": 3,
+            "count": 4,
             "name": "Mexico"
         },
         "SE": {
@@ -197,7 +197,7 @@
         [
             6818,
             {
-                "count": 12,
+                "count": 13,
                 "name": "Werner Herzog"
             }
         ],
@@ -248,6 +248,13 @@
             {
                 "count": 6,
                 "name": "Alfred Hitchcock"
+            }
+        ],
+        [
+            6817,
+            {
+                "count": 6,
+                "name": "Agn\u00e8s Varda"
             }
         ],
         [
@@ -1067,6 +1074,13 @@
             {
                 "count": 1,
                 "name": "M. Night Shyamalan"
+            }
+        ],
+        [
+            793,
+            {
+                "count": 1,
+                "name": "Luis Bu\u00f1uel"
             }
         ],
         [
@@ -1903,13 +1917,6 @@
             }
         ],
         [
-            6817,
-            {
-                "count": 1,
-                "name": "Agn\u00e8s Varda"
-            }
-        ],
-        [
             939147,
             {
                 "count": 1,
@@ -2227,14 +2234,14 @@
             "runtime": 99
         },
         {
-            "poster_path": "/5TI6iida487FB4W8pBydAeQijfQ.jpg",
+            "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
             "original_title": "The Gold Rush",
             "release_date": "1925",
             "watchDate": "2015-04-04",
             "imdb_id": "tt0015864",
             "director": "Charlie Chaplin",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 95
         },
         {
@@ -2315,7 +2322,7 @@
             "runtime": 118
         },
         {
-            "poster_path": "/rbx0k8IYSrBx9YhG7q3ZbVprAEx.jpg",
+            "poster_path": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
             "original_title": "City Lights",
             "release_date": "1931",
             "watchDate": "2015-04-25",
@@ -2524,7 +2531,7 @@
             "runtime": 108
         },
         {
-            "poster_path": "/4bqqrtzY9vVQeEcqyqWfTJWmpD9.jpg",
+            "poster_path": "/pDKJFVofjfQj0cUa7z4NAXZavW.jpg",
             "original_title": "What We Do in the Shadows",
             "release_date": "2014",
             "watchDate": "2015-06-06",
@@ -2535,7 +2542,7 @@
             "runtime": 86
         },
         {
-            "poster_path": "/aerF4eDsrSWZWPfJ7svnrIXkWZD.jpg",
+            "poster_path": "/zvKZPqLyFfZ1wi8BFKG2KgNZ5mY.jpg",
             "original_title": "La nuit am\u00e9ricaine",
             "release_date": "1973",
             "watchDate": "2015-06-07",
@@ -2597,7 +2604,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "5",
-            "vote_average": 4.4,
+            "vote_average": 4.3,
             "runtime": 99
         },
         {
@@ -2784,7 +2791,7 @@
             "imdb_id": "tt0245574",
             "director": "Alfonso Cuar\u00f3n",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 106
         },
         {
@@ -2894,7 +2901,7 @@
             "imdb_id": "tt0119094",
             "director": "John Woo",
             "personalRating": "3",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 138
         },
         {
@@ -3158,7 +3165,7 @@
             "imdb_id": "tt0077598",
             "director": "Errol Morris",
             "personalRating": "5",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 85
         },
         {
@@ -3235,7 +3242,7 @@
             "imdb_id": "tt0056714",
             "director": "Kenji Misumi",
             "personalRating": "3",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 96
         },
         {
@@ -3345,7 +3352,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 98
         },
         {
@@ -4104,7 +4111,7 @@
             "imdb_id": "tt0035279",
             "director": "Alfred Hitchcock",
             "personalRating": "3",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 108
         },
         {
@@ -4137,7 +4144,7 @@
             "imdb_id": "tt2975590",
             "director": "Zack Snyder",
             "personalRating": "2",
-            "vote_average": 5.6,
+            "vote_average": 5.7,
             "runtime": 151
         },
         {
@@ -4159,7 +4166,7 @@
             "imdb_id": "tt0040522",
             "director": "Vittorio De Sica",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.0,
             "runtime": 93
         },
         {
@@ -4401,7 +4408,7 @@
             "imdb_id": "tt0060647",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 7.0,
+            "vote_average": 6.6,
             "runtime": 90
         },
         {
@@ -4438,7 +4445,7 @@
             "runtime": 87
         },
         {
-            "poster_path": "/1igj08OLKkOn6053oqxNDXvoekw.jpg",
+            "poster_path": "/om8Kka9e4GStOAcX6gVEBJAoAXc.jpg",
             "original_title": "La Grande bouffe",
             "release_date": "1973",
             "watchDate": "2016-08-09",
@@ -4456,7 +4463,7 @@
             "imdb_id": "tt3296658",
             "director": "Gr\u00edmur H\u00e1konarson",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 93
         },
         {
@@ -4478,7 +4485,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 200
         },
         {
@@ -4555,7 +4562,7 @@
             "imdb_id": "tt0060390",
             "director": "Fran\u00e7ois Truffaut",
             "personalRating": "3",
-            "vote_average": 7.0,
+            "vote_average": 6.9,
             "runtime": 112
         },
         {
@@ -4577,7 +4584,7 @@
             "imdb_id": "tt4645368",
             "director": "Xavier Dolan",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 96
         },
         {
@@ -4643,7 +4650,7 @@
             "imdb_id": "tt3521134",
             "director": "Joshua Oppenheimer",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 103
         },
         {
@@ -4724,7 +4731,7 @@
             "runtime": 83
         },
         {
-            "poster_path": "/zsqnoCBCGSceuAcw6xrRlbcyrqj.jpg",
+            "poster_path": "/aQqvAfWauk54P63BS7iIpLOsB2o.jpg",
             "original_title": "Ma loute",
             "release_date": "2016",
             "watchDate": "2016-10-23",
@@ -4753,7 +4760,7 @@
             "imdb_id": "tt0101765",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 97
         },
         {
@@ -4764,7 +4771,7 @@
             "imdb_id": "tt2277860",
             "director": "Andrew Stanton, Angus MacLane",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 97
         },
         {
@@ -4786,7 +4793,7 @@
             "imdb_id": "tt0079095",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "4",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 116
         },
         {
@@ -4819,7 +4826,7 @@
             "imdb_id": "tt2543164",
             "director": "Denis Villeneuve",
             "personalRating": "5",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 113
         },
         {
@@ -4830,7 +4837,7 @@
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
             "personalRating": "5",
-            "vote_average": 5.8,
+            "vote_average": 5.7,
             "runtime": 99
         },
         {
@@ -4907,7 +4914,7 @@
             "imdb_id": "tt0065234",
             "director": "Costa-Gavras",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 7.9,
             "runtime": 127
         },
         {
@@ -4977,7 +4984,7 @@
             "runtime": 94
         },
         {
-            "poster_path": "/5Vl1jzffFvYZnovKmZIOu8ayBXg.jpg",
+            "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
             "original_title": "The Mermaid",
             "release_date": "2016",
             "watchDate": "2017-01-02",
@@ -5094,7 +5101,7 @@
             "imdb_id": "tt2396224",
             "director": "Don Hertzfeldt",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 62
         },
         {
@@ -5171,7 +5178,7 @@
             "imdb_id": "tt1211837",
             "director": "Scott Derrickson",
             "personalRating": "2",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 115
         },
         {
@@ -5358,7 +5365,7 @@
             "imdb_id": "tt3748528",
             "director": "Gareth Edwards",
             "personalRating": "2",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 133
         },
         {
@@ -5435,7 +5442,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 5.6,
+            "vote_average": 5.8,
             "runtime": 129
         },
         {
@@ -5534,11 +5541,11 @@
             "imdb_id": "tt3385516",
             "director": "Bryan Singer",
             "personalRating": "1",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 144
         },
         {
-            "poster_path": "/9EXnebqbb7dOhONLPV9Tg2oh2KD.jpg",
+            "poster_path": "/gGBu0hKw9BGddG8RkRAMX7B6NDB.jpg",
             "original_title": "Logan",
             "release_date": "2017",
             "watchDate": "2017-06-01",
@@ -5556,7 +5563,7 @@
             "imdb_id": "tt4291590",
             "director": "Lucile Hadzihalilovic",
             "personalRating": "3",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 81
         },
         {
@@ -5721,7 +5728,7 @@
             "imdb_id": "tt3967856",
             "director": "Bong Joon-ho",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 121
         },
         {
@@ -5800,6 +5807,83 @@
             "personalRating": "4",
             "vote_average": 6.6,
             "runtime": 110
+        },
+        {
+            "poster_path": "/3Wi4kmomb2rx5Iz0ykYqajIjLE6.jpg",
+            "original_title": "El \u00e1ngel exterminador",
+            "release_date": "1962",
+            "watchDate": "2017-07-11",
+            "imdb_id": "tt0056732",
+            "director": "Luis Bu\u00f1uel",
+            "personalRating": "5",
+            "vote_average": 7.8,
+            "runtime": 95
+        },
+        {
+            "poster_path": "/qctErFY4HrlcEhTVBZLxchcyan5.jpg",
+            "original_title": "Lo and Behold: Reveries of the Connected World",
+            "release_date": "2016",
+            "watchDate": "2017-07-12",
+            "imdb_id": "tt5275828",
+            "director": "Werner Herzog",
+            "personalRating": "3",
+            "vote_average": 6.5,
+            "runtime": 98
+        },
+        {
+            "poster_path": "/3Uf80qm9hCdWsU50ZevYFjSEUeh.jpg",
+            "original_title": "Documenteur",
+            "release_date": "1981",
+            "watchDate": "2017-07-15",
+            "imdb_id": "tt0082275",
+            "director": "Agn\u00e8s Varda",
+            "personalRating": "4",
+            "vote_average": 6.5,
+            "runtime": 65
+        },
+        {
+            "poster_path": "/oTzFZtoxHLemA5aWUfjYgwPQnCM.jpg",
+            "original_title": "Mur murs",
+            "release_date": "1981",
+            "watchDate": "2017-07-15",
+            "imdb_id": "tt0081204",
+            "director": "Agn\u00e8s Varda",
+            "personalRating": "5",
+            "vote_average": 6.5,
+            "runtime": 80
+        },
+        {
+            "poster_path": "/s8r1oFBHcRymIDhwWKa4ysbiET7.jpg",
+            "original_title": "Lions Love",
+            "release_date": "1969",
+            "watchDate": "2017-07-17",
+            "imdb_id": "tt0064591",
+            "director": "Agn\u00e8s Varda",
+            "personalRating": "3",
+            "vote_average": 6.7,
+            "runtime": 110
+        },
+        {
+            "poster_path": "/qjrXOqpWXa0g2ohbau5QcRmrvTj.jpg",
+            "original_title": "Black Panthers",
+            "release_date": "1968",
+            "watchDate": "2017-07-18",
+            "imdb_id": "tt0209942",
+            "director": "Agn\u00e8s Varda",
+            "personalRating": "4",
+            "vote_average": 5.0,
+            "runtime": 31
+        },
+        {
+            "poster_path": "/2LYM0r5RZ4ukpoMTJ5yoPr0JtNr.jpg",
+            "original_title": "Oncle Yanco",
+            "release_date": "1967",
+            "watchDate": "2017-07-18",
+            "imdb_id": "tt0179389",
+            "director": "Agn\u00e8s Varda",
+            "personalRating": "5",
+            "vote_average": 8.7,
+            "runtime": 18
         }
     ],
     "cinematographers": [
@@ -5846,6 +5930,13 @@
             }
         ],
         [
+            6826,
+            {
+                "count": 4,
+                "name": "Peter Zeitlinger"
+            }
+        ],
+        [
             6652,
             {
                 "count": 4,
@@ -5865,16 +5956,16 @@
                 "count": 3,
                 "name": "Subrata Mitra"
             }
-        ],
-        [
-            1258,
-            {
-                "count": 3,
-                "name": "Stephen H. Burum"
-            }
         ]
     ],
     "actors": [
+        [
+            6818,
+            {
+                "count": 8,
+                "name": "Werner Herzog"
+            }
+        ],
         [
             2201,
             {
@@ -5894,13 +5985,6 @@
             {
                 "count": 8,
                 "name": "Erland Josephson"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 7,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -5951,11 +6035,11 @@
         "1930s": 10,
         "1940s": 11,
         "1950s": 30,
-        "1960s": 37,
+        "1960s": 41,
         "1970s": 61,
-        "1980s": 39,
+        "1980s": 41,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 112
+        "2010s": 113
     }
 }
