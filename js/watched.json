@@ -1,20 +1,20 @@
 {
     "genres": {
-        "Drama": 220,
+        "Drama": 221,
+        "Comedy": 84,
         "Thriller": 84,
-        "Comedy": 83,
         "Romance": 58,
         "Horror": 55,
-        "Science Fiction": 51,
+        "Science Fiction": 52,
+        "Adventure": 47,
         "Mystery": 46,
-        "Adventure": 45,
-        "Crime": 42,
-        "Action": 39,
-        "Documentary": 34,
+        "Crime": 43,
+        "Action": 41,
+        "Documentary": 36,
         "Fantasy": 25,
         "Family": 18,
         "Animation": 16,
-        "Music": 14,
+        "Music": 15,
         "History": 11,
         "War": 8,
         "Western": 6,
@@ -38,7 +38,7 @@
             "name": "Germany"
         },
         "JP": {
-            "count": 18,
+            "count": 19,
             "name": "Japan"
         },
         "HK": {
@@ -114,7 +114,7 @@
             "name": "Chile"
         },
         "CA": {
-            "count": 26,
+            "count": 27,
             "name": "Canada"
         },
         "IR": {
@@ -395,6 +395,13 @@
             {
                 "count": 2,
                 "name": "Ridley Scott"
+            }
+        ],
+        [
+            60893,
+            {
+                "count": 2,
+                "name": "Pierre Perrault"
             }
         ],
         [
@@ -734,6 +741,13 @@
             }
         ],
         [
+            82461,
+            {
+                "count": 1,
+                "name": "Seijun Suzuki"
+            }
+        ],
+        [
             55499,
             {
                 "count": 1,
@@ -864,13 +878,6 @@
             {
                 "count": 1,
                 "name": "Quentin Tarantino"
-            }
-        ],
-        [
-            60893,
-            {
-                "count": 1,
-                "name": "Pierre Perrault"
             }
         ],
         [
@@ -1343,6 +1350,13 @@
             }
         ],
         [
+            15218,
+            {
+                "count": 1,
+                "name": "James Gunn"
+            }
+        ],
+        [
             2710,
             {
                 "count": 1,
@@ -1592,6 +1606,13 @@
             {
                 "count": 1,
                 "name": "Don Hertzfeldt"
+            }
+        ],
+        [
+            1020740,
+            {
+                "count": 1,
+                "name": "Don Hardy Jr."
             }
         ],
         [
@@ -2084,7 +2105,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
-            "director": "Evan Goldberg, Seth Rogen",
+            "director": "Seth Rogen, Evan Goldberg",
             "personalRating": "1",
             "vote_average": 6.1,
             "runtime": 112
@@ -2240,7 +2261,7 @@
             "imdb_id": "tt3011894",
             "director": "Dami\u00e1n Szifr\u00f3n",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 125
         },
         {
@@ -2436,7 +2457,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-11",
             "imdb_id": "tt1617661",
-            "director": "Lana Wachowski, Lilly Wachowski",
+            "director": "Lilly Wachowski, Lana Wachowski",
             "personalRating": "1",
             "vote_average": 5.2,
             "runtime": 124
@@ -2557,7 +2578,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-06",
             "imdb_id": "tt3416742",
-            "director": "Jemaine Clement, Taika Waititi",
+            "director": "Taika Waititi, Jemaine Clement",
             "personalRating": "3",
             "vote_average": 7.4,
             "runtime": 86
@@ -2634,7 +2655,7 @@
             "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
-            "director": "Michael Powell, Emeric Pressburger",
+            "director": "Emeric Pressburger, Michael Powell",
             "personalRating": "4",
             "vote_average": 7.6,
             "runtime": 100
@@ -2768,7 +2789,7 @@
             "imdb_id": "tt0083946",
             "director": "Werner Herzog",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 158
         },
         {
@@ -3065,7 +3086,7 @@
             "imdb_id": "tt0063759",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 90
         },
         {
@@ -3406,7 +3427,7 @@
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 123
         },
         {
@@ -3659,7 +3680,7 @@
             "imdb_id": "tt0059592",
             "director": "Jean-Luc Godard",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 110
         },
         {
@@ -3791,7 +3812,7 @@
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 112
         },
         {
@@ -4033,7 +4054,7 @@
             "imdb_id": "tt0050539",
             "director": "Jack Arnold",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 81
         },
         {
@@ -4110,7 +4131,7 @@
             "imdb_id": "tt0051418",
             "director": "Irvin S. Yeaworth Jr.",
             "personalRating": "2",
-            "vote_average": 6.2,
+            "vote_average": 6.1,
             "runtime": 86
         },
         {
@@ -4121,7 +4142,7 @@
             "imdb_id": "tt0058530",
             "director": "Byron Haskin",
             "personalRating": "2",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 110
         },
         {
@@ -4506,7 +4527,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 200
         },
         {
@@ -4561,7 +4582,7 @@
             "imdb_id": "tt1683048",
             "director": "Noah Baumbach, Jake Paltrow",
             "personalRating": "3",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 108
         },
         {
@@ -4572,7 +4593,7 @@
             "imdb_id": "tt5700672",
             "director": "Yeon Sang-Ho",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 118
         },
         {
@@ -4671,7 +4692,7 @@
             "imdb_id": "tt3521134",
             "director": "Joshua Oppenheimer",
             "personalRating": "5",
-            "vote_average": 7.9,
+            "vote_average": 8.0,
             "runtime": 103
         },
         {
@@ -4924,7 +4945,7 @@
             "imdb_id": "tt0103919",
             "director": "Bernard Rose",
             "personalRating": "5",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 99
         },
         {
@@ -5595,7 +5616,7 @@
             "imdb_id": "tt5052448",
             "director": "Jordan Peele",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 104
         },
         {
@@ -5705,7 +5726,7 @@
             "imdb_id": "tt0068611",
             "director": "Alfred Hitchcock",
             "personalRating": "4",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 116
         },
         {
@@ -5727,7 +5748,7 @@
             "imdb_id": "tt0337876",
             "director": "Jonathan Glazer",
             "personalRating": "5",
-            "vote_average": 5.9,
+            "vote_average": 6.0,
             "runtime": 100
         },
         {
@@ -6004,6 +6025,50 @@
             "personalRating": "5",
             "vote_average": 8.2,
             "runtime": 135
+        },
+        {
+            "poster_path": "/qrpPjTvibbe6vKCgAGzMAQDnDec.jpg",
+            "original_title": "La r\u00e8gne du jour",
+            "release_date": "1967",
+            "watchDate": "2017-08-10",
+            "imdb_id": "tt0152252",
+            "director": "Pierre Perrault",
+            "personalRating": "5",
+            "vote_average": 6.0,
+            "runtime": 118
+        },
+        {
+            "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+            "original_title": "Guardians of the Galaxy Vol. 2",
+            "release_date": "2017",
+            "watchDate": "2017-08-11",
+            "imdb_id": "tt3896198",
+            "director": "James Gunn",
+            "personalRating": "1",
+            "vote_average": 7.6,
+            "runtime": 137
+        },
+        {
+            "poster_path": "/fR6u7R7eiEplojic7IN9O3dccOn.jpg",
+            "original_title": "Theory of Obscurity: A Film About the Residents",
+            "release_date": "2015",
+            "watchDate": "2017-08-12",
+            "imdb_id": "tt2833768",
+            "director": "Don Hardy Jr.",
+            "personalRating": "3",
+            "vote_average": 6.9,
+            "runtime": 87
+        },
+        {
+            "poster_path": "/asiSCq1SFrCV4gy7PJzw8c3m0yL.jpg",
+            "original_title": "Branded to Kill",
+            "release_date": "1967",
+            "watchDate": "2017-08-13",
+            "imdb_id": "tt0061882",
+            "director": "Seijun Suzuki",
+            "personalRating": "5",
+            "vote_average": 7.4,
+            "runtime": 91
         }
     ],
     "cinematographers": [
@@ -6108,17 +6173,17 @@
             }
         ],
         [
+            7624,
+            {
+                "count": 7,
+                "name": "Stan Lee"
+            }
+        ],
+        [
             4,
             {
                 "count": 7,
                 "name": "Carrie Fisher"
-            }
-        ],
-        [
-            7624,
-            {
-                "count": 6,
-                "name": "Stan Lee"
             }
         ],
         [
@@ -6155,11 +6220,11 @@
         "1930s": 10,
         "1940s": 11,
         "1950s": 31,
-        "1960s": 44,
+        "1960s": 46,
         "1970s": 63,
         "1980s": 43,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 114
+        "2010s": 116
     }
 }
