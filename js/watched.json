@@ -1,20 +1,20 @@
 {
     "genres": {
-        "Drama": 221,
-        "Comedy": 84,
-        "Thriller": 84,
-        "Romance": 58,
-        "Horror": 55,
+        "Drama": 223,
+        "Comedy": 85,
+        "Thriller": 85,
+        "Romance": 57,
+        "Horror": 57,
         "Science Fiction": 52,
+        "Mystery": 47,
         "Adventure": 47,
-        "Mystery": 46,
         "Crime": 43,
         "Action": 41,
         "Documentary": 36,
-        "Fantasy": 25,
+        "Fantasy": 26,
         "Family": 18,
         "Animation": 16,
-        "Music": 15,
+        "Music": 14,
         "History": 11,
         "War": 8,
         "Western": 6,
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 101,
+            "count": 102,
             "name": "France"
         },
         "DK": {
@@ -114,7 +114,7 @@
             "name": "Chile"
         },
         "CA": {
-            "count": 27,
+            "count": 28,
             "name": "Canada"
         },
         "IR": {
@@ -122,7 +122,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 25,
+            "count": 26,
             "name": "Italy"
         },
         "CZ": {
@@ -174,7 +174,7 @@
             "name": "Malaysia"
         },
         "MX": {
-            "count": 4,
+            "count": 5,
             "name": "Mexico"
         },
         "SE": {
@@ -1063,6 +1063,13 @@
             }
         ],
         [
+            25826,
+            {
+                "count": 1,
+                "name": "Mario Bava"
+            }
+        ],
+        [
             40476,
             {
                 "count": 1,
@@ -1567,6 +1574,13 @@
             }
         ],
         [
+            1205016,
+            {
+                "count": 1,
+                "name": "Emiliano Rocha Minter"
+            }
+        ],
+        [
             1002594,
             {
                 "count": 1,
@@ -1718,6 +1732,13 @@
             {
                 "count": 1,
                 "name": "Claudio Fragasso"
+            }
+        ],
+        [
+            545675,
+            {
+                "count": 1,
+                "name": "Claude Jutra"
             }
         ],
         [
@@ -1975,7 +1996,7 @@
             "imdb_id": "tt0070356",
             "director": "Robert Lamoureux",
             "personalRating": "1",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 95
         },
         {
@@ -2041,7 +2062,7 @@
             "imdb_id": "tt0053279",
             "director": "\u00c9ric Rohmer",
             "personalRating": "3",
-            "vote_average": 7.3,
+            "vote_average": 7.1,
             "runtime": 103
         },
         {
@@ -2105,7 +2126,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
-            "director": "Seth Rogen, Evan Goldberg",
+            "director": "Evan Goldberg, Seth Rogen",
             "personalRating": "1",
             "vote_average": 6.1,
             "runtime": 112
@@ -2151,7 +2172,7 @@
             "imdb_id": "tt0062873",
             "director": "Jacques Demy",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 124
         },
         {
@@ -2316,7 +2337,7 @@
             "imdb_id": "tt0069995",
             "director": "Nicolas Roeg",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 110
         },
         {
@@ -2457,7 +2478,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-11",
             "imdb_id": "tt1617661",
-            "director": "Lilly Wachowski, Lana Wachowski",
+            "director": "Lana Wachowski, Lilly Wachowski",
             "personalRating": "1",
             "vote_average": 5.2,
             "runtime": 124
@@ -2578,7 +2599,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-06",
             "imdb_id": "tt3416742",
-            "director": "Taika Waititi, Jemaine Clement",
+            "director": "Jemaine Clement, Taika Waititi",
             "personalRating": "3",
             "vote_average": 7.4,
             "runtime": 86
@@ -2600,7 +2621,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-10",
             "imdb_id": "tt2737050",
-            "director": "Luc Dardenne, Jean-Pierre Dardenne",
+            "director": "Jean-Pierre Dardenne, Luc Dardenne",
             "personalRating": "1",
             "vote_average": 6.8,
             "runtime": 95
@@ -2655,7 +2676,7 @@
             "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
-            "director": "Emeric Pressburger, Michael Powell",
+            "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "4",
             "vote_average": 7.6,
             "runtime": 100
@@ -2668,7 +2689,7 @@
             "imdb_id": "tt0046487",
             "director": "Jacques Tati",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 84
         },
         {
@@ -2943,7 +2964,7 @@
             "imdb_id": "tt0119094",
             "director": "John Woo",
             "personalRating": "3",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 138
         },
         {
@@ -3117,7 +3138,7 @@
             "release_date": "1948",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0040725",
-            "director": "Emeric Pressburger, Michael Powell",
+            "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "5",
             "vote_average": 8.1,
             "runtime": 133
@@ -3427,7 +3448,7 @@
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 123
         },
         {
@@ -3779,7 +3800,7 @@
             "imdb_id": "tt3460252",
             "director": "Quentin Tarantino",
             "personalRating": "1",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 167
         },
         {
@@ -3812,7 +3833,7 @@
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
             "personalRating": "3",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 112
         },
         {
@@ -3942,7 +3963,7 @@
             "release_date": "1975",
             "watchDate": "2016-05-14",
             "imdb_id": "tt0073076",
-            "director": "Albert Maysles, David Maysles, Muffie Meyer, Ellen Hovde",
+            "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles",
             "personalRating": "4",
             "vote_average": 7.3,
             "runtime": 100
@@ -4107,7 +4128,7 @@
             "release_date": "2015",
             "watchDate": "2016-06-11",
             "imdb_id": "tt2401878",
-            "director": "Charlie Kaufman, Duke Johnson",
+            "director": "Duke Johnson, Charlie Kaufman",
             "personalRating": "5",
             "vote_average": 6.9,
             "runtime": 90
@@ -4120,7 +4141,7 @@
             "imdb_id": "tt0091830",
             "director": "\u00c9ric Rohmer",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 98
         },
         {
@@ -4263,7 +4284,7 @@
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
             "personalRating": "2",
-            "vote_average": 4.0,
+            "vote_average": 4.1,
             "runtime": 88
         },
         {
@@ -4296,7 +4317,7 @@
             "imdb_id": "tt1974419",
             "director": "Nicolas Winding Refn",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 117
         },
         {
@@ -4560,7 +4581,7 @@
             "imdb_id": "tt0053134",
             "director": "Yasujir\u014d Ozu",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 94
         },
         {
@@ -4593,7 +4614,7 @@
             "imdb_id": "tt5700672",
             "director": "Yeon Sang-Ho",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 118
         },
         {
@@ -4714,7 +4735,7 @@
             "imdb_id": "tt0055830",
             "director": "Herk Harvey",
             "personalRating": "5",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 78
         },
         {
@@ -5143,7 +5164,7 @@
             "imdb_id": "tt2396224",
             "director": "Don Hertzfeldt",
             "personalRating": "6",
-            "vote_average": 7.9,
+            "vote_average": 7.8,
             "runtime": 62
         },
         {
@@ -5286,7 +5307,7 @@
             "imdb_id": "tt5275892",
             "director": "Ezra Edelman",
             "personalRating": "6",
-            "vote_average": 8.5,
+            "vote_average": 8.6,
             "runtime": 463
         },
         {
@@ -5350,7 +5371,7 @@
             "release_date": "2014",
             "watchDate": "2017-03-14",
             "imdb_id": "tt2245084",
-            "director": "Chris Williams, Don Hall",
+            "director": "Don Hall, Chris Williams",
             "personalRating": "3",
             "vote_average": 7.8,
             "runtime": 102
@@ -5374,7 +5395,7 @@
             "imdb_id": "tt0460829",
             "director": "David Lynch",
             "personalRating": "5",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 172
         },
         {
@@ -5539,7 +5560,7 @@
             "imdb_id": "tt0078480",
             "director": "Martin Rosen",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 88
         },
         {
@@ -5605,7 +5626,7 @@
             "imdb_id": "tt4291590",
             "director": "Lucile Hadzihalilovic",
             "personalRating": "3",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 81
         },
         {
@@ -5748,7 +5769,7 @@
             "imdb_id": "tt0337876",
             "director": "Jonathan Glazer",
             "personalRating": "5",
-            "vote_average": 6.0,
+            "vote_average": 5.9,
             "runtime": 100
         },
         {
@@ -5834,13 +5855,13 @@
             "release_date": "1963",
             "watchDate": "2017-07-08",
             "imdb_id": "tt0057423",
-            "director": "Pierre Perrault, Michel Brault, Marcel Carri\u00e8re",
+            "director": "Michel Brault, Marcel Carri\u00e8re, Pierre Perrault",
             "personalRating": "5",
             "vote_average": 7.7,
             "runtime": 105
         },
         {
-            "poster_path": "/bEsajgqQEgJgRukc3mrA9G5BEhk.jpg",
+            "poster_path": "/iTbzEO7OF2FyqA1HjwmDf6Du7vk.jpg",
             "original_title": "Tenebre",
             "release_date": "1982",
             "watchDate": "2017-07-09",
@@ -6069,6 +6090,39 @@
             "personalRating": "5",
             "vote_average": 7.4,
             "runtime": 91
+        },
+        {
+            "poster_path": "/xZFS3RwudBCW3TPVzA7SBWEyAeS.jpg",
+            "original_title": "5 bambole per la luna d'agosto",
+            "release_date": "1970",
+            "watchDate": "2017-08-15",
+            "imdb_id": "tt0065553",
+            "director": "Mario Bava",
+            "personalRating": "3",
+            "vote_average": 5.7,
+            "runtime": 88
+        },
+        {
+            "poster_path": "/nxIYUxuIpIUSeLgn6U2yVPg6waE.jpg",
+            "original_title": "Mon oncle Antoine",
+            "release_date": "1971",
+            "watchDate": "2017-08-16",
+            "imdb_id": "tt0067439",
+            "director": "Claude Jutra",
+            "personalRating": "5",
+            "vote_average": 8.2,
+            "runtime": 104
+        },
+        {
+            "poster_path": "/yAgRROAeGQOXzXNRUbxKEvIO5CA.jpg",
+            "original_title": "Tenemos la carne",
+            "release_date": "2016",
+            "watchDate": "2017-08-17",
+            "imdb_id": "tt4682708",
+            "director": "Emiliano Rocha Minter",
+            "personalRating": "3",
+            "vote_average": 5.5,
+            "runtime": 79
         }
     ],
     "cinematographers": [
@@ -6221,10 +6275,10 @@
         "1940s": 11,
         "1950s": 31,
         "1960s": 46,
-        "1970s": 63,
+        "1970s": 65,
         "1980s": 43,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 116
+        "2010s": 117
     }
 }
