@@ -1,22 +1,22 @@
 {
     "genres": {
-        "Drama": 223,
-        "Comedy": 85,
-        "Thriller": 85,
+        "Drama": 228,
+        "Thriller": 87,
+        "Comedy": 86,
         "Romance": 57,
         "Horror": 57,
         "Science Fiction": 52,
-        "Mystery": 47,
+        "Mystery": 48,
         "Adventure": 47,
         "Crime": 43,
-        "Action": 41,
+        "Action": 42,
         "Documentary": 36,
         "Fantasy": 26,
-        "Family": 18,
+        "Family": 19,
         "Animation": 16,
         "Music": 14,
-        "History": 11,
-        "War": 8,
+        "History": 12,
+        "War": 10,
         "Western": 6,
         "Foreign": 2
     },
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 102,
+            "count": 103,
             "name": "France"
         },
         "DK": {
@@ -38,7 +38,7 @@
             "name": "Germany"
         },
         "JP": {
-            "count": 19,
+            "count": 20,
             "name": "Japan"
         },
         "HK": {
@@ -62,7 +62,7 @@
             "name": "Russia"
         },
         "NL": {
-            "count": 2,
+            "count": 3,
             "name": "Netherlands"
         },
         "NO": {
@@ -138,7 +138,7 @@
             "name": "Australia"
         },
         "GB": {
-            "count": 37,
+            "count": 38,
             "name": "United Kingdom"
         },
         "IN": {
@@ -158,7 +158,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 174,
+            "count": 177,
             "name": "United States of America"
         },
         "KR": {
@@ -237,17 +237,24 @@
             }
         ],
         [
+            2636,
+            {
+                "count": 7,
+                "name": "Alfred Hitchcock"
+            }
+        ],
+        [
+            9789,
+            {
+                "count": 6,
+                "name": "Robert Altman"
+            }
+        ],
+        [
             4955,
             {
                 "count": 6,
                 "name": "Dario Argento"
-            }
-        ],
-        [
-            2636,
-            {
-                "count": 6,
-                "name": "Alfred Hitchcock"
             }
         ],
         [
@@ -262,13 +269,6 @@
             {
                 "count": 5,
                 "name": "Roman Polanski"
-            }
-        ],
-        [
-            9789,
-            {
-                "count": 5,
-                "name": "Robert Altman"
             }
         ],
         [
@@ -412,6 +412,13 @@
             }
         ],
         [
+            46230,
+            {
+                "count": 2,
+                "name": "Nagisa \u014cshima"
+            }
+        ],
+        [
             53296,
             {
                 "count": 2,
@@ -493,6 +500,13 @@
             {
                 "count": 2,
                 "name": "Damien Chazelle"
+            }
+        ],
+        [
+            525,
+            {
+                "count": 2,
+                "name": "Christopher Nolan"
             }
         ],
         [
@@ -976,13 +990,6 @@
             {
                 "count": 1,
                 "name": "Nanni Moretti"
-            }
-        ],
-        [
-            46230,
-            {
-                "count": 1,
-                "name": "Nagisa \u014cshima"
             }
         ],
         [
@@ -1742,13 +1749,6 @@
             }
         ],
         [
-            525,
-            {
-                "count": 1,
-                "name": "Christopher Nolan"
-            }
-        ],
-        [
             9033,
             {
                 "count": 1,
@@ -1996,7 +1996,7 @@
             "imdb_id": "tt0070356",
             "director": "Robert Lamoureux",
             "personalRating": "1",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 95
         },
         {
@@ -2007,7 +2007,7 @@
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 120
         },
         {
@@ -2126,7 +2126,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
-            "director": "Evan Goldberg, Seth Rogen",
+            "director": "Seth Rogen, Evan Goldberg",
             "personalRating": "1",
             "vote_average": 6.1,
             "runtime": 112
@@ -2139,7 +2139,7 @@
             "imdb_id": "tt0055499",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 89
         },
         {
@@ -2282,7 +2282,7 @@
             "imdb_id": "tt3011894",
             "director": "Dami\u00e1n Szifr\u00f3n",
             "personalRating": "4",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 125
         },
         {
@@ -2315,7 +2315,7 @@
             "imdb_id": "tt0053168",
             "director": "Robert Bresson",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 75
         },
         {
@@ -2392,7 +2392,7 @@
             "imdb_id": "tt0021749",
             "director": "Charlie Chaplin",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.2,
             "runtime": 87
         },
         {
@@ -2478,7 +2478,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-11",
             "imdb_id": "tt1617661",
-            "director": "Lana Wachowski, Lilly Wachowski",
+            "director": "Lilly Wachowski, Lana Wachowski",
             "personalRating": "1",
             "vote_average": 5.2,
             "runtime": 124
@@ -2502,7 +2502,7 @@
             "imdb_id": "tt0069467",
             "director": "Ingmar Bergman",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 91
         },
         {
@@ -2557,7 +2557,7 @@
             "imdb_id": "tt0056119",
             "director": "Chris Marker",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 28
         },
         {
@@ -2568,7 +2568,7 @@
             "imdb_id": "tt0084628",
             "director": "Chris Marker",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 100
         },
         {
@@ -2599,7 +2599,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-06",
             "imdb_id": "tt3416742",
-            "director": "Jemaine Clement, Taika Waititi",
+            "director": "Taika Waititi, Jemaine Clement",
             "personalRating": "3",
             "vote_average": 7.4,
             "runtime": 86
@@ -2621,7 +2621,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-10",
             "imdb_id": "tt2737050",
-            "director": "Jean-Pierre Dardenne, Luc Dardenne",
+            "director": "Luc Dardenne, Jean-Pierre Dardenne",
             "personalRating": "1",
             "vote_average": 6.8,
             "runtime": 95
@@ -2676,9 +2676,9 @@
             "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
-            "director": "Michael Powell, Emeric Pressburger",
+            "director": "Emeric Pressburger, Michael Powell",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 100
         },
         {
@@ -2689,7 +2689,7 @@
             "imdb_id": "tt0046487",
             "director": "Jacques Tati",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 84
         },
         {
@@ -2799,7 +2799,7 @@
             "imdb_id": "tt0082783",
             "director": "Louis Malle",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 110
         },
         {
@@ -2810,7 +2810,7 @@
             "imdb_id": "tt0083946",
             "director": "Werner Herzog",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 158
         },
         {
@@ -2833,7 +2833,7 @@
             "director": "Nagisa \u014cshima",
             "personalRating": "3",
             "vote_average": 7.4,
-            "runtime": 118
+            "runtime": 123
         },
         {
             "poster_path": "/g5yIxuzZ3LFRxDa8SBQybJJhXng.jpg",
@@ -2843,7 +2843,7 @@
             "imdb_id": "tt0110057",
             "director": "Steve James",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 171
         },
         {
@@ -3019,7 +3019,7 @@
             "imdb_id": "tt0079641",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 107
         },
         {
@@ -3107,7 +3107,7 @@
             "imdb_id": "tt0063759",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 90
         },
         {
@@ -3138,9 +3138,9 @@
             "release_date": "1948",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0040725",
-            "director": "Michael Powell, Emeric Pressburger",
+            "director": "Emeric Pressburger, Michael Powell",
             "personalRating": "5",
-            "vote_average": 8.1,
+            "vote_average": 8.2,
             "runtime": 133
         },
         {
@@ -3228,7 +3228,7 @@
             "imdb_id": "tt0077598",
             "director": "Errol Morris",
             "personalRating": "5",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 85
         },
         {
@@ -3316,7 +3316,7 @@
             "imdb_id": "tt0075276",
             "director": "Werner Herzog",
             "personalRating": "4",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 107
         },
         {
@@ -3327,7 +3327,7 @@
             "imdb_id": "tt0073198",
             "director": "Chantal Akerman",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 201
         },
         {
@@ -3470,7 +3470,7 @@
             "imdb_id": "tt0048473",
             "director": "Satyajit Ray",
             "personalRating": "6",
-            "vote_average": 7.9,
+            "vote_average": 7.8,
             "runtime": 125
         },
         {
@@ -3503,7 +3503,7 @@
             "imdb_id": "tt0079182",
             "director": "Sh\u00f4hei Imamura",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 139
         },
         {
@@ -3595,7 +3595,7 @@
             "runtime": 100
         },
         {
-            "poster_path": "/Ai1lpWFaBHH3szTSBz7eZT3iobi.jpg",
+            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
             "original_title": "The Searchers",
             "release_date": "1956",
             "watchDate": "2016-02-03",
@@ -3833,7 +3833,7 @@
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 112
         },
         {
@@ -3932,7 +3932,7 @@
             "imdb_id": "tt4263482",
             "director": "Robert Eggers",
             "personalRating": "4",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 92
         },
         {
@@ -3963,9 +3963,9 @@
             "release_date": "1975",
             "watchDate": "2016-05-14",
             "imdb_id": "tt0073076",
-            "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles",
+            "director": "Albert Maysles, David Maysles, Muffie Meyer, Ellen Hovde",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 100
         },
         {
@@ -4053,7 +4053,7 @@
             "imdb_id": "tt0244316",
             "director": "Edward Yang",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 173
         },
         {
@@ -4128,7 +4128,7 @@
             "release_date": "2015",
             "watchDate": "2016-06-11",
             "imdb_id": "tt2401878",
-            "director": "Duke Johnson, Charlie Kaufman",
+            "director": "Charlie Kaufman, Duke Johnson",
             "personalRating": "5",
             "vote_average": 6.9,
             "runtime": 90
@@ -4141,7 +4141,7 @@
             "imdb_id": "tt0091830",
             "director": "\u00c9ric Rohmer",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 98
         },
         {
@@ -4266,7 +4266,7 @@
             "runtime": 87
         },
         {
-            "poster_path": "/a2y4hbMxGcl3sr4D0tencDrPKqi.jpg",
+            "poster_path": "/btqFBntYQ88RXfE2eUAWayeWufm.jpg",
             "original_title": "Phantom of the Paradise",
             "release_date": "1974",
             "watchDate": "2016-06-30",
@@ -4328,7 +4328,7 @@
             "imdb_id": "tt0082010",
             "director": "John Landis",
             "personalRating": "3",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 97
         },
         {
@@ -4383,7 +4383,7 @@
             "imdb_id": "tt0024844",
             "director": "Jean Vigo",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 89
         },
         {
@@ -4581,7 +4581,7 @@
             "imdb_id": "tt0053134",
             "director": "Yasujir\u014d Ozu",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 94
         },
         {
@@ -4658,7 +4658,7 @@
             "imdb_id": "tt0034587",
             "director": "Jacques Tourneur",
             "personalRating": "3",
-            "vote_average": 6.9,
+            "vote_average": 6.8,
             "runtime": 73
         },
         {
@@ -4757,7 +4757,7 @@
             "imdb_id": "tt1128075",
             "director": "Sion Sono",
             "personalRating": "6",
-            "vote_average": 8.1,
+            "vote_average": 8.2,
             "runtime": 237
         },
         {
@@ -4801,7 +4801,7 @@
             "imdb_id": "tt4726636",
             "director": "Bruno Dumont",
             "personalRating": "4",
-            "vote_average": 5.7,
+            "vote_average": 5.6,
             "runtime": 122
         },
         {
@@ -4922,7 +4922,7 @@
             "imdb_id": "tt0851578",
             "director": "Satoshi Kon",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 90
         },
         {
@@ -4966,11 +4966,11 @@
             "imdb_id": "tt0103919",
             "director": "Bernard Rose",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 99
         },
         {
-            "poster_path": "/nbN1WTcFvQvSUZuSgkvFrZVdsBO.jpg",
+            "poster_path": "/AshFxEhbFe9Mi3YjAv5btbxgX9s.jpg",
             "original_title": "Z",
             "release_date": "1969",
             "watchDate": "2016-12-18",
@@ -5274,7 +5274,7 @@
             "imdb_id": "tt0058701",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 6.9,
+            "vote_average": 7.1,
             "runtime": 95
         },
         {
@@ -5307,7 +5307,7 @@
             "imdb_id": "tt5275892",
             "director": "Ezra Edelman",
             "personalRating": "6",
-            "vote_average": 8.6,
+            "vote_average": 8.5,
             "runtime": 463
         },
         {
@@ -5340,7 +5340,7 @@
             "imdb_id": "tt2361846",
             "director": "Bill Plympton",
             "personalRating": "3",
-            "vote_average": 8.0,
+            "vote_average": 8.2,
             "runtime": 72
         },
         {
@@ -5371,7 +5371,7 @@
             "release_date": "2014",
             "watchDate": "2017-03-14",
             "imdb_id": "tt2245084",
-            "director": "Don Hall, Chris Williams",
+            "director": "Chris Williams, Don Hall",
             "personalRating": "3",
             "vote_average": 7.8,
             "runtime": 102
@@ -5395,7 +5395,7 @@
             "imdb_id": "tt0460829",
             "director": "David Lynch",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 172
         },
         {
@@ -5494,7 +5494,7 @@
             "imdb_id": "tt0071315",
             "director": "Roman Polanski",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 130
         },
         {
@@ -5505,7 +5505,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 5.5,
+            "vote_average": 5.6,
             "runtime": 129
         },
         {
@@ -5652,14 +5652,14 @@
             "runtime": 65
         },
         {
-            "poster_path": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+            "poster_path": "/ezt0Z9wIcPIxiks0J4dm8zJn575.jpg",
             "original_title": "Stalker",
             "release_date": "1979",
             "watchDate": "2017-06-06",
             "imdb_id": "tt0079944",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 163
         },
         {
@@ -5747,7 +5747,7 @@
             "imdb_id": "tt0068611",
             "director": "Alfred Hitchcock",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 116
         },
         {
@@ -5855,7 +5855,7 @@
             "release_date": "1963",
             "watchDate": "2017-07-08",
             "imdb_id": "tt0057423",
-            "director": "Michel Brault, Marcel Carri\u00e8re, Pierre Perrault",
+            "director": "Pierre Perrault, Michel Brault, Marcel Carri\u00e8re",
             "personalRating": "5",
             "vote_average": 7.7,
             "runtime": 105
@@ -5883,7 +5883,7 @@
             "runtime": 95
         },
         {
-            "poster_path": "/qctErFY4HrlcEhTVBZLxchcyan5.jpg",
+            "poster_path": "/ecz0Dz5IP9Ouk7Ta4WCOM7TxXua.jpg",
             "original_title": "Lo and Behold: Reveries of the Connected World",
             "release_date": "2016",
             "watchDate": "2017-07-12",
@@ -6088,7 +6088,7 @@
             "imdb_id": "tt0061882",
             "director": "Seijun Suzuki",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 91
         },
         {
@@ -6123,6 +6123,50 @@
             "personalRating": "3",
             "vote_average": 5.5,
             "runtime": 79
+        },
+        {
+            "poster_path": "/ztLv3Co2uLZMV7YERWbPrTMUi03.jpg",
+            "original_title": "In the Realm of the Senses",
+            "release_date": "1976",
+            "watchDate": "2017-08-20",
+            "imdb_id": "tt0074102",
+            "director": "Nagisa \u014cshima",
+            "personalRating": "6",
+            "vote_average": 6.5,
+            "runtime": 105
+        },
+        {
+            "poster_path": "/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg",
+            "original_title": "Dunkirk",
+            "release_date": "2017",
+            "watchDate": "2017-08-22",
+            "imdb_id": "tt5013056",
+            "director": "Christopher Nolan",
+            "personalRating": "3",
+            "vote_average": 7.3,
+            "runtime": 107
+        },
+        {
+            "poster_path": "/eOslMOtaPXgQEgVJ93U3KOLogGD.jpg",
+            "original_title": "M*A*S*H",
+            "release_date": "1970",
+            "watchDate": "2017-08-23",
+            "imdb_id": "tt0066026",
+            "director": "Robert Altman",
+            "personalRating": "4",
+            "vote_average": 6.9,
+            "runtime": 116
+        },
+        {
+            "poster_path": "/eIkJjEbQcPasYvoNHKueFrfgpX4.jpg",
+            "original_title": "Rebecca",
+            "release_date": "1940",
+            "watchDate": "2017-08-25",
+            "imdb_id": "tt0032976",
+            "director": "Alfred Hitchcock",
+            "personalRating": "5",
+            "vote_average": 7.7,
+            "runtime": 130
         }
     ],
     "cinematographers": [
@@ -6176,6 +6220,13 @@
             }
         ],
         [
+            74401,
+            {
+                "count": 4,
+                "name": "Hoyte van Hoytema"
+            }
+        ],
+        [
             6652,
             {
                 "count": 4,
@@ -6188,20 +6239,13 @@
                 "count": 4,
                 "name": "Gilbert Taylor"
             }
-        ],
-        [
-            12166,
-            {
-                "count": 3,
-                "name": "Subrata Mitra"
-            }
         ]
     ],
     "actors": [
         [
             6818,
             {
-                "count": 8,
+                "count": 9,
                 "name": "Werner Herzog"
             }
         ],
@@ -6272,13 +6316,13 @@
     "decades": {
         "1920s": 1,
         "1930s": 10,
-        "1940s": 11,
+        "1940s": 12,
         "1950s": 31,
         "1960s": 46,
-        "1970s": 65,
+        "1970s": 67,
         "1980s": 43,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 117
+        "2010s": 118
     }
 }
