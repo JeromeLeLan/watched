@@ -1,21 +1,21 @@
 {
     "genres": {
-        "Drama": 236,
-        "Thriller": 90,
-        "Comedy": 86,
+        "Drama": 238,
+        "Thriller": 92,
+        "Comedy": 87,
+        "Romance": 62,
         "Horror": 62,
-        "Romance": 61,
-        "Science Fiction": 52,
-        "Mystery": 50,
-        "Adventure": 47,
+        "Science Fiction": 53,
+        "Mystery": 52,
+        "Adventure": 48,
         "Crime": 45,
         "Action": 42,
         "Documentary": 37,
         "Fantasy": 27,
         "Family": 19,
         "Animation": 16,
+        "History": 15,
         "Music": 14,
-        "History": 14,
         "War": 12,
         "Western": 7,
         "Foreign": 2
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 106,
+            "count": 107,
             "name": "France"
         },
         "DK": {
@@ -158,7 +158,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 182,
+            "count": 185,
             "name": "United States of America"
         },
         "KR": {
@@ -216,17 +216,17 @@
             }
         ],
         [
+            3776,
+            {
+                "count": 9,
+                "name": "Jean-Luc Godard"
+            }
+        ],
+        [
             30715,
             {
                 "count": 8,
                 "name": "Terrence Malick"
-            }
-        ],
-        [
-            3776,
-            {
-                "count": 8,
-                "name": "Jean-Luc Godard"
             }
         ],
         [
@@ -370,6 +370,13 @@
             }
         ],
         [
+            137427,
+            {
+                "count": 3,
+                "name": "Denis Villeneuve"
+            }
+        ],
+        [
             8452,
             {
                 "count": 3,
@@ -479,13 +486,6 @@
             {
                 "count": 2,
                 "name": "Edward Yang"
-            }
-        ],
-        [
-            137427,
-            {
-                "count": 2,
-                "name": "Denis Villeneuve"
             }
         ],
         [
@@ -902,6 +902,13 @@
             }
         ],
         [
+            30249,
+            {
+                "count": 1,
+                "name": "Preston Sturges"
+            }
+        ],
+        [
             5970,
             {
                 "count": 1,
@@ -1294,6 +1301,13 @@
             }
         ],
         [
+            13776,
+            {
+                "count": 1,
+                "name": "John Frankenheimer"
+            }
+        ],
+        [
             8500,
             {
                 "count": 1,
@@ -1347,6 +1361,13 @@
             {
                 "count": 1,
                 "name": "Jean-Pierre Melville"
+            }
+        ],
+        [
+            53782,
+            {
+                "count": 1,
+                "name": "Jean-Pierre Gorin"
             }
         ],
         [
@@ -1473,6 +1494,13 @@
             {
                 "count": 1,
                 "name": "Gr\u00edmur H\u00e1konarson"
+            }
+        ],
+        [
+            937278,
+            {
+                "count": 1,
+                "name": "Groupe Dziga Vertov"
             }
         ],
         [
@@ -2168,7 +2196,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
-            "director": "Seth Rogen, Evan Goldberg",
+            "director": "Evan Goldberg, Seth Rogen",
             "personalRating": "1",
             "vote_average": 6.1,
             "runtime": 112
@@ -2379,7 +2407,7 @@
             "imdb_id": "tt0069995",
             "director": "Nicolas Roeg",
             "personalRating": "5",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 110
         },
         {
@@ -2641,7 +2669,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-06",
             "imdb_id": "tt3416742",
-            "director": "Taika Waititi, Jemaine Clement",
+            "director": "Jemaine Clement, Taika Waititi",
             "personalRating": "3",
             "vote_average": 7.4,
             "runtime": 86
@@ -2663,7 +2691,7 @@
             "release_date": "2014",
             "watchDate": "2015-06-10",
             "imdb_id": "tt2737050",
-            "director": "Jean-Pierre Dardenne, Luc Dardenne",
+            "director": "Luc Dardenne, Jean-Pierre Dardenne",
             "personalRating": "1",
             "vote_average": 6.8,
             "runtime": 95
@@ -2718,7 +2746,7 @@
             "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
-            "director": "Emeric Pressburger, Michael Powell",
+            "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "4",
             "vote_average": 7.7,
             "runtime": 100
@@ -2801,7 +2829,7 @@
             "runtime": 102
         },
         {
-            "poster_path": "/xfLBaE7zQ4WAk4Z2iGxkgVUuQPz.jpg",
+            "poster_path": "/wWE4Hy7zoOVOVJpKSaNAzYTHqLy.jpg",
             "original_title": "Trafic",
             "release_date": "1971",
             "watchDate": "2015-07-23",
@@ -2885,7 +2913,7 @@
             "imdb_id": "tt0110057",
             "director": "Steve James",
             "personalRating": "5",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 171
         },
         {
@@ -3180,7 +3208,7 @@
             "release_date": "1948",
             "watchDate": "2015-11-15",
             "imdb_id": "tt0040725",
-            "director": "Emeric Pressburger, Michael Powell",
+            "director": "Michael Powell, Emeric Pressburger",
             "personalRating": "5",
             "vote_average": 8.2,
             "runtime": 133
@@ -3230,7 +3258,7 @@
             "runtime": 131
         },
         {
-            "poster_path": "/fWrUTM8jeiU6G6rA4NKwkeigxGa.jpg",
+            "poster_path": "/cf43J2SH8tECZVl9N5n0Q6Ckche.jpg",
             "original_title": "Drunken Master",
             "release_date": "1978",
             "watchDate": "2015-11-23",
@@ -3292,7 +3320,7 @@
             "imdb_id": "tt0477348",
             "director": "Joel Coen, Ethan Coen",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 122
         },
         {
@@ -3303,7 +3331,7 @@
             "imdb_id": "tt2582496",
             "director": "Alfonso Gomez-Rejon",
             "personalRating": "3",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 105
         },
         {
@@ -3578,7 +3606,7 @@
             "imdb_id": "tt0030643",
             "director": "Marcel Carn\u00e9",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 91
         },
         {
@@ -3611,7 +3639,7 @@
             "imdb_id": "tt0056663",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 85
         },
         {
@@ -3666,7 +3694,7 @@
             "imdb_id": "tt0096754",
             "director": "James Cameron",
             "personalRating": "3",
-            "vote_average": 7.2,
+            "vote_average": 7.1,
             "runtime": 139
         },
         {
@@ -3787,7 +3815,7 @@
             "imdb_id": "tt0076085",
             "director": "Ettore Scola",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 110
         },
         {
@@ -3875,7 +3903,7 @@
             "imdb_id": "tt2649554",
             "director": "Jeff Nichols",
             "personalRating": "3",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 112
         },
         {
@@ -4126,7 +4154,7 @@
             "release_date": "1971",
             "watchDate": "2016-06-02",
             "imdb_id": "tt0246135",
-            "director": "Jacques Rivette, Suzanne Schiffman",
+            "director": "Suzanne Schiffman, Jacques Rivette",
             "personalRating": "6",
             "vote_average": 7.6,
             "runtime": 743
@@ -4170,7 +4198,7 @@
             "release_date": "2015",
             "watchDate": "2016-06-11",
             "imdb_id": "tt2401878",
-            "director": "Charlie Kaufman, Duke Johnson",
+            "director": "Duke Johnson, Charlie Kaufman",
             "personalRating": "5",
             "vote_average": 6.9,
             "runtime": 90
@@ -4513,7 +4541,7 @@
             "imdb_id": "tt0060647",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 6.6,
+            "vote_average": 6.5,
             "runtime": 90
         },
         {
@@ -4557,7 +4585,7 @@
             "imdb_id": "tt0070130",
             "director": "Marco Ferreri",
             "personalRating": "5",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 135
         },
         {
@@ -4590,7 +4618,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 200
         },
         {
@@ -4942,7 +4970,7 @@
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
             "personalRating": "5",
-            "vote_average": 5.9,
+            "vote_average": 5.8,
             "runtime": 99
         },
         {
@@ -5096,7 +5124,7 @@
             "imdb_id": "tt4701660",
             "director": "Stephen Chow",
             "personalRating": "3",
-            "vote_average": 6.1,
+            "vote_average": 6.2,
             "runtime": 93
         },
         {
@@ -5173,7 +5201,7 @@
             "imdb_id": "tt3783958",
             "director": "Damien Chazelle",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 128
         },
         {
@@ -5431,7 +5459,7 @@
         },
         {
             "poster_path": "/xQKF94NvqsHCuGUjgvJ5Etgnryu.jpg",
-            "original_title": "Inland Empire",
+            "original_title": "INLAND EMPIRE",
             "release_date": "2006",
             "watchDate": "2017-03-18",
             "imdb_id": "tt0460829",
@@ -5547,7 +5575,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 5.5,
+            "vote_average": 5.4,
             "runtime": 129
         },
         {
@@ -5789,7 +5817,7 @@
             "imdb_id": "tt0068611",
             "director": "Alfred Hitchcock",
             "personalRating": "4",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 116
         },
         {
@@ -5897,7 +5925,7 @@
             "release_date": "1963",
             "watchDate": "2017-07-08",
             "imdb_id": "tt0057423",
-            "director": "Pierre Perrault, Michel Brault, Marcel Carri\u00e8re",
+            "director": "Michel Brault, Marcel Carri\u00e8re, Pierre Perrault",
             "personalRating": "5",
             "vote_average": 7.7,
             "runtime": 105
@@ -5969,7 +5997,7 @@
             "runtime": 110
         },
         {
-            "poster_path": "/qjrXOqpWXa0g2ohbau5QcRmrvTj.jpg",
+            "poster_path": "/4lMqFz4Qqz4rYDxvHSTIpPhAbBZ.jpg",
             "original_title": "Black Panthers",
             "release_date": "1968",
             "watchDate": "2017-07-18",
@@ -6262,7 +6290,7 @@
             "imdb_id": "tt1945228",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 90
         },
         {
@@ -6273,12 +6301,12 @@
             "imdb_id": "tt6265828",
             "director": "David Lowery",
             "personalRating": "6",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 92
         },
         {
             "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
-            "original_title": "mother!",
+            "original_title": "Mother!",
             "release_date": "2017",
             "watchDate": "2017-09-24",
             "imdb_id": "tt5109784",
@@ -6330,6 +6358,50 @@
             "personalRating": "2",
             "vote_average": 6.4,
             "runtime": 84
+        },
+        {
+            "poster_path": "/bZfw8EpYfbEG325mlzcE59fv20N.jpg",
+            "original_title": "Sullivan's Travels",
+            "release_date": "1941",
+            "watchDate": "2017-10-04",
+            "imdb_id": "tt0034240",
+            "director": "Preston Sturges",
+            "personalRating": "5",
+            "vote_average": 8.0,
+            "runtime": 90
+        },
+        {
+            "poster_path": "/4LlR1NazZLhD55podBd7VAUGyTp.jpg",
+            "original_title": "The Manchurian Candidate",
+            "release_date": "1962",
+            "watchDate": "2017-10-06",
+            "imdb_id": "tt0056218",
+            "director": "John Frankenheimer",
+            "personalRating": "4",
+            "vote_average": 7.7,
+            "runtime": 126
+        },
+        {
+            "poster_path": "/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg",
+            "original_title": "Blade Runner 2049",
+            "release_date": "2017",
+            "watchDate": "2017-10-08",
+            "imdb_id": "tt1856101",
+            "director": "Denis Villeneuve",
+            "personalRating": "6",
+            "vote_average": 7.8,
+            "runtime": 163
+        },
+        {
+            "poster_path": "/2AvaJ8NuWOzoRoblvP35QI6fKST.jpg",
+            "original_title": "Tout Va Bien",
+            "release_date": "1972",
+            "watchDate": "2017-10-09",
+            "imdb_id": "tt0069398",
+            "director": "Jean-Luc Godard, Jean-Pierre Gorin, Groupe Dziga Vertov",
+            "personalRating": "5",
+            "vote_average": 6.6,
+            "runtime": 95
         }
     ],
     "cinematographers": [
@@ -6376,6 +6448,13 @@
             }
         ],
         [
+            151,
+            {
+                "count": 4,
+                "name": "Roger Deakins"
+            }
+        ],
+        [
             6826,
             {
                 "count": 4,
@@ -6394,13 +6473,6 @@
             {
                 "count": 4,
                 "name": "Gunnar Fischer"
-            }
-        ],
-        [
-            7753,
-            {
-                "count": 4,
-                "name": "Gilbert Taylor"
             }
         ]
     ],
@@ -6479,13 +6551,13 @@
     "decades": {
         "1920s": 1,
         "1930s": 10,
-        "1940s": 12,
+        "1940s": 13,
         "1950s": 31,
-        "1960s": 49,
-        "1970s": 69,
+        "1960s": 50,
+        "1970s": 70,
         "1980s": 46,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 121
+        "2010s": 122
     }
 }
