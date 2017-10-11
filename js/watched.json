@@ -1,22 +1,22 @@
 {
     "genres": {
-        "Drama": 238,
-        "Thriller": 92,
-        "Comedy": 87,
+        "Drama": 240,
+        "Thriller": 93,
+        "Comedy": 88,
         "Romance": 62,
         "Horror": 62,
         "Science Fiction": 53,
         "Mystery": 52,
         "Adventure": 48,
         "Crime": 45,
-        "Action": 42,
+        "Action": 43,
         "Documentary": 37,
         "Fantasy": 27,
         "Family": 19,
         "Animation": 16,
         "History": 15,
         "Music": 14,
-        "War": 12,
+        "War": 13,
         "Western": 7,
         "Foreign": 2
     },
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 107,
+            "count": 110,
             "name": "France"
         },
         "DK": {
@@ -178,7 +178,7 @@
             "name": "Mexico"
         },
         "SE": {
-            "count": 19,
+            "count": 20,
             "name": "Sweden"
         },
         "IL": {
@@ -328,6 +328,13 @@
             }
         ],
         [
+            10346,
+            {
+                "count": 3,
+                "name": "Robert Bresson"
+            }
+        ],
+        [
             40,
             {
                 "count": 3,
@@ -472,6 +479,13 @@
             {
                 "count": 2,
                 "name": "George Miller"
+            }
+        ],
+        [
+            48514,
+            {
+                "count": 2,
+                "name": "Eric Judor"
             }
         ],
         [
@@ -843,13 +857,6 @@
             {
                 "count": 1,
                 "name": "Robert Eggers"
-            }
-        ],
-        [
-            10346,
-            {
-                "count": 1,
-                "name": "Robert Bresson"
             }
         ],
         [
@@ -1609,13 +1616,6 @@
             }
         ],
         [
-            48514,
-            {
-                "count": 1,
-                "name": "Eric Judor"
-            }
-        ],
-        [
             65531,
             {
                 "count": 1,
@@ -2196,7 +2196,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-30",
             "imdb_id": "tt2788710",
-            "director": "Evan Goldberg, Seth Rogen",
+            "director": "Seth Rogen, Evan Goldberg",
             "personalRating": "1",
             "vote_average": 6.1,
             "runtime": 112
@@ -2308,7 +2308,7 @@
             "imdb_id": "tt0083922",
             "director": "Ingmar Bergman",
             "personalRating": "6",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 188
         },
         {
@@ -2548,7 +2548,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-11",
             "imdb_id": "tt1617661",
-            "director": "Lilly Wachowski, Lana Wachowski",
+            "director": "Lana Wachowski, Lilly Wachowski",
             "personalRating": "1",
             "vote_average": 5.2,
             "runtime": 124
@@ -2605,7 +2605,7 @@
             "imdb_id": "tt0074626",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 94
         },
         {
@@ -2616,7 +2616,7 @@
             "imdb_id": "tt1392190",
             "director": "George Miller",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 120
         },
         {
@@ -2737,7 +2737,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "5",
-            "vote_average": 4.2,
+            "vote_average": 4.3,
             "runtime": 99
         },
         {
@@ -2746,7 +2746,7 @@
             "release_date": "1947",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0039192",
-            "director": "Michael Powell, Emeric Pressburger",
+            "director": "Emeric Pressburger, Michael Powell",
             "personalRating": "4",
             "vote_average": 7.7,
             "runtime": 100
@@ -3100,7 +3100,7 @@
             "imdb_id": "tt2818654",
             "director": "Apichatpong Weerasethakul",
             "personalRating": "3",
-            "vote_average": 4.3,
+            "vote_average": 4.4,
             "runtime": 122
         },
         {
@@ -3331,7 +3331,7 @@
             "imdb_id": "tt2582496",
             "director": "Alfonso Gomez-Rejon",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 105
         },
         {
@@ -4033,7 +4033,7 @@
             "release_date": "1975",
             "watchDate": "2016-05-14",
             "imdb_id": "tt0073076",
-            "director": "Albert Maysles, David Maysles, Muffie Meyer, Ellen Hovde",
+            "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles",
             "personalRating": "4",
             "vote_average": 7.2,
             "runtime": 100
@@ -4154,7 +4154,7 @@
             "release_date": "1971",
             "watchDate": "2016-06-02",
             "imdb_id": "tt0246135",
-            "director": "Suzanne Schiffman, Jacques Rivette",
+            "director": "Jacques Rivette, Suzanne Schiffman",
             "personalRating": "6",
             "vote_average": 7.6,
             "runtime": 743
@@ -4198,7 +4198,7 @@
             "release_date": "2015",
             "watchDate": "2016-06-11",
             "imdb_id": "tt2401878",
-            "director": "Duke Johnson, Charlie Kaufman",
+            "director": "Charlie Kaufman, Duke Johnson",
             "personalRating": "5",
             "vote_average": 6.9,
             "runtime": 90
@@ -5586,7 +5586,7 @@
             "imdb_id": "tt0120595",
             "director": "George Miller",
             "personalRating": "5",
-            "vote_average": 5.2,
+            "vote_average": 5.3,
             "runtime": 92
         },
         {
@@ -6096,7 +6096,7 @@
             "runtime": 122
         },
         {
-            "poster_path": "/ryz6Uvme9MlyfX0fUu6BinhnMHw.jpg",
+            "poster_path": "/kvNh6RhOZZRyIZlS8f0izVC7km2.jpg",
             "original_title": "Samurai Rebellion",
             "release_date": "1967",
             "watchDate": "2017-08-07",
@@ -6382,13 +6382,13 @@
             "runtime": 126
         },
         {
-            "poster_path": "/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg",
+            "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
             "original_title": "Blade Runner 2049",
             "release_date": "2017",
             "watchDate": "2017-10-08",
             "imdb_id": "tt1856101",
             "director": "Denis Villeneuve",
-            "personalRating": "6",
+            "personalRating": "5",
             "vote_average": 7.8,
             "runtime": 163
         },
@@ -6401,6 +6401,39 @@
             "director": "Jean-Luc Godard, Jean-Pierre Gorin, Groupe Dziga Vertov",
             "personalRating": "5",
             "vote_average": 6.6,
+            "runtime": 95
+        },
+        {
+            "poster_path": "/7f8ROxooI3fn85CVqIG5QwPFsdE.jpg",
+            "original_title": "A Man Escaped",
+            "release_date": "1956",
+            "watchDate": "2017-10-09",
+            "imdb_id": "tt0049902",
+            "director": "Robert Bresson",
+            "personalRating": "6",
+            "vote_average": 8.0,
+            "runtime": 99
+        },
+        {
+            "poster_path": "/1tx8SwUVgtAbshLeoycZD3v6AmQ.jpg",
+            "original_title": "Problemos",
+            "release_date": "2017",
+            "watchDate": "2017-10-09",
+            "imdb_id": "tt5796516",
+            "director": "Eric Judor",
+            "personalRating": "3",
+            "vote_average": 5.4,
+            "runtime": null
+        },
+        {
+            "poster_path": "/wGpLTTOHJXlnbArj3X4ZCWF64c5.jpg",
+            "original_title": "Au hasard Balthazar",
+            "release_date": "1966",
+            "watchDate": "2017-10-10",
+            "imdb_id": "tt0060138",
+            "director": "Robert Bresson",
+            "personalRating": "6",
+            "vote_average": 7.8,
             "runtime": 95
         }
     ],
@@ -6552,12 +6585,12 @@
         "1920s": 1,
         "1930s": 10,
         "1940s": 13,
-        "1950s": 31,
-        "1960s": 50,
+        "1950s": 32,
+        "1960s": 51,
         "1970s": 70,
         "1980s": 46,
         "1990s": 32,
         "2000s": 20,
-        "2010s": 122
+        "2010s": 123
     }
 }
