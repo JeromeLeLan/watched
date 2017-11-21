@@ -1,22 +1,22 @@
 {
     "genres": {
-        "Drama": 256,
+        "Drama": 257,
         "Thriller": 97,
         "Comedy": 94,
+        "Romance": 66,
         "Horror": 66,
-        "Romance": 65,
         "Mystery": 57,
         "Science Fiction": 56,
         "Adventure": 50,
         "Crime": 47,
         "Action": 44,
-        "Documentary": 38,
+        "Documentary": 40,
         "Fantasy": 29,
         "Family": 20,
         "Animation": 17,
         "Music": 16,
         "History": 16,
-        "War": 14,
+        "War": 15,
         "Western": 7,
         "Foreign": 2
     },
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 118,
+            "count": 120,
             "name": "France"
         },
         "DK": {
@@ -78,7 +78,7 @@
             "name": "Taiwan"
         },
         "TR": {
-            "count": 1,
+            "count": 2,
             "name": "Turkey"
         },
         "NZ": {
@@ -126,7 +126,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 32,
+            "count": 33,
             "name": "Italy"
         },
         "CZ": {
@@ -162,7 +162,7 @@
             "name": "Spain"
         },
         "US": {
-            "count": 195,
+            "count": 196,
             "name": "United States of America"
         },
         "KR": {
@@ -234,17 +234,17 @@
             }
         ],
         [
+            10346,
+            {
+                "count": 8,
+                "name": "Robert Bresson"
+            }
+        ],
+        [
             224,
             {
                 "count": 8,
                 "name": "David Cronenberg"
-            }
-        ],
-        [
-            10346,
-            {
-                "count": 7,
-                "name": "Robert Bresson"
             }
         ],
         [
@@ -1893,6 +1893,13 @@
             }
         ],
         [
+            1456995,
+            {
+                "count": 1,
+                "name": "Cl\u00e9ment Cogitore"
+            }
+        ],
+        [
             31211,
             {
                 "count": 1,
@@ -1960,6 +1967,13 @@
             {
                 "count": 1,
                 "name": "Chantal Akerman"
+            }
+        ],
+        [
+            1603873,
+            {
+                "count": 1,
+                "name": "Ceyda Torun"
             }
         ],
         [
@@ -4046,7 +4060,7 @@
             "imdb_id": "tt0118694",
             "director": "Wong Kar-wai",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 98
         },
         {
@@ -6290,7 +6304,7 @@
             "imdb_id": "tt0074102",
             "director": "Nagisa \u014cshima",
             "personalRating": "6",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 105
         },
         {
@@ -6389,7 +6403,7 @@
             "imdb_id": "tt6265828",
             "director": "David Lowery",
             "personalRating": "6",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 92
         },
         {
@@ -6820,6 +6834,39 @@
             "personalRating": "6",
             "vote_average": 7.6,
             "runtime": 95
+        },
+        {
+            "poster_path": "/uAe1DeDWSqLShUZKGqhNLTUjLZp.jpg",
+            "original_title": "Lancelot du Lac",
+            "release_date": "1974",
+            "watchDate": "2017-11-19",
+            "imdb_id": "tt0071737",
+            "director": "Robert Bresson",
+            "personalRating": "2",
+            "vote_average": 5.7,
+            "runtime": 85
+        },
+        {
+            "poster_path": "/5z2vuJk6P7V2azw3gWQF7L4l5xU.jpg",
+            "original_title": "Kedi",
+            "release_date": "2017",
+            "watchDate": "2017-11-19",
+            "imdb_id": "tt4420704",
+            "director": "Ceyda Torun",
+            "personalRating": "3",
+            "vote_average": 7.5,
+            "runtime": 80
+        },
+        {
+            "poster_path": "/ioQP2NDHNKWYY6FPhhgN2MD5Uxw.jpg",
+            "original_title": "Braguino",
+            "release_date": "2017",
+            "watchDate": "2017-11-20",
+            "imdb_id": "tt7290768",
+            "director": "Cl\u00e9ment Cogitore",
+            "personalRating": "6",
+            "vote_average": 8.0,
+            "runtime": 49
         }
     ],
     "cinematographers": [
@@ -6972,10 +7019,10 @@
         "1940s": 15,
         "1950s": 34,
         "1960s": 54,
-        "1970s": 75,
+        "1970s": 76,
         "1980s": 52,
         "1990s": 33,
         "2000s": 22,
-        "2010s": 129
+        "2010s": 131
     }
 }
