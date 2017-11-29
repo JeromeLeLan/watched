@@ -1,19 +1,19 @@
 {
     "genres": {
-        "Drama": 257,
-        "Thriller": 97,
+        "Drama": 260,
+        "Thriller": 98,
         "Comedy": 94,
-        "Romance": 66,
+        "Romance": 67,
         "Horror": 66,
-        "Mystery": 57,
+        "Mystery": 59,
         "Science Fiction": 56,
-        "Adventure": 50,
-        "Crime": 47,
+        "Adventure": 51,
+        "Crime": 48,
         "Action": 44,
-        "Documentary": 40,
+        "Documentary": 41,
         "Fantasy": 29,
-        "Family": 20,
-        "Animation": 17,
+        "Family": 21,
+        "Animation": 18,
         "Music": 16,
         "History": 16,
         "War": 15,
@@ -26,7 +26,7 @@
             "name": "Belgium"
         },
         "FR": {
-            "count": 120,
+            "count": 122,
             "name": "France"
         },
         "DK": {
@@ -126,7 +126,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 33,
+            "count": 34,
             "name": "Italy"
         },
         "CZ": {
@@ -161,8 +161,12 @@
             "count": 6,
             "name": "Spain"
         },
+        "MA": {
+            "count": 1,
+            "name": "Morocco"
+        },
         "US": {
-            "count": 196,
+            "count": 200,
             "name": "United States of America"
         },
         "KR": {
@@ -304,6 +308,13 @@
             }
         ],
         [
+            40,
+            {
+                "count": 4,
+                "name": "Orson Welles"
+            }
+        ],
+        [
             1126,
             {
                 "count": 4,
@@ -343,13 +354,6 @@
             {
                 "count": 3,
                 "name": "Robert Zemeckis"
-            }
-        ],
-        [
-            40,
-            {
-                "count": 3,
-                "name": "Orson Welles"
             }
         ],
         [
@@ -469,6 +473,13 @@
             {
                 "count": 2,
                 "name": "Paul Verhoeven"
+            }
+        ],
+        [
+            834,
+            {
+                "count": 2,
+                "name": "Otto Preminger"
             }
         ],
         [
@@ -629,7 +640,7 @@
             18899,
             {
                 "count": 1,
-                "name": "Yuen Woo-ping"
+                "name": "Yuen Woo-Ping"
             }
         ],
         [
@@ -1246,6 +1257,13 @@
             {
                 "count": 1,
                 "name": "Lenny Abrahamson"
+            }
+        ],
+        [
+            8,
+            {
+                "count": 1,
+                "name": "Lee Unkrich"
             }
         ],
         [
@@ -1914,6 +1932,13 @@
             }
         ],
         [
+            127491,
+            {
+                "count": 1,
+                "name": "Claude Lanzmann"
+            }
+        ],
+        [
             545675,
             {
                 "count": 1,
@@ -2201,7 +2226,7 @@
             "imdb_id": "tt0091670",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 149
         },
         {
@@ -2223,7 +2248,7 @@
             "imdb_id": "tt0108550",
             "director": "Lasse Hallstr\u00f6m",
             "personalRating": "1",
-            "vote_average": 7.6,
+            "vote_average": 7.5,
             "runtime": 118
         },
         {
@@ -2612,7 +2637,7 @@
             "runtime": 148
         },
         {
-            "poster_path": "/llLPTbNw0nOwDK6PRZM8ANmmawf.jpg",
+            "poster_path": "/2QXMswzQsEGm7oTq2YEFiiXgegd.jpg",
             "original_title": "Peau d'\u00e2ne",
             "release_date": "1970",
             "watchDate": "2015-05-07",
@@ -2740,7 +2765,7 @@
             "imdb_id": "tt0084628",
             "director": "Chris Marker",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 100
         },
         {
@@ -2839,7 +2864,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "5",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -3365,7 +3390,7 @@
             "release_date": "1978",
             "watchDate": "2015-11-23",
             "imdb_id": "tt0080179",
-            "director": "Yuen Woo-ping",
+            "director": "Yuen Woo-Ping",
             "personalRating": "3",
             "vote_average": 7.2,
             "runtime": 111
@@ -3620,7 +3645,7 @@
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 123
         },
         {
@@ -3675,7 +3700,7 @@
             "imdb_id": "tt0079182",
             "director": "Sh\u00f4hei Imamura",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.5,
             "runtime": 139
         },
         {
@@ -3873,7 +3898,7 @@
             "imdb_id": "tt0059592",
             "director": "Jean-Luc Godard",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 110
         },
         {
@@ -4526,7 +4551,7 @@
             "runtime": 22
         },
         {
-            "poster_path": "/gnU19i9E8DuTpRkT2rxnQ3COg7I.jpg",
+            "poster_path": "/g9OzBiszO12SIosmxPlTfY7po40.jpg",
             "original_title": "Taris, roi de l'eau",
             "release_date": "1931",
             "watchDate": "2016-07-10",
@@ -4537,7 +4562,7 @@
             "runtime": 9
         },
         {
-            "poster_path": "/92lvrL5Stk7Zn15UdGgWtQMrecU.jpg",
+            "poster_path": "/oXTEx35m8sXg9DRbVdQQQNGhQjg.jpg",
             "original_title": "Z\u00e9ro de conduite",
             "release_date": "1933",
             "watchDate": "2016-07-10",
@@ -4687,7 +4712,7 @@
             "imdb_id": "tt0070130",
             "director": "Marco Ferreri",
             "personalRating": "5",
-            "vote_average": 6.9,
+            "vote_average": 6.8,
             "runtime": 135
         },
         {
@@ -4753,7 +4778,7 @@
             "imdb_id": "tt0053134",
             "director": "Yasujir\u014d Ozu",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 94
         },
         {
@@ -5028,7 +5053,7 @@
             "imdb_id": "tt0079095",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "4",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 116
         },
         {
@@ -5083,7 +5108,7 @@
             "imdb_id": "tt0057345",
             "director": "Jean-Luc Godard",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 103
         },
         {
@@ -5138,7 +5163,7 @@
             "imdb_id": "tt0103919",
             "director": "Bernard Rose",
             "personalRating": "5",
-            "vote_average": 6.2,
+            "vote_average": 6.3,
             "runtime": 99
         },
         {
@@ -5252,7 +5277,7 @@
             "runtime": 106
         },
         {
-            "poster_path": "/pgCEAll5ROxjnIexHomp79dGGZs.jpg",
+            "poster_path": "/vIfygAvR5FXISAscAFTHOMAqQeA.jpg",
             "original_title": "Le locataire",
             "release_date": "1976",
             "watchDate": "2017-01-07",
@@ -5314,7 +5339,7 @@
             "imdb_id": "tt0048393",
             "director": "Orson Welles",
             "personalRating": "4",
-            "vote_average": 7.0,
+            "vote_average": 6.9,
             "runtime": 93
         },
         {
@@ -5336,7 +5361,7 @@
             "imdb_id": "tt2078648",
             "director": "Don Hertzfeldt",
             "personalRating": "6",
-            "vote_average": 8.4,
+            "vote_average": 8.3,
             "runtime": 23
         },
         {
@@ -5831,7 +5856,7 @@
             "imdb_id": "tt0079944",
             "director": "Andrei Tarkovsky",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 163
         },
         {
@@ -5908,7 +5933,7 @@
             "imdb_id": "tt3464902",
             "director": "Yorgos Lanthimos",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 118
         },
         {
@@ -5945,7 +5970,7 @@
             "runtime": 100
         },
         {
-            "poster_path": "/2UFXHDynWKdCNGe2iecLrJCDvha.jpg",
+            "poster_path": "/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg",
             "original_title": "The Bird with the Crystal Plumage",
             "release_date": "1970",
             "watchDate": "2017-07-01",
@@ -6194,7 +6219,7 @@
             "imdb_id": "tt2316204",
             "director": "Ridley Scott",
             "personalRating": "2",
-            "vote_average": 5.7,
+            "vote_average": 5.8,
             "runtime": 122
         },
         {
@@ -6392,7 +6417,7 @@
             "imdb_id": "tt1945228",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.2,
             "runtime": 90
         },
         {
@@ -6403,7 +6428,7 @@
             "imdb_id": "tt6265828",
             "director": "David Lowery",
             "personalRating": "6",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 92
         },
         {
@@ -6601,7 +6626,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "6",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -6656,7 +6681,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "6",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -6689,7 +6714,7 @@
             "imdb_id": "tt0093608",
             "director": "J\u00f6rg Buttgereit",
             "personalRating": "1",
-            "vote_average": 5.3,
+            "vote_average": 5.4,
             "runtime": 75
         },
         {
@@ -6722,7 +6747,7 @@
             "imdb_id": "tt5859238",
             "director": "John Carroll Lynch",
             "personalRating": "3",
-            "vote_average": 8.7,
+            "vote_average": 8.6,
             "runtime": 88
         },
         {
@@ -6777,7 +6802,7 @@
             "imdb_id": "tt0060959",
             "director": "V\u011bra Chytilov\u00e1",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 74
         },
         {
@@ -6867,6 +6892,61 @@
             "personalRating": "6",
             "vote_average": 8.0,
             "runtime": 49
+        },
+        {
+            "poster_path": "/fqFY81twXBjTAmDGw1fUooAvXf9.jpg",
+            "original_title": "Laura",
+            "release_date": "1944",
+            "watchDate": "2017-11-21",
+            "imdb_id": "tt0037008",
+            "director": "Otto Preminger",
+            "personalRating": "5",
+            "vote_average": 7.6,
+            "runtime": 88
+        },
+        {
+            "poster_path": "/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg",
+            "original_title": "Othello",
+            "release_date": "1951",
+            "watchDate": "2017-11-22",
+            "imdb_id": "tt0045251",
+            "director": "Orson Welles",
+            "personalRating": "5",
+            "vote_average": 6.6,
+            "runtime": 90
+        },
+        {
+            "poster_path": "/hWlNBFnhvAx2nu1xmRrjLLsa2JW.jpg",
+            "original_title": "Shoah",
+            "release_date": "1985",
+            "watchDate": "2017-11-26",
+            "imdb_id": "tt0090015",
+            "director": "Claude Lanzmann",
+            "personalRating": "6",
+            "vote_average": 8.6,
+            "runtime": 566
+        },
+        {
+            "poster_path": "/xXrC5ZNQZ5igRLcPZ5Lpm8ElePx.jpg",
+            "original_title": "Coco",
+            "release_date": "2017",
+            "watchDate": "2017-11-27",
+            "imdb_id": "tt2380307",
+            "director": "Lee Unkrich",
+            "personalRating": "6",
+            "vote_average": 7.9,
+            "runtime": 109
+        },
+        {
+            "poster_path": "/kDFnM2zlHZirR2ItTo56lyrxuAS.jpg",
+            "original_title": "Anatomy of a Murder",
+            "release_date": "1959",
+            "watchDate": "2017-11-28",
+            "imdb_id": "tt0052561",
+            "director": "Otto Preminger",
+            "personalRating": "5",
+            "vote_average": 7.7,
+            "runtime": 160
         }
     ],
     "cinematographers": [
@@ -6992,6 +7072,13 @@
             }
         ],
         [
+            7907,
+            {
+                "count": 6,
+                "name": "John Ratzenberger"
+            }
+        ],
+        [
             1653,
             {
                 "count": 6,
@@ -7004,25 +7091,18 @@
                 "count": 6,
                 "name": "Fulvio Mingozzi"
             }
-        ],
-        [
-            44959,
-            {
-                "count": 6,
-                "name": "Daria Nicolodi"
-            }
         ]
     ],
     "decades": {
         "1920s": 1,
         "1930s": 10,
-        "1940s": 15,
-        "1950s": 34,
+        "1940s": 16,
+        "1950s": 36,
         "1960s": 54,
         "1970s": 76,
-        "1980s": 52,
+        "1980s": 53,
         "1990s": 33,
         "2000s": 22,
-        "2010s": 131
+        "2010s": 132
     }
 }
