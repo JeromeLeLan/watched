@@ -1,21 +1,21 @@
 {
     "genres": {
-        "Drama": 260,
-        "Thriller": 98,
-        "Comedy": 94,
-        "Romance": 67,
-        "Horror": 66,
+        "Drama": 263,
+        "Thriller": 99,
+        "Comedy": 96,
+        "Romance": 68,
+        "Horror": 67,
         "Mystery": 59,
         "Science Fiction": 56,
-        "Adventure": 51,
+        "Adventure": 52,
         "Crime": 48,
-        "Action": 44,
+        "Action": 45,
         "Documentary": 41,
         "Fantasy": 29,
         "Family": 21,
         "Animation": 18,
+        "History": 17,
         "Music": 16,
-        "History": 16,
         "War": 15,
         "Western": 7,
         "Foreign": 2
@@ -126,7 +126,7 @@
             "name": "Iran"
         },
         "IT": {
-            "count": 34,
+            "count": 36,
             "name": "Italy"
         },
         "CZ": {
@@ -166,7 +166,7 @@
             "name": "Morocco"
         },
         "US": {
-            "count": 200,
+            "count": 203,
             "name": "United States of America"
         },
         "KR": {
@@ -186,7 +186,7 @@
             "name": "Mexico"
         },
         "SE": {
-            "count": 21,
+            "count": 22,
             "name": "Sweden"
         },
         "IL": {
@@ -198,7 +198,7 @@
         [
             6648,
             {
-                "count": 17,
+                "count": 18,
                 "name": "Ingmar Bergman"
             }
         ],
@@ -254,7 +254,7 @@
         [
             4955,
             {
-                "count": 7,
+                "count": 8,
                 "name": "Dario Argento"
             }
         ],
@@ -291,6 +291,13 @@
             {
                 "count": 5,
                 "name": "Fran\u00e7ois Truffaut"
+            }
+        ],
+        [
+            81916,
+            {
+                "count": 4,
+                "name": "Tommy Wiseau"
             }
         ],
         [
@@ -343,13 +350,6 @@
             }
         ],
         [
-            81916,
-            {
-                "count": 3,
-                "name": "Tommy Wiseau"
-            }
-        ],
-        [
             24,
             {
                 "count": 3,
@@ -368,6 +368,13 @@
             {
                 "count": 3,
                 "name": "Masaki Kobayashi"
+            }
+        ],
+        [
+            29433,
+            {
+                "count": 3,
+                "name": "Lucio Fulci"
             }
         ],
         [
@@ -501,13 +508,6 @@
             {
                 "count": 2,
                 "name": "Mario Bava"
-            }
-        ],
-        [
-            29433,
-            {
-                "count": 2,
-                "name": "Lucio Fulci"
             }
         ],
         [
@@ -1505,6 +1505,13 @@
             }
         ],
         [
+            17051,
+            {
+                "count": 1,
+                "name": "James Franco"
+            }
+        ],
+        [
             2710,
             {
                 "count": 1,
@@ -2142,6 +2149,13 @@
             }
         ],
         [
+            13235,
+            {
+                "count": 1,
+                "name": "Alexander Payne"
+            }
+        ],
+        [
             14566,
             {
                 "count": 1,
@@ -2248,7 +2262,7 @@
             "imdb_id": "tt0108550",
             "director": "Lasse Hallstr\u00f6m",
             "personalRating": "1",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 118
         },
         {
@@ -2281,7 +2295,7 @@
             "imdb_id": "tt0299478",
             "director": "Ingmar Bergman",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 120
         },
         {
@@ -2314,7 +2328,7 @@
             "imdb_id": "tt0101829",
             "director": "Lars von Trier",
             "personalRating": "3",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 112
         },
         {
@@ -2549,7 +2563,7 @@
             "runtime": 99
         },
         {
-            "poster_path": "/m4ZCx2Iwr418IGPxRfoKnpumz9X.jpg",
+            "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
             "original_title": "Modern Times",
             "release_date": "1936",
             "watchDate": "2015-04-12",
@@ -2560,7 +2574,7 @@
             "runtime": 87
         },
         {
-            "poster_path": "/o6bDZf6MVoTMmXNRX7HoKdkW7Ux.jpg",
+            "poster_path": "/c6hdG99CsskD9V0QDyS2l6gDOJa.jpg",
             "original_title": "L'avventura",
             "release_date": "1960",
             "watchDate": "2015-04-12",
@@ -2611,7 +2625,7 @@
             "imdb_id": "tt0085809",
             "director": "Godfrey Reggio",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 87
         },
         {
@@ -2692,7 +2706,7 @@
             "runtime": 125
         },
         {
-            "poster_path": "/5DCVJb4cdueFevqEjdmOoHHgPh6.jpg",
+            "poster_path": "/kzt5Jro3AD6V6CbAwoXKIgQkTeA.jpg",
             "original_title": "Cries and Whispers",
             "release_date": "1972",
             "watchDate": "2015-05-17",
@@ -2700,7 +2714,7 @@
             "director": "Ingmar Bergman",
             "personalRating": "6",
             "vote_average": 7.7,
-            "runtime": 91
+            "runtime": 95
         },
         {
             "poster_path": "/4n7T0G6kNLszUyfqKAboesNTm55.jpg",
@@ -2842,7 +2856,7 @@
             "imdb_id": "tt0057935",
             "director": "Satyajit Ray",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.0,
             "runtime": 117
         },
         {
@@ -2853,7 +2867,7 @@
             "imdb_id": "tt0074991",
             "director": "Brian De Palma",
             "personalRating": "6",
-            "vote_average": 6.5,
+            "vote_average": 6.4,
             "runtime": 98
         },
         {
@@ -2880,14 +2894,14 @@
         },
         {
             "poster_path": "/r4F4tsU0Ajeh9ZYUkWOJSYmioj7.jpg",
-            "original_title": "Les Vacances de Monsieur Hulot",
+            "original_title": "Les vacances de Monsieur Hulot",
             "release_date": "1953",
             "watchDate": "2015-06-20",
             "imdb_id": "tt0046487",
             "director": "Jacques Tati",
             "personalRating": "4",
             "vote_average": 7.3,
-            "runtime": 84
+            "runtime": 87
         },
         {
             "poster_path": "/xFN3xPDzN4O7oIBmxnLIh8VROIw.jpg",
@@ -3227,7 +3241,7 @@
             "imdb_id": "tt2818654",
             "director": "Apichatpong Weerasethakul",
             "personalRating": "3",
-            "vote_average": 4.4,
+            "vote_average": 4.5,
             "runtime": 122
         },
         {
@@ -3304,7 +3318,7 @@
             "imdb_id": "tt0063759",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 90
         },
         {
@@ -3359,7 +3373,7 @@
             "imdb_id": "tt0280665",
             "director": "Brian De Palma",
             "personalRating": "6",
-            "vote_average": 6.2,
+            "vote_average": 6.1,
             "runtime": 114
         },
         {
@@ -3524,7 +3538,7 @@
             "imdb_id": "tt0073198",
             "director": "Chantal Akerman",
             "personalRating": "6",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 201
         },
         {
@@ -3645,7 +3659,7 @@
             "imdb_id": "tt0071129",
             "director": "Federico Fellini",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.7,
             "runtime": 123
         },
         {
@@ -3678,7 +3692,7 @@
             "imdb_id": "tt0105643",
             "director": "Claudio Fragasso",
             "personalRating": "3",
-            "vote_average": 3.6,
+            "vote_average": 3.7,
             "runtime": 95
         },
         {
@@ -3733,7 +3747,7 @@
             "imdb_id": "tt0030643",
             "director": "Marcel Carn\u00e9",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 91
         },
         {
@@ -3909,7 +3923,7 @@
             "imdb_id": "tt0024188",
             "director": "Erle C. Kenton",
             "personalRating": "2",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 70
         },
         {
@@ -4052,7 +4066,7 @@
             "imdb_id": "tt0048956",
             "director": "Satyajit Ray",
             "personalRating": "5",
-            "vote_average": 7.9,
+            "vote_average": 8.0,
             "runtime": 110
         },
         {
@@ -4129,7 +4143,7 @@
             "imdb_id": "tt4263482",
             "director": "Robert Eggers",
             "personalRating": "4",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 92
         },
         {
@@ -4239,7 +4253,7 @@
             "imdb_id": "tt0077405",
             "director": "Terrence Malick",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 94
         },
         {
@@ -4294,7 +4308,7 @@
             "imdb_id": "tt0114148",
             "director": "Mike Gabriel, Eric Goldberg",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 81
         },
         {
@@ -4342,7 +4356,7 @@
             "runtime": 98
         },
         {
-            "poster_path": "/zVkexIhS9zhazR5EP0e79G8IswT.jpg",
+            "poster_path": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
             "original_title": "The Blob",
             "release_date": "1958",
             "watchDate": "2016-06-15",
@@ -4437,7 +4451,7 @@
             "imdb_id": "tt0053270",
             "director": "John Cassavetes",
             "personalRating": "3",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 87
         },
         {
@@ -4481,7 +4495,7 @@
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
             "personalRating": "2",
-            "vote_average": 4.0,
+            "vote_average": 4.1,
             "runtime": 88
         },
         {
@@ -4529,7 +4543,7 @@
             "runtime": 97
         },
         {
-            "poster_path": "/2dtCU4kobdzTN3XfPqs6XcxR5Ht.jpg",
+            "poster_path": "/aTP5FknptVwPGVv5wCQaeuYFuEB.jpg",
             "original_title": "All That Heaven Allows",
             "release_date": "1955",
             "watchDate": "2016-07-10",
@@ -4668,7 +4682,7 @@
             "imdb_id": "tt0060647",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 6.6,
+            "vote_average": 6.7,
             "runtime": 90
         },
         {
@@ -4694,7 +4708,7 @@
             "runtime": 124
         },
         {
-            "poster_path": "/qNfWhBr1gnxsc16utYeEUB0DE5J.jpg",
+            "poster_path": "/a9w5pMzS4xh9itERx3mlWjnf3Zt.jpg",
             "original_title": "Shivers",
             "release_date": "1975",
             "watchDate": "2016-08-07",
@@ -4712,7 +4726,7 @@
             "imdb_id": "tt0070130",
             "director": "Marco Ferreri",
             "personalRating": "5",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 135
         },
         {
@@ -4844,7 +4858,7 @@
             "imdb_id": "tt4645368",
             "director": "Xavier Dolan",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 96
         },
         {
@@ -4867,7 +4881,7 @@
             "director": "Paul Verhoeven",
             "personalRating": "4",
             "vote_average": 4.9,
-            "runtime": 128
+            "runtime": 131
         },
         {
             "poster_path": "/ckrTPz6FZ35L5ybjqvkLWzzSLO7.jpg",
@@ -4932,7 +4946,7 @@
             "imdb_id": "tt0055830",
             "director": "Herk Harvey",
             "personalRating": "5",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 78
         },
         {
@@ -5020,7 +5034,7 @@
             "imdb_id": "tt0101765",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 97
         },
         {
@@ -5031,7 +5045,7 @@
             "imdb_id": "tt2277860",
             "director": "Andrew Stanton",
             "personalRating": "4",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 97
         },
         {
@@ -5075,7 +5089,7 @@
             "imdb_id": "tt5278506",
             "director": "David Farrier, Dylan Reeve",
             "personalRating": "5",
-            "vote_average": 7.4,
+            "vote_average": 7.3,
             "runtime": 92
         },
         {
@@ -5350,7 +5364,7 @@
             "imdb_id": "tt0079672",
             "director": "John Cassavetes",
             "personalRating": "6",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 144
         },
         {
@@ -5559,7 +5573,7 @@
             "imdb_id": "tt0111507",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 91
         },
         {
@@ -5845,7 +5859,7 @@
             "imdb_id": "tt0028165",
             "director": "Fred Zinnemann, Emilio G\u00f3mez Muriel",
             "personalRating": "3",
-            "vote_average": 5.0,
+            "vote_average": 5.5,
             "runtime": 65
         },
         {
@@ -6065,7 +6079,7 @@
             "imdb_id": "tt0084777",
             "director": "Dario Argento",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 110
         },
         {
@@ -6076,7 +6090,7 @@
             "imdb_id": "tt0056732",
             "director": "Luis Bu\u00f1uel",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 95
         },
         {
@@ -6087,7 +6101,7 @@
             "imdb_id": "tt5275828",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 98
         },
         {
@@ -6153,7 +6167,7 @@
             "imdb_id": "tt0062430",
             "director": "Mark Robson",
             "personalRating": "1",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 123
         },
         {
@@ -6175,7 +6189,7 @@
             "imdb_id": "tt0050706",
             "director": "Jacques Tati",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 110
         },
         {
@@ -6329,7 +6343,7 @@
             "imdb_id": "tt0074102",
             "director": "Nagisa \u014cshima",
             "personalRating": "6",
-            "vote_average": 6.5,
+            "vote_average": 6.4,
             "runtime": 105
         },
         {
@@ -6362,7 +6376,7 @@
             "imdb_id": "tt0032976",
             "director": "Alfred Hitchcock",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 130
         },
         {
@@ -6439,7 +6453,7 @@
             "imdb_id": "tt5109784",
             "director": "Darren Aronofsky",
             "personalRating": "6",
-            "vote_average": 7.0,
+            "vote_average": 7.1,
             "runtime": 121
         },
         {
@@ -6582,7 +6596,7 @@
             "imdb_id": "tt0035446",
             "director": "Ernst Lubitsch",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 99
         },
         {
@@ -6598,13 +6612,13 @@
         },
         {
             "poster_path": "/i1gpu7tlXsOVhhRdPIxCNphYJV0.jpg",
-            "original_title": "Deux ou trois choses que je sais d'elle",
+            "original_title": "2 ou 3 choses que je sais d'elle",
             "release_date": "1967",
             "watchDate": "2017-10-16",
             "imdb_id": "tt0060304",
             "director": "Jean-Luc Godard",
             "personalRating": "4",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 100
         },
         {
@@ -6802,7 +6816,7 @@
             "imdb_id": "tt0060959",
             "director": "V\u011bra Chytilov\u00e1",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 74
         },
         {
@@ -6868,7 +6882,7 @@
             "imdb_id": "tt0071737",
             "director": "Robert Bresson",
             "personalRating": "2",
-            "vote_average": 5.7,
+            "vote_average": 5.8,
             "runtime": 85
         },
         {
@@ -6879,7 +6893,7 @@
             "imdb_id": "tt4420704",
             "director": "Ceyda Torun",
             "personalRating": "3",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 80
         },
         {
@@ -6927,14 +6941,14 @@
             "runtime": 566
         },
         {
-            "poster_path": "/xXrC5ZNQZ5igRLcPZ5Lpm8ElePx.jpg",
+            "poster_path": "/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
             "original_title": "Coco",
             "release_date": "2017",
             "watchDate": "2017-11-27",
             "imdb_id": "tt2380307",
             "director": "Lee Unkrich",
             "personalRating": "6",
-            "vote_average": 7.9,
+            "vote_average": 7.8,
             "runtime": 109
         },
         {
@@ -6945,15 +6959,81 @@
             "imdb_id": "tt0052561",
             "director": "Otto Preminger",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 160
+        },
+        {
+            "poster_path": "/4RHyF1v1n4iodWzHG4m7XkGcJVB.jpg",
+            "original_title": "Election",
+            "release_date": "1999",
+            "watchDate": "2017-12-02",
+            "imdb_id": "tt0126886",
+            "director": "Alexander Payne",
+            "personalRating": "4",
+            "vote_average": 6.7,
+            "runtime": 99
+        },
+        {
+            "poster_path": "/cjAnlvCrp9ZY7atASUsxRrhve7o.jpg",
+            "original_title": "Persona",
+            "release_date": "1966",
+            "watchDate": "2017-12-03",
+            "imdb_id": "tt0060827",
+            "director": "Ingmar Bergman",
+            "personalRating": "6",
+            "vote_average": 8.0,
+            "runtime": 85
+        },
+        {
+            "poster_path": "/2rx92z72K5hZtsw9Q8ZqEkOPaeb.jpg",
+            "original_title": "4 mosche di velluto grigio",
+            "release_date": "1971",
+            "watchDate": "2017-12-04",
+            "imdb_id": "tt0066735",
+            "director": "Dario Argento",
+            "personalRating": "3",
+            "vote_average": 6.2,
+            "runtime": 104
+        },
+        {
+            "poster_path": "/4dn3dYYyOPKx8SPkTr0Z3UWQTts.jpg",
+            "original_title": "Paura nella citt\u00e0 dei morti viventi",
+            "release_date": "1980",
+            "watchDate": "2017-12-06",
+            "imdb_id": "tt0081318",
+            "director": "Lucio Fulci",
+            "personalRating": "2",
+            "vote_average": 6.0,
+            "runtime": 93
+        },
+        {
+            "poster_path": "/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg",
+            "original_title": "The Disaster Artist",
+            "release_date": "2017",
+            "watchDate": "2017-12-07",
+            "imdb_id": "tt3521126",
+            "director": "James Franco",
+            "personalRating": "5",
+            "vote_average": 7.0,
+            "runtime": 105
+        },
+        {
+            "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
+            "original_title": "The Room",
+            "release_date": "2003",
+            "watchDate": "2017-12-07",
+            "imdb_id": "tt0368226",
+            "director": "Tommy Wiseau",
+            "personalRating": "6",
+            "vote_average": 4.2,
+            "runtime": 99
         }
     ],
     "cinematographers": [
         [
             11905,
             {
-                "count": 13,
+                "count": 14,
                 "name": "Sven Nykvist"
             }
         ],
@@ -6986,6 +7066,13 @@
             }
         ],
         [
+            1085780,
+            {
+                "count": 4,
+                "name": "Todd Barron"
+            }
+        ],
+        [
             14020,
             {
                 "count": 4,
@@ -7012,28 +7099,21 @@
                 "count": 4,
                 "name": "Hoyte van Hoytema"
             }
-        ],
-        [
-            6652,
-            {
-                "count": 4,
-                "name": "Gunnar Fischer"
-            }
         ]
     ],
     "actors": [
+        [
+            6649,
+            {
+                "count": 10,
+                "name": "Gunnar Bj\u00f6rnstrand"
+            }
+        ],
         [
             6818,
             {
                 "count": 9,
                 "name": "Werner Herzog"
-            }
-        ],
-        [
-            6649,
-            {
-                "count": 9,
-                "name": "Gunnar Bj\u00f6rnstrand"
             }
         ],
         [
@@ -7065,6 +7145,13 @@
             }
         ],
         [
+            98774,
+            {
+                "count": 7,
+                "name": "Fulvio Mingozzi"
+            }
+        ],
+        [
             4,
             {
                 "count": 7,
@@ -7072,10 +7159,10 @@
             }
         ],
         [
-            7907,
+            11916,
             {
                 "count": 6,
-                "name": "John Ratzenberger"
+                "name": "Liv Ullmann"
             }
         ],
         [
@@ -7084,13 +7171,6 @@
                 "count": 6,
                 "name": "Jean-Pierre L\u00e9aud"
             }
-        ],
-        [
-            98774,
-            {
-                "count": 6,
-                "name": "Fulvio Mingozzi"
-            }
         ]
     ],
     "decades": {
@@ -7098,11 +7178,11 @@
         "1930s": 10,
         "1940s": 16,
         "1950s": 36,
-        "1960s": 54,
-        "1970s": 76,
-        "1980s": 53,
-        "1990s": 33,
-        "2000s": 22,
-        "2010s": 132
+        "1960s": 55,
+        "1970s": 77,
+        "1980s": 54,
+        "1990s": 34,
+        "2000s": 23,
+        "2010s": 133
     }
 }
