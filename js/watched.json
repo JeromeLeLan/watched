@@ -1,21 +1,21 @@
 {
     "genres": {
-        "Drama": 301,
-        "Thriller": 109,
+        "Drama": 302,
+        "Thriller": 110,
         "Comedy": 106,
+        "Horror": 79,
         "Romance": 78,
-        "Horror": 78,
-        "Mystery": 64,
+        "Mystery": 63,
         "Science Fiction": 62,
         "Adventure": 57,
-        "Crime": 53,
+        "Crime": 52,
         "Action": 50,
         "Documentary": 42,
-        "Fantasy": 30,
+        "Fantasy": 31,
         "Family": 21,
         "Animation": 19,
+        "History": 19,
         "War": 18,
-        "History": 18,
         "Music": 17,
         "Western": 6,
         "Foreign": 1
@@ -150,7 +150,7 @@
             "name": "Australia"
         },
         "GB": {
-            "count": 50,
+            "count": 51,
             "name": "United Kingdom"
         },
         "IN": {
@@ -173,12 +173,16 @@
             "count": 1,
             "name": "Morocco"
         },
+        "GF": {
+            "count": 1,
+            "name": "French Guiana"
+        },
         "MM": {
             "count": 1,
             "name": "Myanmar"
         },
         "US": {
-            "count": 229,
+            "count": 231,
             "name": "United States of America"
         },
         "KR": {
@@ -215,17 +219,17 @@
             }
         ],
         [
+            1150,
+            {
+                "count": 14,
+                "name": "Brian De Palma"
+            }
+        ],
+        [
             6818,
             {
                 "count": 13,
                 "name": "Werner Herzog"
-            }
-        ],
-        [
-            1150,
-            {
-                "count": 13,
-                "name": "Brian De Palma"
             }
         ],
         [
@@ -450,13 +454,6 @@
             {
                 "count": 3,
                 "name": "Carl Theodor Dreyer"
-            }
-        ],
-        [
-            95901,
-            {
-                "count": 3,
-                "name": "Bruno Dumont"
             }
         ],
         [
@@ -691,6 +688,13 @@
             }
         ],
         [
+            95901,
+            {
+                "count": 2,
+                "name": "Bruno Dumont"
+            }
+        ],
+        [
             21684,
             {
                 "count": 2,
@@ -918,7 +922,7 @@
             20025,
             {
                 "count": 1,
-                "name": "Sh\u00f4hei Imamura"
+                "name": "Sh\u014dhei Imamura"
             }
         ],
         [
@@ -1006,10 +1010,24 @@
             }
         ],
         [
+            17387,
+            {
+                "count": 1,
+                "name": "Robin Campillo"
+            }
+        ],
+        [
             91484,
             {
                 "count": 1,
                 "name": "Robert Lamoureux"
+            }
+        ],
+        [
+            29808,
+            {
+                "count": 1,
+                "name": "Robert Florey"
             }
         ],
         [
@@ -1485,7 +1503,14 @@
             129561,
             {
                 "count": 1,
-                "name": "Joshua Safdie"
+                "name": "Josh Safdie"
+            }
+        ],
+        [
+            130087,
+            {
+                "count": 1,
+                "name": "Joseph Santley"
             }
         ],
         [
@@ -2252,17 +2277,17 @@
             }
         ],
         [
+            227564,
+            {
+                "count": 1,
+                "name": "Benny Safdie"
+            }
+        ],
+        [
             137467,
             {
                 "count": 1,
                 "name": "Ben Wheatley"
-            }
-        ],
-        [
-            227564,
-            {
-                "count": 1,
-                "name": "Ben Safdie"
             }
         ],
         [
@@ -2419,7 +2444,7 @@
             "imdb_id": "tt0086022",
             "director": "Andrei Tarkovsky",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 120
         },
         {
@@ -2518,7 +2543,7 @@
             "imdb_id": "tt2758880",
             "director": "Nuri Bilge Ceylan",
             "personalRating": "5",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 196
         },
         {
@@ -2863,7 +2888,7 @@
             "runtime": 90
         },
         {
-            "poster_path": "/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
+            "poster_path": "/javNDira5CgkDhGicvj8Rdjlk3e.jpg",
             "original_title": "Summer Interlude",
             "release_date": "1951",
             "watchDate": "2015-05-10",
@@ -2881,7 +2906,7 @@
             "imdb_id": "tt0048424",
             "director": "Charles Laughton",
             "personalRating": "6",
-            "vote_average": 7.9,
+            "vote_average": 8.0,
             "runtime": 93
         },
         {
@@ -2947,7 +2972,7 @@
             "imdb_id": "tt0074626",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 6.4,
+            "vote_average": 6.5,
             "runtime": 94
         },
         {
@@ -3079,7 +3104,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "5",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -3299,7 +3324,7 @@
             "imdb_id": "tt0910970",
             "director": "Andrew Stanton",
             "personalRating": "6",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 98
         },
         {
@@ -3585,7 +3610,7 @@
             "imdb_id": "tt1829012",
             "director": "Brian De Palma",
             "personalRating": "4",
-            "vote_average": 5.2,
+            "vote_average": 5.1,
             "runtime": 100
         },
         {
@@ -3640,7 +3665,7 @@
             "imdb_id": "tt0077598",
             "director": "Errol Morris",
             "personalRating": "5",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 85
         },
         {
@@ -3827,7 +3852,7 @@
             "imdb_id": "tt0108394",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "3",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 98
         },
         {
@@ -3893,7 +3918,7 @@
             "imdb_id": "tt0105643",
             "director": "Claudio Fragasso",
             "personalRating": "3",
-            "vote_average": 3.7,
+            "vote_average": 3.8,
             "runtime": 95
         },
         {
@@ -3913,7 +3938,7 @@
             "release_date": "1979",
             "watchDate": "2016-01-17",
             "imdb_id": "tt0079182",
-            "director": "Sh\u00f4hei Imamura",
+            "director": "Sh\u014dhei Imamura",
             "personalRating": "4",
             "vote_average": 7.5,
             "runtime": 139
@@ -4135,7 +4160,7 @@
             "imdb_id": "tt0071381",
             "director": "Jacques Rivette",
             "personalRating": "6",
-            "vote_average": 7.1,
+            "vote_average": 7.0,
             "runtime": 193
         },
         {
@@ -4392,17 +4417,6 @@
             "runtime": 237
         },
         {
-            "poster_path": "/hJIIHaersqVZEYefN0Bwivo9TLz.jpg",
-            "original_title": "P'tit Quinquin",
-            "release_date": "2014",
-            "watchDate": "2016-05-21",
-            "imdb_id": "tt3053694",
-            "director": "Bruno Dumont",
-            "personalRating": "5",
-            "vote_average": 7.9,
-            "runtime": 200
-        },
-        {
             "poster_path": "/3FS3oBdorgczgfCkFi2u8ZTFfpS.jpg",
             "original_title": "Ghostbusters",
             "release_date": "1984",
@@ -4459,7 +4473,7 @@
         },
         {
             "poster_path": "/4hinCqoMKKMyNr7G59fWhccz4TN.jpg",
-            "original_title": "Yi Yi",
+            "original_title": "A One and a Two...",
             "release_date": "2000",
             "watchDate": "2016-05-27",
             "imdb_id": "tt0244316",
@@ -4531,7 +4545,7 @@
             "imdb_id": "tt0051365",
             "director": "Ingmar Bergman",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 101
         },
         {
@@ -4630,7 +4644,7 @@
             "imdb_id": "tt0070544",
             "director": "Ren\u00e9 Laloux",
             "personalRating": "3",
-            "vote_average": 7.5,
+            "vote_average": 7.6,
             "runtime": 72
         },
         {
@@ -4696,7 +4710,7 @@
             "imdb_id": "tt4515544",
             "director": "Eric Judor",
             "personalRating": "2",
-            "vote_average": 4.2,
+            "vote_average": 4.1,
             "runtime": 88
         },
         {
@@ -4718,7 +4732,7 @@
             "imdb_id": "tt0055018",
             "director": "Jack Clayton",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.5,
             "runtime": 100
         },
         {
@@ -4839,7 +4853,7 @@
             "imdb_id": "tt4062536",
             "director": "Jeremy Saulnier",
             "personalRating": "4",
-            "vote_average": 6.7,
+            "vote_average": 6.8,
             "runtime": 95
         },
         {
@@ -4861,7 +4875,7 @@
             "imdb_id": "tt0087821",
             "director": "\u00c9ric Rohmer",
             "personalRating": "4",
-            "vote_average": 7.4,
+            "vote_average": 7.2,
             "runtime": 100
         },
         {
@@ -4895,7 +4909,7 @@
             "director": "Terrence Malick",
             "personalRating": "6",
             "vote_average": 6.4,
-            "runtime": 135
+            "runtime": 172
         },
         {
             "poster_path": "/eO9JnxcIQa8BPVqVrTBapj5w1Jq.jpg",
@@ -4927,7 +4941,7 @@
             "imdb_id": "tt0070130",
             "director": "Marco Ferreri",
             "personalRating": "5",
-            "vote_average": 6.9,
+            "vote_average": 7.0,
             "runtime": 135
         },
         {
@@ -4960,7 +4974,7 @@
             "imdb_id": "tt0064451",
             "director": "King Hu",
             "personalRating": "5",
-            "vote_average": 7.9,
+            "vote_average": 7.8,
             "runtime": 200
         },
         {
@@ -5004,7 +5018,7 @@
             "imdb_id": "tt3498820",
             "director": "Anthony Russo, Joe Russo",
             "personalRating": "2",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 147
         },
         {
@@ -5191,7 +5205,7 @@
             "imdb_id": "tt0068278",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "4",
-            "vote_average": 7.5,
+            "vote_average": 7.4,
             "runtime": 124
         },
         {
@@ -5235,7 +5249,7 @@
             "imdb_id": "tt0101765",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 97
         },
         {
@@ -5257,7 +5271,7 @@
             "imdb_id": "tt3716530",
             "director": "Paul Verhoeven",
             "personalRating": "2",
-            "vote_average": 6.7,
+            "vote_average": 6.6,
             "runtime": 130
         },
         {
@@ -5268,7 +5282,7 @@
             "imdb_id": "tt0079095",
             "director": "Rainer Werner Fassbinder",
             "personalRating": "4",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 120
         },
         {
@@ -5302,7 +5316,7 @@
             "director": "Denis Villeneuve",
             "personalRating": "5",
             "vote_average": 7.3,
-            "runtime": 113
+            "runtime": 116
         },
         {
             "poster_path": "/rr0xEVMKJ1ccVPUrllZDuR5DHP0.jpg",
@@ -5312,7 +5326,7 @@
             "imdb_id": "tt5115004",
             "director": "Antonin Peretjatko",
             "personalRating": "5",
-            "vote_average": 5.8,
+            "vote_average": 5.9,
             "runtime": 99
         },
         {
@@ -5400,7 +5414,7 @@
             "imdb_id": "tt0057176",
             "director": "Alain Robbe-Grillet",
             "personalRating": "4",
-            "vote_average": 6.0,
+            "vote_average": 6.2,
             "runtime": 101
         },
         {
@@ -5411,7 +5425,7 @@
             "imdb_id": "tt0120863",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 7.2,
+            "vote_average": 7.3,
             "runtime": 170
         },
         {
@@ -5569,7 +5583,7 @@
             "runtime": 144
         },
         {
-            "poster_path": "/cf0jMeMdWXVYXNg80wwcG7sal6e.jpg",
+            "poster_path": "/3fMBsqK2D5sDXfTEtetgIIl6tXA.jpg",
             "original_title": "It's Such a Beautiful Day",
             "release_date": "2011",
             "watchDate": "2017-01-19",
@@ -5741,7 +5755,7 @@
             "imdb_id": "tt2382298",
             "director": "Steve James",
             "personalRating": "2",
-            "vote_average": 7.6,
+            "vote_average": 7.7,
             "runtime": 120
         },
         {
@@ -5829,7 +5843,7 @@
             "imdb_id": "tt0111495",
             "director": "Krzysztof Kie\u015blowski",
             "personalRating": "5",
-            "vote_average": 7.8,
+            "vote_average": 7.9,
             "runtime": 99
         },
         {
@@ -5917,7 +5931,7 @@
             "imdb_id": "tt2062700",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 5.5,
+            "vote_average": 5.4,
             "runtime": 129
         },
         {
@@ -5939,7 +5953,7 @@
             "imdb_id": "tt0103767",
             "director": "Ron Fricke",
             "personalRating": "5",
-            "vote_average": 8.0,
+            "vote_average": 8.1,
             "runtime": 96
         },
         {
@@ -5972,7 +5986,7 @@
             "imdb_id": "tt0078480",
             "director": "Martin Rosen",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 88
         },
         {
@@ -6005,7 +6019,7 @@
             "imdb_id": "tt0047445",
             "director": "Kenji Mizoguchi",
             "personalRating": "4",
-            "vote_average": 8.7,
+            "vote_average": 8.4,
             "runtime": 124
         },
         {
@@ -6192,7 +6206,7 @@
             "imdb_id": "tt0065143",
             "director": "Dario Argento",
             "personalRating": "4",
-            "vote_average": 7.1,
+            "vote_average": 7.2,
             "runtime": 98
         },
         {
@@ -6302,7 +6316,7 @@
             "imdb_id": "tt5275828",
             "director": "Werner Herzog",
             "personalRating": "3",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 98
         },
         {
@@ -6346,7 +6360,7 @@
             "imdb_id": "tt0209942",
             "director": "Agn\u00e8s Varda",
             "personalRating": "4",
-            "vote_average": 6.0,
+            "vote_average": 6.7,
             "runtime": 31
         },
         {
@@ -6361,7 +6375,7 @@
             "runtime": 18
         },
         {
-            "poster_path": "/e2zRQBkXWWRThFO4LUsfm7IXJr0.jpg",
+            "poster_path": "/1Qk6h3kle87rNIcWQ06k41b3ZmA.jpg",
             "original_title": "Valley of the Dolls",
             "release_date": "1967",
             "watchDate": "2017-07-22",
@@ -6379,7 +6393,7 @@
             "imdb_id": "tt0065466",
             "director": "Russ Meyer",
             "personalRating": "2",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 109
         },
         {
@@ -6533,7 +6547,7 @@
             "imdb_id": "tt4682708",
             "director": "Emiliano Rocha Minter",
             "personalRating": "3",
-            "vote_average": 5.6,
+            "vote_average": 5.5,
             "runtime": 79
         },
         {
@@ -6632,7 +6646,7 @@
             "imdb_id": "tt1945228",
             "director": "Terrence Malick",
             "personalRating": "5",
-            "vote_average": 6.3,
+            "vote_average": 6.4,
             "runtime": 90
         },
         {
@@ -6643,11 +6657,11 @@
             "imdb_id": "tt6265828",
             "director": "David Lowery",
             "personalRating": "6",
-            "vote_average": 6.8,
+            "vote_average": 6.9,
             "runtime": 92
         },
         {
-            "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
+            "poster_path": "/2yOKarmL8B4oXaLXUdHu882SUbu.jpg",
             "original_title": "mother!",
             "release_date": "2017",
             "watchDate": "2017-09-24",
@@ -6775,7 +6789,7 @@
             "imdb_id": "tt0060138",
             "director": "Robert Bresson",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 95
         },
         {
@@ -6786,7 +6800,7 @@
             "imdb_id": "tt0069019",
             "director": "Lucio Fulci",
             "personalRating": "4",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 105
         },
         {
@@ -6830,7 +6844,7 @@
             "imdb_id": "tt4714782",
             "director": "Olivier Assayas",
             "personalRating": "4",
-            "vote_average": 6.0,
+            "vote_average": 5.9,
             "runtime": 105
         },
         {
@@ -6841,7 +6855,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "6",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -6867,14 +6881,14 @@
             "runtime": 99
         },
         {
-            "poster_path": "/yXHtKHb1C8mTr9MsnqNW4GxaMOb.jpg",
+            "poster_path": "/aoACJ0PaICV8YOYrrqu26cvCLd1.jpg",
             "original_title": "L\u2019argent",
             "release_date": "1983",
             "watchDate": "2017-10-23",
             "imdb_id": "tt0085180",
             "director": "Robert Bresson",
             "personalRating": "6",
-            "vote_average": 6.8,
+            "vote_average": 6.7,
             "runtime": 85
         },
         {
@@ -6896,7 +6910,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "6",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -7006,7 +7020,7 @@
             "imdb_id": "tt1691152",
             "director": "Jon Nguyen, Rick Barnes, Olivia Neergaard-Holm",
             "personalRating": "4",
-            "vote_average": 7.3,
+            "vote_average": 7.2,
             "runtime": 88
         },
         {
@@ -7034,12 +7048,12 @@
         {
             "poster_path": "/7K965TdxB8iklexPxbBONiWR8JJ.jpg",
             "original_title": "Jeannette, l'enfance de Jeanne d'Arc",
-            "release_date": "2017",
+            "release_date": "2018",
             "watchDate": "2017-11-18",
             "imdb_id": "tt6340264",
             "director": "Bruno Dumont",
             "personalRating": "5",
-            "vote_average": 5.6,
+            "vote_average": 0.0,
             "runtime": 105
         },
         {
@@ -7116,7 +7130,7 @@
             "imdb_id": "tt0037008",
             "director": "Otto Preminger",
             "personalRating": "5",
-            "vote_average": 7.7,
+            "vote_average": 7.6,
             "runtime": 88
         },
         {
@@ -7138,7 +7152,7 @@
             "imdb_id": "tt0090015",
             "director": "Claude Lanzmann",
             "personalRating": "6",
-            "vote_average": 8.5,
+            "vote_average": 8.4,
             "runtime": 566
         },
         {
@@ -7149,7 +7163,7 @@
             "imdb_id": "tt2380307",
             "director": "Lee Unkrich",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 108
         },
         {
@@ -7215,8 +7229,8 @@
             "imdb_id": "tt3521126",
             "director": "James Franco",
             "personalRating": "5",
-            "vote_average": 7.4,
-            "runtime": 103
+            "vote_average": 7.3,
+            "runtime": 104
         },
         {
             "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
@@ -7226,7 +7240,7 @@
             "imdb_id": "tt0368226",
             "director": "Tommy Wiseau",
             "personalRating": "6",
-            "vote_average": 4.3,
+            "vote_average": 4.2,
             "runtime": 99
         },
         {
@@ -7292,7 +7306,7 @@
             "imdb_id": "tt5687334",
             "director": "Michel Hazanavicius",
             "personalRating": "3",
-            "vote_average": 7.2,
+            "vote_average": 7.0,
             "runtime": 102
         },
         {
@@ -7325,7 +7339,7 @@
             "imdb_id": "tt1016205",
             "director": "Naomi Kawase",
             "personalRating": "4",
-            "vote_average": 6.5,
+            "vote_average": 6.6,
             "runtime": 97
         },
         {
@@ -7446,7 +7460,7 @@
             "imdb_id": "tt0060138",
             "director": "Robert Bresson",
             "personalRating": "6",
-            "vote_average": 7.7,
+            "vote_average": 7.8,
             "runtime": 95
         },
         {
@@ -7479,7 +7493,7 @@
             "imdb_id": "tt5776858",
             "director": "Paul Thomas Anderson",
             "personalRating": "5",
-            "vote_average": 7.3,
+            "vote_average": 7.4,
             "runtime": 130
         },
         {
@@ -7499,7 +7513,7 @@
             "release_date": "2017",
             "watchDate": "2018-01-28",
             "imdb_id": "tt4846232",
-            "director": "Ben Safdie, Joshua Safdie",
+            "director": "Benny Safdie, Josh Safdie",
             "personalRating": "4",
             "vote_average": 7.0,
             "runtime": 101
@@ -7655,7 +7669,7 @@
             "imdb_id": "tt0090903",
             "director": "Lucio Fulci",
             "personalRating": "2",
-            "vote_average": 4.5,
+            "vote_average": 4.0,
             "runtime": 99
         },
         {
@@ -7666,7 +7680,7 @@
             "imdb_id": "tt0073155",
             "director": "Andrzej \u017bu\u0142awski",
             "personalRating": "4",
-            "vote_average": 7.6,
+            "vote_average": 7.4,
             "runtime": 109
         },
         {
@@ -7800,6 +7814,39 @@
             "personalRating": "4",
             "vote_average": 7.6,
             "runtime": 132
+        },
+        {
+            "poster_path": "/n9JxLthRHwTWwu5OjFHVplkVSUg.jpg",
+            "original_title": "Carrie",
+            "release_date": "1976",
+            "watchDate": "2018-02-17",
+            "imdb_id": "tt0074285",
+            "director": "Brian De Palma",
+            "personalRating": "6",
+            "vote_average": 7.1,
+            "runtime": 98
+        },
+        {
+            "poster_path": "/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg",
+            "original_title": "120 battements par minute",
+            "release_date": "2017",
+            "watchDate": "2018-02-18",
+            "imdb_id": "tt6135348",
+            "director": "Robin Campillo",
+            "personalRating": "5",
+            "vote_average": 8.0,
+            "runtime": 135
+        },
+        {
+            "poster_path": "/jIhIPFWIZgrIosfTmqqfdChIq9d.jpg",
+            "original_title": "The Cocoanuts",
+            "release_date": "1929",
+            "watchDate": "2018-02-24",
+            "imdb_id": "tt0019777",
+            "director": "Robert Florey, Joseph Santley",
+            "personalRating": "3",
+            "vote_average": 7.0,
+            "runtime": 96
         }
     ],
     "cinematographers": [
@@ -7947,12 +7994,12 @@
         ]
     ],
     "decades": {
-        "1920s": 2,
+        "1920s": 3,
         "1930s": 11,
         "1940s": 18,
         "1950s": 36,
         "1960s": 62,
-        "1970s": 81,
+        "1970s": 82,
         "1980s": 67,
         "1990s": 39,
         "2000s": 26,

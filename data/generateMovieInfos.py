@@ -74,6 +74,8 @@ def getGenre(movieInfo):
 def generateMovieInfos():
 	with open(watchedFile, "rU") as f:
 		for movie in f:
+			if '//' in movie:
+				continue
 			watchDate, imdbId, rating, useEnglishTitle = movie.strip().split(" ")
 			if movie:
 				print imdbId,
