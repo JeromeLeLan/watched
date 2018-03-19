@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 234,
+            "count": 237,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 51,
+            "count": 52,
             "name": "United Kingdom"
         },
         "CH": {
@@ -193,23 +193,23 @@
         "1920s": 3,
         "1930s": 11,
         "1940s": 18,
-        "1950s": 37,
+        "1950s": 39,
         "1960s": 63,
         "1970s": 82,
         "1980s": 67,
         "1990s": 39,
         "2000s": 26,
-        "2010s": 151
+        "2010s": 152
     },
     "genres": {
         "Drama": 304,
-        "Thriller": 110,
+        "Thriller": 112,
         "Comedy": 104,
-        "Horror": 80,
-        "Romance": 79,
-        "Mystery": 63,
-        "Science Fiction": 61,
-        "Adventure": 58,
+        "Horror": 81,
+        "Romance": 80,
+        "Mystery": 65,
+        "Science Fiction": 62,
+        "Adventure": 59,
         "Crime": 52,
         "Action": 51,
         "Documentary": 42,
@@ -219,7 +219,7 @@
         "History": 19,
         "War": 18,
         "Music": 17,
-        "Western": 6,
+        "Western": 7,
         "Foreign": 1
     },
     "actors": [
@@ -352,17 +352,17 @@
             }
         ],
         [
+            2636,
+            {
+                "count": 8,
+                "name": "Alfred Hitchcock"
+            }
+        ],
+        [
             4955,
             {
                 "count": 8,
                 "name": "Dario Argento"
-            }
-        ],
-        [
-            2636,
-            {
-                "count": 7,
-                "name": "Alfred Hitchcock"
             }
         ],
         [
@@ -611,6 +611,13 @@
             }
         ],
         [
+            2036,
+            {
+                "count": 2,
+                "name": "Alex Garland"
+            }
+        ],
+        [
             55934,
             {
                 "count": 2,
@@ -678,6 +685,13 @@
             {
                 "count": 2,
                 "name": "Ridley Scott"
+            }
+        ],
+        [
+            8500,
+            {
+                "count": 2,
+                "name": "John Ford"
             }
         ],
         [
@@ -961,13 +975,6 @@
             }
         ],
         [
-            2036,
-            {
-                "count": 1,
-                "name": "Alex Garland"
-            }
-        ],
-        [
             55936,
             {
                 "count": 1,
@@ -1231,13 +1238,6 @@
             {
                 "count": 1,
                 "name": "David Robert Mitchell"
-            }
-        ],
-        [
-            8500,
-            {
-                "count": 1,
-                "name": "John Ford"
             }
         ],
         [
@@ -4649,7 +4649,7 @@
             "watchDate": "2016-06-30",
             "personalRating": "4",
             "runtime": 108,
-            "poster_path": "/k2TMM0040HF3FS0gle3ZrK73pcX.jpg",
+            "poster_path": "/kz2M4dTY3MCb8PIy0xDjZF5qBew.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -7571,6 +7571,36 @@
             "runtime": 96,
             "poster_path": "/faPfcZ181gWmCoMbal7bAXFPFh9.jpg",
             "director": "George A. Romero"
+        },
+        {
+            "original_title": "The Searchers",
+            "imdb_id": "tt0049730",
+            "release_date": "1956",
+            "watchDate": "2018-03-17",
+            "personalRating": "6",
+            "runtime": 119,
+            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
+            "director": "John Ford"
+        },
+        {
+            "original_title": "Vertigo",
+            "imdb_id": "tt0052357",
+            "release_date": "1958",
+            "watchDate": "2018-03-18",
+            "personalRating": "6",
+            "runtime": 128,
+            "poster_path": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg",
+            "director": "Alfred Hitchcock"
+        },
+        {
+            "original_title": "Annihilation",
+            "imdb_id": "tt2798920",
+            "release_date": "2018",
+            "watchDate": "2018-03-18",
+            "personalRating": "4",
+            "runtime": 115,
+            "poster_path": "/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
+            "director": "Alex Garland"
         }
     ]
 }
