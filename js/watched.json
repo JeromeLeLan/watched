@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 143,
+            "count": 145,
             "name": "France"
         },
         "RU": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 25,
+            "count": 26,
             "name": "Japan"
         },
         "MX": {
@@ -200,28 +200,28 @@
         "1950s": 39,
         "1960s": 63,
         "1970s": 83,
-        "1980s": 70,
+        "1980s": 72,
         "1990s": 41,
         "2000s": 28,
-        "2010s": 154
+        "2010s": 155
     },
     "genres": {
-        "Drama": 311,
+        "Drama": 313,
         "Thriller": 116,
-        "Comedy": 106,
+        "Comedy": 108,
         "Horror": 83,
         "Romance": 82,
-        "Mystery": 67,
+        "Mystery": 68,
         "Science Fiction": 65,
         "Adventure": 58,
         "Crime": 53,
-        "Action": 50,
-        "Documentary": 43,
-        "Fantasy": 35,
+        "Action": 51,
+        "Documentary": 44,
+        "Fantasy": 36,
         "Family": 21,
+        "History": 20,
+        "War": 19,
         "Animation": 19,
-        "History": 19,
-        "War": 18,
         "Music": 15,
         "Western": 7
     },
@@ -283,17 +283,17 @@
             }
         ],
         [
+            121323,
+            {
+                "count": 7,
+                "name": "Bess Flowers"
+            }
+        ],
+        [
             1245,
             {
                 "count": 7,
                 "name": "Scarlett Johansson"
-            }
-        ],
-        [
-            11916,
-            {
-                "count": 6,
-                "name": "Liv Ullmann"
             }
         ]
     ],
@@ -376,17 +376,17 @@
             }
         ],
         [
+            6817,
+            {
+                "count": 7,
+                "name": "Agn\u00e8s Varda"
+            }
+        ],
+        [
             9789,
             {
                 "count": 6,
                 "name": "Robert Altman"
-            }
-        ],
-        [
-            6817,
-            {
-                "count": 6,
-                "name": "Agn\u00e8s Varda"
             }
         ],
         [
@@ -401,6 +401,13 @@
             {
                 "count": 5,
                 "name": "Krzysztof Kie\u015blowski"
+            }
+        ],
+        [
+            73153,
+            {
+                "count": 5,
+                "name": "Jacques Rivette"
             }
         ],
         [
@@ -450,13 +457,6 @@
             {
                 "count": 4,
                 "name": "Orson Welles"
-            }
-        ],
-        [
-            73153,
-            {
-                "count": 4,
-                "name": "Jacques Rivette"
             }
         ],
         [
@@ -513,6 +513,13 @@
             {
                 "count": 3,
                 "name": "Robert Zemeckis"
+            }
+        ],
+        [
+            5026,
+            {
+                "count": 3,
+                "name": "Akira Kurosawa"
             }
         ],
         [
@@ -681,13 +688,6 @@
             {
                 "count": 2,
                 "name": "Ethan Coen"
-            }
-        ],
-        [
-            5026,
-            {
-                "count": 2,
-                "name": "Akira Kurosawa"
             }
         ],
         [
@@ -1664,20 +1664,6 @@
             }
         ],
         [
-            1349420,
-            {
-                "count": 1,
-                "name": "Christine Cynn"
-            }
-        ],
-        [
-            1710652,
-            {
-                "count": 1,
-                "name": "Anonymous"
-            }
-        ],
-        [
             1295604,
             {
                 "count": 1,
@@ -1779,7 +1765,7 @@
             57607,
             {
                 "count": 1,
-                "name": "\u5468\u661f\u99b3"
+                "name": "Stephen Chow"
             }
         ],
         [
@@ -2565,6 +2551,13 @@
                 "count": 1,
                 "name": "Michel Gondry"
             }
+        ],
+        [
+            226050,
+            {
+                "count": 1,
+                "name": "JR"
+            }
         ]
     ],
     "cinematographers": [
@@ -3067,7 +3060,7 @@
             "watchDate": "2015-05-10",
             "personalRating": "3",
             "runtime": 96,
-            "poster_path": "/javNDira5CgkDhGicvj8Rdjlk3e.jpg",
+            "poster_path": "/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -3097,7 +3090,7 @@
             "watchDate": "2015-05-16",
             "personalRating": "4",
             "runtime": 125,
-            "poster_path": "/hK2KsU0lNiYRqIrYJcC3x63dPnH.jpg",
+            "poster_path": "/5Sukn9kDDoUQgoCZOR1YbbjxPoi.jpg",
             "director": "Charlie Chaplin"
         },
         {
@@ -3126,7 +3119,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-23",
             "personalRating": "1",
-            "runtime": 130,
+            "runtime": 129,
             "poster_path": "/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg",
             "director": "Matthew Vaughn"
         },
@@ -3827,7 +3820,7 @@
             "watchDate": "2015-12-06",
             "personalRating": "5",
             "runtime": 119,
-            "poster_path": "/n8wfFsQ5vtm6dM8vdgXb6OLv2GY.jpg",
+            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
             "director": "Orson Welles"
         },
         {
@@ -5098,7 +5091,7 @@
             "personalRating": "5",
             "runtime": 115,
             "poster_path": "/6ng86moS1tBdofRVMooOMCfW4TJ.jpg",
-            "director": "Joshua Oppenheimer, Christine Cynn, Anonymous"
+            "director": "Joshua Oppenheimer"
         },
         {
             "original_title": "The Look of Silence",
@@ -5377,7 +5370,7 @@
             "watchDate": "2016-12-20",
             "personalRating": "5",
             "runtime": 111,
-            "poster_path": "/fK4qnwqEgNjA3E5wR4BGnZdOJNp.jpg",
+            "poster_path": "/1NwZ6Sx4Eq7eT02abcI7YqfXdJk.jpg",
             "director": "Billy Wilder"
         },
         {
@@ -5418,7 +5411,7 @@
             "personalRating": "3",
             "runtime": 93,
             "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
-            "director": "\u5468\u661f\u99b3"
+            "director": "Stephen Chow"
         },
         {
             "original_title": "Office Space",
@@ -5767,7 +5760,7 @@
             "watchDate": "2017-04-01",
             "personalRating": "4",
             "runtime": 123,
-            "poster_path": "/xzrVrrYvqX1pCim77GBx4Twns7i.jpg",
+            "poster_path": "/teNPeDIRGWxtvMaJsNa7lw5IgiL.jpg",
             "director": "Jeff Nichols"
         },
         {
@@ -6237,7 +6230,7 @@
             "watchDate": "2017-07-22",
             "personalRating": "1",
             "runtime": 123,
-            "poster_path": "/1Qk6h3kle87rNIcWQ06k41b3ZmA.jpg",
+            "poster_path": "/e2zRQBkXWWRThFO4LUsfm7IXJr0.jpg",
             "director": "Mark Robson"
         },
         {
@@ -6247,7 +6240,7 @@
             "watchDate": "2017-07-22",
             "personalRating": "2",
             "runtime": 109,
-            "poster_path": "/82BGehJQFch1GENnT9j5KwTDQmJ.jpg",
+            "poster_path": "/i7xyO3wsswLVE7476psVeqwjuoU.jpg",
             "director": "Russ Meyer"
         },
         {
@@ -6596,7 +6589,7 @@
             "release_date": "2017",
             "watchDate": "2017-10-09",
             "personalRating": "3",
-            "runtime": null,
+            "runtime": 85,
             "poster_path": "/1tx8SwUVgtAbshLeoycZD3v6AmQ.jpg",
             "director": "Eric Judor"
         },
@@ -6927,7 +6920,7 @@
             "watchDate": "2017-11-22",
             "personalRating": "5",
             "runtime": 90,
-            "poster_path": "/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg",
+            "poster_path": "/2IS8i2FVKV9kD9KS3QJaEWcwHpx.jpg",
             "director": "Orson Welles"
         },
         {
@@ -7077,7 +7070,7 @@
             "watchDate": "2017-12-15",
             "personalRating": "3",
             "runtime": 102,
-            "poster_path": "/s8W4rU9MgCMX09X5iYXw9bGRVhl.jpg",
+            "poster_path": "/ltWxsC5S0v1uyOX46qcQm1N7VZf.jpg",
             "director": "Michel Hazanavicius"
         },
         {
@@ -7417,7 +7410,7 @@
             "watchDate": "2018-02-08",
             "personalRating": "4",
             "runtime": 109,
-            "poster_path": "/pmGmsrMwRUA0Ksrr0TAhRS8CElO.jpg",
+            "poster_path": "/9MJOLzJ4XICCspa2E61DWGbbnhP.jpg",
             "director": "Andrzej \u017bu\u0142awski"
         },
         {
@@ -7759,6 +7752,36 @@
             "runtime": 108,
             "poster_path": "/7y3eYvTsGjxPYDtSnumCLIMDkrV.jpg",
             "director": "Michel Gondry"
+        },
+        {
+            "original_title": "Visages, villages",
+            "imdb_id": "tt5598102",
+            "release_date": "2017",
+            "watchDate": "2018-04-08",
+            "personalRating": "5",
+            "runtime": 89,
+            "poster_path": "/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg",
+            "director": "Agn\u00e8s Varda, JR"
+        },
+        {
+            "original_title": "Kagemusha",
+            "imdb_id": "tt0080979",
+            "release_date": "1980",
+            "watchDate": "2018-04-14",
+            "personalRating": "4",
+            "runtime": 180,
+            "poster_path": "/5ZfxTO5IWuefPrUALF0GFKql4O0.jpg",
+            "director": "Akira Kurosawa"
+        },
+        {
+            "original_title": "Le Pont du Nord",
+            "imdb_id": "tt0082927",
+            "release_date": "1982",
+            "watchDate": "2018-04-15",
+            "personalRating": "4",
+            "runtime": 129,
+            "poster_path": "/qEOHWSbfDlHB7I2vKwFLLrd3Nc7.jpg",
+            "director": "Jacques Rivette"
         }
     ]
 }
