@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 145,
+            "count": 146,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 245,
+            "count": 248,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 54,
+            "count": 55,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 49,
+            "count": 50,
             "name": "Germany"
         },
         "TR": {
@@ -41,7 +41,7 @@
             "name": "Turkey"
         },
         "DK": {
-            "count": 10,
+            "count": 11,
             "name": "Denmark"
         },
         "ES": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 26,
+            "count": 27,
             "name": "Japan"
         },
         "MX": {
@@ -198,30 +198,30 @@
         "1930s": 12,
         "1940s": 19,
         "1950s": 39,
-        "1960s": 63,
+        "1960s": 65,
         "1970s": 83,
-        "1980s": 72,
+        "1980s": 74,
         "1990s": 41,
         "2000s": 28,
-        "2010s": 155
+        "2010s": 157
     },
     "genres": {
-        "Drama": 313,
-        "Thriller": 116,
-        "Comedy": 108,
-        "Horror": 83,
-        "Romance": 82,
-        "Mystery": 68,
+        "Drama": 316,
+        "Thriller": 118,
+        "Comedy": 109,
+        "Horror": 85,
+        "Romance": 84,
+        "Mystery": 69,
         "Science Fiction": 65,
-        "Adventure": 58,
+        "Adventure": 59,
         "Crime": 53,
         "Action": 51,
         "Documentary": 44,
         "Fantasy": 36,
         "Family": 21,
+        "Animation": 20,
         "History": 20,
         "War": 19,
-        "Animation": 19,
         "Music": 15,
         "Western": 7
     },
@@ -276,6 +276,13 @@
             }
         ],
         [
+            1245,
+            {
+                "count": 8,
+                "name": "Scarlett Johansson"
+            }
+        ],
+        [
             98774,
             {
                 "count": 8,
@@ -283,17 +290,10 @@
             }
         ],
         [
-            121323,
+            11901,
             {
                 "count": 7,
-                "name": "Bess Flowers"
-            }
-        ],
-        [
-            1245,
-            {
-                "count": 7,
-                "name": "Scarlett Johansson"
+                "name": "Dennis Franz"
             }
         ]
     ],
@@ -411,6 +411,13 @@
             }
         ],
         [
+            11572,
+            {
+                "count": 5,
+                "name": "Carl Theodor Dreyer"
+            }
+        ],
+        [
             8452,
             {
                 "count": 4,
@@ -481,17 +488,17 @@
             }
         ],
         [
-            11572,
-            {
-                "count": 4,
-                "name": "Carl Theodor Dreyer"
-            }
-        ],
-        [
             7467,
             {
                 "count": 3,
                 "name": "David Fincher"
+            }
+        ],
+        [
+            24882,
+            {
+                "count": 3,
+                "name": "Jacques Demy"
             }
         ],
         [
@@ -544,6 +551,13 @@
             }
         ],
         [
+            67075,
+            {
+                "count": 3,
+                "name": "Sion Sono"
+            }
+        ],
+        [
             3146,
             {
                 "count": 3,
@@ -576,13 +590,6 @@
             {
                 "count": 2,
                 "name": "Damien Chazelle"
-            }
-        ],
-        [
-            24882,
-            {
-                "count": 2,
-                "name": "Jacques Demy"
             }
         ],
         [
@@ -674,6 +681,13 @@
             {
                 "count": 2,
                 "name": "Sam Mendes"
+            }
+        ],
+        [
+            5655,
+            {
+                "count": 2,
+                "name": "Wes Anderson"
             }
         ],
         [
@@ -772,13 +786,6 @@
             {
                 "count": 2,
                 "name": "Joshua Oppenheimer"
-            }
-        ],
-        [
-            67075,
-            {
-                "count": 2,
-                "name": "Sion Sono"
             }
         ],
         [
@@ -1094,13 +1101,6 @@
             {
                 "count": 1,
                 "name": "Alexander Mackendrick"
-            }
-        ],
-        [
-            5655,
-            {
-                "count": 1,
-                "name": "Wes Anderson"
             }
         ],
         [
@@ -2558,6 +2558,20 @@
                 "count": 1,
                 "name": "JR"
             }
+        ],
+        [
+            5281,
+            {
+                "count": 1,
+                "name": "Spike Lee"
+            }
+        ],
+        [
+            29471,
+            {
+                "count": 1,
+                "name": "Richard Franklin"
+            }
         ]
     ],
     "cinematographers": [
@@ -2604,6 +2618,13 @@
             }
         ],
         [
+            1060,
+            {
+                "count": 5,
+                "name": "Dean Cundey"
+            }
+        ],
+        [
             6652,
             {
                 "count": 4,
@@ -2622,13 +2643,6 @@
             {
                 "count": 4,
                 "name": "L\u00e9once-Henri Burel"
-            }
-        ],
-        [
-            74401,
-            {
-                "count": 4,
-                "name": "Hoyte van Hoytema"
             }
         ]
     ],
@@ -3240,7 +3254,7 @@
             "watchDate": "2015-06-16",
             "personalRating": "6",
             "runtime": 98,
-            "poster_path": "/bkPgbZQPqQG0LMSu32SDhTQVGen.jpg",
+            "poster_path": "/bGjEQLp7aF3dT3nXv4gEXnG02TI.jpg",
             "director": "Brian De Palma"
         },
         {
@@ -3780,7 +3794,7 @@
             "watchDate": "2015-11-29",
             "personalRating": "5",
             "runtime": 122,
-            "poster_path": "/6o0UWX2naW7HK45PDNYmoMIk5qs.jpg",
+            "poster_path": "/nBaqryObPuxmuAndWUjDE5rriTd.jpg",
             "director": "Joel Coen, Ethan Coen"
         },
         {
@@ -4250,7 +4264,7 @@
             "watchDate": "2016-03-26",
             "personalRating": "6",
             "runtime": 147,
-            "poster_path": "/oKyY4TFaLjQTgyX8oRde82GinOw.jpg",
+            "poster_path": "/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
             "director": "David Lynch"
         },
         {
@@ -5960,7 +5974,7 @@
             "watchDate": "2017-06-06",
             "personalRating": "6",
             "runtime": 163,
-            "poster_path": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+            "poster_path": "/ezt0Z9wIcPIxiks0J4dm8zJn575.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -7782,6 +7796,66 @@
             "runtime": 129,
             "poster_path": "/qEOHWSbfDlHB7I2vKwFLLrd3Nc7.jpg",
             "director": "Jacques Rivette"
+        },
+        {
+            "original_title": "Do the Right Thing",
+            "imdb_id": "tt0097216",
+            "release_date": "1989",
+            "watchDate": "2018-04-16",
+            "personalRating": "4",
+            "runtime": 120,
+            "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+            "director": "Spike Lee"
+        },
+        {
+            "original_title": "La Baie des Anges",
+            "imdb_id": "tt0056846",
+            "release_date": "1963",
+            "watchDate": "2018-04-19",
+            "personalRating": "5",
+            "runtime": 84,
+            "poster_path": "/fEZLgOaTPU4EnjqZZteKORoZslX.jpg",
+            "director": "Jacques Demy"
+        },
+        {
+            "original_title": "Psycho II",
+            "imdb_id": "tt0086154",
+            "release_date": "1983",
+            "watchDate": "2018-04-20",
+            "personalRating": "4",
+            "runtime": 113,
+            "poster_path": "/tYNx7yIU9Q3O2xxjy3ie5YCkIak.jpg",
+            "director": "Richard Franklin"
+        },
+        {
+            "original_title": "Gertrud",
+            "imdb_id": "tt0058138",
+            "release_date": "1964",
+            "watchDate": "2018-04-21",
+            "personalRating": "5",
+            "runtime": 119,
+            "poster_path": "/jDS2ynVUcyUJzVg4ffzn9MFqVrD.jpg",
+            "director": "Carl Theodor Dreyer"
+        },
+        {
+            "original_title": "Tag",
+            "imdb_id": "tt4439120",
+            "release_date": "2015",
+            "watchDate": "2018-04-22",
+            "personalRating": "3",
+            "runtime": 85,
+            "poster_path": "/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg",
+            "director": "Sion Sono"
+        },
+        {
+            "original_title": "Isle of Dogs",
+            "imdb_id": "tt5104604",
+            "release_date": "2018",
+            "watchDate": "2018-04-22",
+            "personalRating": "3",
+            "runtime": 101,
+            "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+            "director": "Wes Anderson"
         }
     ]
 }
