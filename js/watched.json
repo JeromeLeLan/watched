@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 146,
+            "count": 147,
             "name": "France"
         },
         "RU": {
@@ -13,15 +13,15 @@
             "name": "Italy"
         },
         "US": {
-            "count": 248,
+            "count": 250,
             "name": "United States of America"
         },
         "SE": {
-            "count": 25,
+            "count": 27,
             "name": "Sweden"
         },
         "GB": {
-            "count": 55,
+            "count": 56,
             "name": "United Kingdom"
         },
         "CH": {
@@ -97,7 +97,7 @@
             "name": "Malaysia"
         },
         "KR": {
-            "count": 6,
+            "count": 7,
             "name": "South Korea"
         },
         "DO": {
@@ -195,41 +195,41 @@
     },
     "decades": {
         "1920s": 3,
-        "1930s": 12,
+        "1930s": 13,
         "1940s": 19,
         "1950s": 39,
-        "1960s": 65,
-        "1970s": 83,
+        "1960s": 66,
+        "1970s": 84,
         "1980s": 74,
         "1990s": 41,
         "2000s": 28,
-        "2010s": 157
+        "2010s": 159
     },
     "genres": {
-        "Drama": 316,
-        "Thriller": 118,
-        "Comedy": 109,
-        "Horror": 85,
+        "Drama": 319,
+        "Thriller": 121,
+        "Comedy": 110,
+        "Horror": 86,
         "Romance": 84,
-        "Mystery": 69,
+        "Mystery": 70,
         "Science Fiction": 65,
-        "Adventure": 59,
-        "Crime": 53,
+        "Adventure": 60,
+        "Crime": 54,
         "Action": 51,
         "Documentary": 44,
         "Fantasy": 36,
         "Family": 21,
+        "War": 20,
         "Animation": 20,
         "History": 20,
-        "War": 19,
-        "Music": 15,
+        "Music": 16,
         "Western": 7
     },
     "actors": [
         [
             6649,
             {
-                "count": 11,
+                "count": 12,
                 "name": "Gunnar Bj\u00f6rnstrand"
             }
         ],
@@ -241,6 +241,13 @@
             }
         ],
         [
+            2201,
+            {
+                "count": 10,
+                "name": "Max von Sydow"
+            }
+        ],
+        [
             6818,
             {
                 "count": 10,
@@ -248,10 +255,10 @@
             }
         ],
         [
-            2201,
+            11916,
             {
                 "count": 8,
-                "name": "Max von Sydow"
+                "name": "Liv Ullmann"
             }
         ],
         [
@@ -288,20 +295,13 @@
                 "count": 8,
                 "name": "Fulvio Mingozzi"
             }
-        ],
-        [
-            11901,
-            {
-                "count": 7,
-                "name": "Dennis Franz"
-            }
         ]
     ],
     "directors": [
         [
             6648,
             {
-                "count": 19,
+                "count": 20,
                 "name": "Ingmar Bergman"
             }
         ],
@@ -2572,13 +2572,41 @@
                 "count": 1,
                 "name": "Richard Franklin"
             }
+        ],
+        [
+            69081,
+            {
+                "count": 1,
+                "name": "Kim Jee-woon"
+            }
+        ],
+        [
+            82389,
+            {
+                "count": 1,
+                "name": "Norman Z. McLeod"
+            }
+        ],
+        [
+            27014,
+            {
+                "count": 1,
+                "name": "Jan Troell"
+            }
+        ],
+        [
+            83287,
+            {
+                "count": 1,
+                "name": "Lynne Ramsay"
+            }
         ]
     ],
     "cinematographers": [
         [
             11905,
             {
-                "count": 17,
+                "count": 18,
                 "name": "Sven Nykvist"
             }
         ],
@@ -3374,7 +3402,7 @@
             "watchDate": "2015-07-29",
             "personalRating": "4",
             "runtime": 103,
-            "poster_path": "/zTfR7eZR7johzHzRpkr7cWCkLrm.jpg",
+            "poster_path": "/gl7uT1nm7kpi4Fv0YMgv2C1dGj3.jpg",
             "director": "David Cronenberg"
         },
         {
@@ -4024,7 +4052,7 @@
             "watchDate": "2016-01-17",
             "personalRating": "4",
             "runtime": 139,
-            "poster_path": "/zpaWzCSCPOxHFXTwOQ3QcHA7llZ.jpg",
+            "poster_path": "/7mzlay0miUkplT0EsKdR8znOVpe.jpg",
             "director": "Sh\u014dhei Imamura"
         },
         {
@@ -5694,7 +5722,7 @@
             "watchDate": "2017-03-05",
             "personalRating": "5",
             "runtime": 129,
-            "poster_path": "/5Z7WhbH9yinIcvEDtUUbbMUQHRY.jpg",
+            "poster_path": "/jZDRazOQhKFGoK322rYiBk1fpsY.jpg",
             "director": "Frank Capra"
         },
         {
@@ -7856,6 +7884,56 @@
             "runtime": 101,
             "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
             "director": "Wes Anderson"
+        },
+        {
+            "original_title": "I Saw the Devil",
+            "imdb_id": "tt1588170",
+            "release_date": "2010",
+            "watchDate": "2018-04-24",
+            "personalRating": "4",
+            "runtime": 141,
+            "poster_path": "/xhlXnzQRlDab04sUMVR9bzyDPpr.jpg",
+            "director": "Kim Jee-woon"
+        },
+        {
+            "original_title": "Monkey Business",
+            "imdb_id": "tt0022158",
+            "release_date": "1931",
+            "watchDate": "2018-04-25",
+            "personalRating": "3",
+            "runtime": 77,
+            "poster_path": "/xMrvQ2iokk4BNteFJEbM6SR0qKY.jpg",
+            "director": "Norman Z. McLeod"
+        },
+        {
+            "original_title": "Skammen",
+            "imdb_id": "tt0063611",
+            "release_date": "1968",
+            "watchDate": "2018-04-27",
+            "personalRating": "5",
+            "runtime": 103,
+            "poster_path": "/6AWXQYHEJicwhPfsDf250D4XHjW.jpg",
+            "director": "Ingmar Bergman"
+        },
+        {
+            "original_title": "The Emigrants",
+            "imdb_id": "tt0067919",
+            "release_date": "1971",
+            "watchDate": "2018-04-28",
+            "personalRating": "6",
+            "runtime": 191,
+            "poster_path": "/rKy7ehB1pwnLstyP0DbynmLZFXf.jpg",
+            "director": "Jan Troell"
+        },
+        {
+            "original_title": "You Were Never Really Here",
+            "imdb_id": "tt5742374",
+            "release_date": "2017",
+            "watchDate": "2018-04-28",
+            "personalRating": "2",
+            "runtime": 89,
+            "poster_path": "/ktPbjD6nYg5NxmeTt72Iqaw5GD0.jpg",
+            "director": "Lynne Ramsay"
         }
     ]
 }
