@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 147,
+            "count": 148,
             "name": "France"
         },
         "RU": {
@@ -13,15 +13,15 @@
             "name": "Italy"
         },
         "US": {
-            "count": 250,
+            "count": 252,
             "name": "United States of America"
         },
         "SE": {
-            "count": 27,
+            "count": 28,
             "name": "Sweden"
         },
         "GB": {
-            "count": 56,
+            "count": 57,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 50,
+            "count": 51,
             "name": "Germany"
         },
         "TR": {
@@ -41,7 +41,7 @@
             "name": "Turkey"
         },
         "DK": {
-            "count": 11,
+            "count": 12,
             "name": "Denmark"
         },
         "ES": {
@@ -200,20 +200,20 @@
         "1950s": 39,
         "1960s": 66,
         "1970s": 84,
-        "1980s": 74,
-        "1990s": 41,
+        "1980s": 75,
+        "1990s": 42,
         "2000s": 28,
-        "2010s": 159
+        "2010s": 160
     },
     "genres": {
-        "Drama": 319,
-        "Thriller": 121,
-        "Comedy": 110,
+        "Drama": 321,
+        "Thriller": 122,
+        "Comedy": 111,
         "Horror": 86,
         "Romance": 84,
         "Mystery": 70,
         "Science Fiction": 65,
-        "Adventure": 60,
+        "Adventure": 61,
         "Crime": 54,
         "Action": 51,
         "Documentary": 44,
@@ -523,6 +523,13 @@
             }
         ],
         [
+            1223,
+            {
+                "count": 3,
+                "name": "Joel Coen"
+            }
+        ],
+        [
             5026,
             {
                 "count": 3,
@@ -590,6 +597,13 @@
             {
                 "count": 2,
                 "name": "Damien Chazelle"
+            }
+        ],
+        [
+            56370,
+            {
+                "count": 2,
+                "name": "Ruben \u00d6stlund"
             }
         ],
         [
@@ -688,13 +702,6 @@
             {
                 "count": 2,
                 "name": "Wes Anderson"
-            }
-        ],
-        [
-            1223,
-            {
-                "count": 2,
-                "name": "Joel Coen"
             }
         ],
         [
@@ -968,13 +975,6 @@
             {
                 "count": 1,
                 "name": "Michelangelo Antonioni"
-            }
-        ],
-        [
-            56370,
-            {
-                "count": 1,
-                "name": "Ruben \u00d6stlund"
             }
         ],
         [
@@ -1765,7 +1765,7 @@
             57607,
             {
                 "count": 1,
-                "name": "Stephen Chow"
+                "name": "\u5468\u661f\u99b3"
             }
         ],
         [
@@ -2600,6 +2600,13 @@
                 "count": 1,
                 "name": "Lynne Ramsay"
             }
+        ],
+        [
+            29342,
+            {
+                "count": 1,
+                "name": "Noel Marshall"
+            }
         ]
     ],
     "cinematographers": [
@@ -2641,7 +2648,7 @@
         [
             151,
             {
-                "count": 5,
+                "count": 6,
                 "name": "Roger Deakins"
             }
         ],
@@ -3742,7 +3749,7 @@
             "watchDate": "2015-11-17",
             "personalRating": "6",
             "runtime": 114,
-            "poster_path": "/rW2L97Dn5XLCY3hraTVlFYAF1HD.jpg",
+            "poster_path": "/cCSFOZh20p1p6qEdiHazFW9sdOh.jpg",
             "director": "Brian De Palma"
         },
         {
@@ -4272,7 +4279,7 @@
             "watchDate": "2016-03-21",
             "personalRating": "4",
             "runtime": 110,
-            "poster_path": "/ojCExCbdukNnc2BSVukVystY7o9.jpg",
+            "poster_path": "/20D1aU0gTrWwE6RWYKbDvgSCiJx.jpg",
             "director": "Ettore Scola"
         },
         {
@@ -5453,7 +5460,7 @@
             "personalRating": "3",
             "runtime": 93,
             "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
-            "director": "Stephen Chow"
+            "director": "\u5468\u661f\u99b3"
         },
         {
             "original_title": "Office Space",
@@ -6042,7 +6049,7 @@
             "watchDate": "2017-06-17",
             "personalRating": "4",
             "runtime": 130,
-            "poster_path": "/hBYHdsSxOA2zQLiuiJyPsk9IhUw.jpg",
+            "poster_path": "/mwEuBWMJyebtJ1OP4W2jeRcVf3k.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -7282,7 +7289,7 @@
             "watchDate": "2018-01-22",
             "personalRating": "5",
             "runtime": 130,
-            "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
+            "poster_path": "/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg",
             "director": "Paul Thomas Anderson"
         },
         {
@@ -7934,6 +7941,36 @@
             "runtime": 89,
             "poster_path": "/ktPbjD6nYg5NxmeTt72Iqaw5GD0.jpg",
             "director": "Lynne Ramsay"
+        },
+        {
+            "original_title": "Barton Fink",
+            "imdb_id": "tt0101410",
+            "release_date": "1991",
+            "watchDate": "2018-04-29",
+            "personalRating": "2",
+            "runtime": 116,
+            "poster_path": "/e0YvBTPwIL6Jb29glF3LE9n8GH2.jpg",
+            "director": "Joel Coen"
+        },
+        {
+            "original_title": "Roar",
+            "imdb_id": "tt0083001",
+            "release_date": "1981",
+            "watchDate": "2018-04-29",
+            "personalRating": "5",
+            "runtime": 102,
+            "poster_path": "/3v5T5ahdzSg8EzPddprTaEeAmrM.jpg",
+            "director": "Noel Marshall"
+        },
+        {
+            "original_title": "The Square",
+            "imdb_id": "tt4995790",
+            "release_date": "2017",
+            "watchDate": "2018-05-02",
+            "personalRating": "5",
+            "runtime": 151,
+            "poster_path": "/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg",
+            "director": "Ruben \u00d6stlund"
         }
     ]
 }
